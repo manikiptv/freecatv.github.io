@@ -4,4 +4,4 @@
 
 
 
-When using free IPTV m3u files, always download the files by checking <span style="color: red;">publication date</span>.&nbsp;<div>Visit my website to download the m3u file .</div><div>👇&nbsp;</div><div><b><a href="https://freecatv.blogspot.com/" target="_blank">Freecatv Live IPTV</a></b></div>
+When using free IPTV m3u files, always download the files by checking <span style="color: red;">publication date</span>.&nbsp; Visit my website to download the m3u file .</div><div>👇&nbsp;</div><div><b><a href="https://freecatv.blogspot.com/" target="_blank">Freecatv Live IPTV</a></b></div>
