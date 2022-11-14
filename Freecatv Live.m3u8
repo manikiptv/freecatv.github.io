@@ -20,3 +20,5 @@ http://89.187.175.143:80/3115/index.m3u8
 http://89.187.175.143:80/3113/index.m3u8
 #EXTINF:-1 ,Star Sports 1 Freecatv Live IPTV
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Supersport Action Africa
+https://webudi.openhd.lol/lb/premium420/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
