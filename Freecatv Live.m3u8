@@ -10,8 +10,6 @@ http://175.107.244.52:4455/play/a00t/index.m3u8
 http://175.107.244.52:4455/play/a00u/index.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD Freecatv Live IPTV
 http://175.107.244.52:4455/play/a00v/index.m3u8
-#EXTINF:-1 ,ESPN+ Freecatv Live IPTV
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
 #EXTINF:-1 ,FOX SPORTS 1 HD Freecatv Live IPTV
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1 ,FOX SPORTS 2 HD Freecatv Live IPTV
@@ -20,7 +18,5 @@ http://89.187.175.143:80/3028/index.m3u8
 http://89.187.175.143:80/3115/index.m3u8
 #EXTINF:-1 ,FOX SPORTS NORTH HD Freecatv Live IPTV
 http://89.187.175.143:80/3113/index.m3u8
-#EXTINF:-1 ,ESPN Freecatv Live IPTV
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
 #EXTINF:-1 ,Star Sports 1 Freecatv Live IPTV
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
