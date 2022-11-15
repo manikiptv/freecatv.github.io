@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0,True Premier Football HD 3
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
+#EXTINF:0,True Premier Football HD 3/1
+https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
+#EXTINF:0,True Premier Football HD 2
+https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
+#EXTINF:0,True Premier Football HD 2/1
+https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
+#EXTINF:0,True Premier Football HD 1 TH
+https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8
 #EXTINF:-1 group-title="freecatv",Star Sports 1 HD
 http://172.16.29.250/hls/stersports1hd.m3u8
 #EXTINF:-1 group-title="freecatv",Star Sports 2 HD
