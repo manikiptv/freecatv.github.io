@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,BEINsport 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:0,True Premier Football HD 3
 https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
 #EXTINF:0,True Premier Football HD 3/1
