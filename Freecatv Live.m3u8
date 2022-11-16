@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1, SUPERSPORT 4 🇦🇱
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116925.ts
+#EXTINF:-1, SUPERSPORT 4 🇦🇱
+http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1318.ts
+#EXTINF:-1, SUPERSPORT 3 🇦🇱
+http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/3638.ts
+#EXTINF:-1, SUPERSPORT 2 🇦🇱
+http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1312.ts
+#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+#EXTINF:-1,beIN Sports 1 English HD 🇬🇧
+http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
 #EXTINF:-1 ,BEINsport 2
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:0,True Premier Football HD 3
