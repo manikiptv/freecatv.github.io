@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Domino  SPORT",UK: SKY SPORTS FOOTBALL
+#EXTINF:-1 , EDGE SPORTS U.S.A [HD]
+https://edgesport-samsungus.amagi.tv/playlist720p.m3u8?checkedby:D4N-IPTV
+#EXTINF:-1 ,SKY SPORTS FOOTBALL
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/104048
 #EXTINF:-1,beiN Sport 2 English
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
