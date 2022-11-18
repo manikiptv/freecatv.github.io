@@ -69,4 +69,9 @@ https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
 http://45.127.244.7:8080/hls/channel7.m3u8
 #EXTINF:-1 ,Sony Ten freecatv
 http://45.127.244.7:8080/hls/channel5.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d96d4ec1a73623b5789d78a48b829d10:1ca8dd93af16c84fa1ef5f1b761a03e3
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="SPORTS",BEIN SPORTS 1
+https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
+
 
