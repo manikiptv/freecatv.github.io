@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,Sony Sports 1
-http://45.127.244.7:8080/hls/channel5.m3u8
+http://172.16.29.250/hls/sonyten1.m3u8
 #EXTINF:-1 ,FOX SPORTS 1 HD
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:-1 ,FOX SPORTS 2 HD
