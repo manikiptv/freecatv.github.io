@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,beIN Sports 1
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94484&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 ,beIN Sports 2
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94480&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 ,beIN Sports 3
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94476&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 ,beIN Sports 4
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94472&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 ,SONY TEN 5 HD
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 #EXTINF:-1 ,Ten Sports HD
