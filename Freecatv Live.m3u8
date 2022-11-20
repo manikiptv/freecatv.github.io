@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 ,SUPERSPORT Grandstand
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2629.m3u8
+#EXTINF:-1 , SUPERSPORT PSL
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2630.m3u8
+#EXTINF:-1 ,SUPERSPORT Premier league
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2631.m3u8
+#EXTINF:-1 ,SUPERSPORT LaLiga
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2632.m3u8
+#EXTINF:-1 ,SUPERSPORT Football
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2633.m3u8
+#EXTINF:-1 ,SUPERSPORT Variety 1
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2634.m3u8
+#EXTINF:-1 ,SUPERSPORT Variety 2
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2635.m3u8
+#EXTINF:-1 ,SUPERSPORT Blitz
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2636.m3u8
+#EXTINF:-1 ,SUPERSPORT Variety 4
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2637.m3u8
+#EXTINF:-1 ,SUPERSPORT Variety 3
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2638.m3u8
+#EXTINF:-1 ,SUPERSPORT Action
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2639.m3u8
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [HD]
+http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
+#EXTINF:-1 ,SKY SPORTS FOOTBALL [FHD]
+http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
+#EXTINF:-1 ,SKY SPORTS FOOTBALL [HD]
+http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
 #EXTINF:-1 ,SONY TEN 5 HD
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 #EXTINF:-1 ,Ten Sports HD
