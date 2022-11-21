@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,SUPERSPORT PSL
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2630.m3u8
-#EXTINF:-1 ,SUPERSPORT Action
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2639.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [FHD]
 http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [HD]
@@ -11,18 +7,6 @@ http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
 http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
 #EXTINF:-1 ,SKY SPORTS FOOTBALL [HD]
 http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
-#EXTINF:-1 ,beIN Sports 1
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94484&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 ,beIN Sports 2
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94480&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 ,beIN Sports 3
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94476&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 ,BeIN Sports 2 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
-#EXTINF:-1 ,BeIN Sports 1  Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
-#EXTINF:-1 ,Bein Sports Xtra
-https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:-1 ,beINSPORTS 1 HD+
 http://2111.space:8080/live/hossam1/hossam1/42486.ts
 #EXTINF:-1 ,SPORT TV 1 🇵🇹
