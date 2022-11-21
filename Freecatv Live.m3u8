@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  ,Star sports Select 1 HD
+http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [FHD]
 http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [HD]
