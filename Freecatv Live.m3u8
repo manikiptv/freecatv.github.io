@@ -1,24 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,SUPERSPORT Grandstand
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2629.m3u8
-#EXTINF:-1 , SUPERSPORT PSL
+#EXTINF:-1 ,beIN SPORTS English 1FHD
+http://my.giant-iptv.com:8080/7654321/1234567/14013
+#EXTINF:-1 ,manik iptv
+http://my.giant-iptv.com:8080/7654321/1234567/14014
+#EXTINF:-1 ,SUPERSPORT PSL
 http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2630.m3u8
-#EXTINF:-1 ,SUPERSPORT Premier league
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2631.m3u8
-#EXTINF:-1 ,SUPERSPORT LaLiga
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2632.m3u8
-#EXTINF:-1 ,SUPERSPORT Football
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2633.m3u8
-#EXTINF:-1 ,SUPERSPORT Variety 1
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2634.m3u8
-#EXTINF:-1 ,SUPERSPORT Variety 2
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2635.m3u8
-#EXTINF:-1 ,SUPERSPORT Blitz
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2636.m3u8
-#EXTINF:-1 ,SUPERSPORT Variety 4
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2637.m3u8
-#EXTINF:-1 ,SUPERSPORT Variety 3
-http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2638.m3u8
 #EXTINF:-1 ,SUPERSPORT Action
 http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2639.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [FHD]
@@ -41,18 +27,6 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94472&extens
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
 #EXTINF:-1 ,Ten Sports HD
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
-#EXTINF:-1 ,BeIN Sports 1
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
-#EXTINF:-1 ,BeIN Sports 2
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
-#EXTINF:-1 ,BeIN Sports 3
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
-#EXTINF:-1 ,BeIN Sports 5
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
-#EXTINF:-1 ,BeIN Sports Extra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 ,BeIN Sports 1 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
 #EXTINF:-1 ,BeIN Sports 2 MAX
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
 #EXTINF:-1 ,BeIN Sports 1  Premium
@@ -69,8 +43,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
 http://161.230.47.149:4344/play/a01k
 #EXTINF:-1 ,DIRECTV SPORTS 🇦🇷
 http://200.52.154.125:8000/play/a06p/index.m3u8
-#EXTINF:-1 ,TVP Sport HD 🇵🇱
-http://195.189.62.148:8000/play/a06b
 #EXTINF:-1 ,RTSH Sport 🇦🇱
 http://95.107.132.105/out/u/638_1.m3u8
 #EXTINF:-1 ,RTSH Sport 🇦🇱
@@ -97,20 +69,6 @@ http://194.44.48.82:8002/play/a08d
 http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
 #EXTINF:-1 ,ESPN DEPORTES 🇦🇷
 http://38.143.137.221:8000/LA81/index.m3u8
-#EXTINF:-1 ,ARENA SPORT 6 CRO 🇭🇷
-http://5.182.229.90:8080/7334/index.m3u8
-#EXTINF:-1 ,ARENA SPORT 6 CRO 🇭🇷
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/85134.m3u8
-#EXTINF:-1 ,S SPORT HD 🇹🇷
-https://v2.hugo11.cc/ssport1/index.m3u8
-#EXTINF:-1 ,MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:-1 ,M. LA LIGA 🇪🇸
-http://200.52.154.125:8000/play/a06f/index.m3u8
-#EXTINF:-1 ,LALIGA TV 🇪🇸
-http://188.26.204.204:8888/play/a084
-#EXTINF:-1 ,DAZN LALIGA 🇪🇸
-http://188.26.204.204:8888/play/a0bb
 #EXTINF:-1 ,LALIGA TV 🇪🇸
 http://188.26.204.204:8888/play/davidALCARRER
 #EXTINF:-1 ,SKY SPORTS 🇲🇽
@@ -133,42 +91,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 http://golive.yn.lt/live/bola/01.m3u8
 #EXTINF:-1 ,MTV INDIA 🇮🇳
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
-http://92.119.88.58:8080/271/index.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
-http://92.119.88.58:8080/270/index.m3u8
-#EXTINF:-1 ,DIRECTV SPORTS 2 🇦🇷
-http://200.52.154.125:8000/play/a06o/index.m3u8
-#EXTINF:-1 ,DirecTV Sports 1 🇦🇷
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 ,DIRECTV SPORT 2 🇦🇷
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
-#EXTINF:-1 ,ESPN 2 🇦🇷
-http://190.60.37.69:8015/play/a01e/index.m3u8
-#EXTINF:-1 ,ESPN 3 🇦🇷
-http://190.60.37.69:8015/play/a04i/index.m3u8
-#EXTINF:-1 ,ESPN 4 🇦🇷
-http://190.60.37.69:8015/play/a02n/index.m3u8
-#EXTINF:-1 ,ESPN EXTRA 🇦🇷
-http://38.143.137.221:8000/LA78/index.m3u8
-#EXTINF:-1 ,ESPN EXTRA 🇦🇷
-http://190.60.37.69:8015/play/a037/index.m3u8
-#EXTINF:-1 ,ESPN 3 🇦🇷
-http://38.143.137.221:8000/LA79/index.m3u8
-#EXTINF:-1 ,Bein Sport 1 FR 🇫🇷
-http://w4.12all.tv:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 ,Bein Sports 2 FR 🇫🇷
-http://w4.12all.tv:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 ,Bein Sports 3 FR 🇫🇷
-http://w4.12all.tv:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 ,Eleven Sports Pro League 1 🇫🇷
-http://37.235.38.139:4000/play/a0c7
-#EXTINF:-1 ,INFOSPORT+ 🇫🇷
-http://37.235.38.139:4000/play/a00n
-#EXTINF:-1 ,beIN Sports 1 English HD 🇬🇧
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1 ,beIN Sports 2 English HD 🇬🇧
-http://175.107.244.52:4457/play/a06z/index.m3u8
 #EXTINF:-1 ,BEIN SPORT 3 🇬🇧
 http://175.107.244.52:4457/play/a06x/index.m3u8
 #EXTINF:-1 ,BEIN SPORT 3 🇬🇧
@@ -203,38 +125,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116926.ts
 http://172.16.29.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,BeIN Sports 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 ,BeIN Sports 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 ,BeIN Sports 3
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 ,BT Sports 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 ,BT Sports 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
-#EXTINF:-1 ,DAZN LALIGA
-http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 ,FOX NET MID
-http://89.187.175.143:80/4176/index.m3u8
-#EXTINF:-1 ,ESPN U HD
-http://89.187.175.143:80/3044/index.m3u8
-#EXTINF:-1, SKY SPORTS 🇲🇽
-http://200.52.154.125:8000/play/a06t/index.m3u8
-#EXTINF:-1 ,Sony Sports 1
-http://172.16.29.250/hls/sonyten1.m3u8
-#EXTINF:-1 ,FOX SPORTS 1 HD
-http://89.187.175.143:80/3056/index.m3u8
-#EXTINF:-1 ,FOX SPORTS 2 HD
-http://89.187.175.143:80/3028/index.m3u8
-#EXTINF:-1 ,FOX SPORTS DETROIT HD
-http://89.187.175.143:80/3115/index.m3u8
-#EXTINF:-1 ,FOX SPORTS NORTH HD
-http://89.187.175.143:80/3113/index.m3u8
-#EXTINF:-1 ,FOX NET MID
-http://89.187.175.143:80/4176/index.m3u8
 #EXTINF:-1 ,FOX NET EAST
 http://89.187.175.143:80/4175/index.m3u8
-#EXTINF:-1 ,ESPN U HD
-http://89.187.175.143:80/3044/index.m3u8
 #EXTINF:-1 ,SEC Network HD
 http://89.187.175.143:80/3054/index.m3u8
 #EXTINF:-1 ,ALTITUDE SPORTS
@@ -269,202 +161,15 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8?checkedby:D4N-IPTV
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/104048
 #EXTINF:-1 ,beiN Sport 2 English
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
-#EXTINF:-1 ,BeIN Sports 1  Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
 #EXTINF:-1 ,BeIN Sports 2  Premium
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
 #EXTINF:-1 ,BeIN Sports 3  Premium
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
-#EXTINF:-1 ,sports
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
-#EXTINF:-1 ,BeIN Sports 2
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
-#EXTINF:-1 ,BeIN Sports 3
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
 #EXTINF:-1 ,BeIN Sports 4
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
-#EXTINF:-1 ,BeIN Sports 5
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
-#EXTINF:-1 ,BeIN Sports Extra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 ,BeIN Sports 1 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4196
-#EXTINF:-1 ,BeIN Sports 2 MAX
-http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
-#EXTINF:-1 ,SUPERSPORT 4 🇦🇱
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116925.ts
-#EXTINF:-1 ,SUPERSPORT 4 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1318.ts
-#EXTINF:-1 ,SUPERSPORT 3 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/3638.ts
-#EXTINF:-1 ,SUPERSPORT 2 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1312.ts
 #EXTINF:-1 ,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
-#EXTINF:-1 ,beIN Sports 1 English HD 🇬🇧
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1 ,BEINsport 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 group-title="freecatv",Star Sports 1 HD
 http://172.16.29.250/hls/stersports1hd.m3u8
 #EXTINF:-1 group-title="freecatv",Star Sports 2 HD
 http://172.16.29.250/hls/starsports2.m3u8
-#EXTINF:-1 ,Live Sports 1 freecatv
-http://45.127.244.7:8080/hls/channel9.m3u8
-#EXTINF:-1 ,Live Bangla Sports freecatv
-http://103.78.255.178:8080/starselect1/index.m3u8
-#EXTINF:-1 ,Live Sports freecatv
-http://45.127.244.7:8080/hls/channel14.m3u8
-#EXTINF:-1 ,Live Football freecatv
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
-#EXTINF:-1 ,Live Football freecatv
-https://cdn.googlecdnforstreaming.live/dbf789/bein3/playlist.m3u8
-#EXTINF:-1 ,Live Football freecatv
-http://45.127.244.7:8080/hls/channel7.m3u8
-#EXTINF:-1 ,Sony Ten freecatv
-http://45.127.244.7:8080/hls/channel5.m3u8
-#EXTINF:-1 ,SPORT TV 1 🇵🇹
-http://185.236.229.13:4000/play/a040
-#EXTINF:-1 ,SPORT TV 1 🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2525/index.m3u8
-#EXTINF:-1 ,Sport TV 1 HD 🇵🇹
-http://161.230.47.149:4344/play/a01k
-#EXTINF:-1 ,DIRECTV SPORTS 🇦🇷
-http://200.52.154.125:8000/play/a06p/index.m3u8
-#EXTINF:-1 ,TVP Sport HD 🇵🇱
-http://195.189.62.148:8000/play/a06b
-#EXTINF:-1 ,RTSH Sport 🇦🇱
-http://95.107.132.105/out/u/638_1.m3u8
-#EXTINF:-1 ,RTSH Sport 🇦🇱
-http://185.226.88.6:9510/tch
-#EXTINF:-1 ,ZDF 🇩🇪
-https://s6.hopslan.com/zdfg1/index.m3u8
-#EXTINF:-1 ,HRT 2 🇭🇷
-http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?
-#EXTINF:-1 ,HRT 2 🇭🇷
-http://212.200.197.0:8002/play/a012/index.m3u8
-#EXTINF:-1 ,RTK 1 🇽🇰
-http://91.187.110.91:5252/rtk1hd
-#EXTINF:-1 ,TVK CAMBOYA 🇰🇭
-http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?
-#EXTINF:-1 ,TRT 1 🇹🇷
-http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
-#EXTINF:-1 ,Rai 2 🇮🇹
-http://149.22.208.21:9898/play/a00o
-#EXTINF:-1 ,Rai 2 🇮🇹
-http://146.19.16.211:8018/play/a05c
-#EXTINF:-1 ,RTP 1 HD 🇵🇹
-http://194.44.48.82:8002/play/a08d
-#EXTINF:-1 ,ESPN + 🇺🇸
-http://31.14.41.118:8080/live/TViBOXRU/DbTVQJpf1z/35059.ts
-#EXTINF:-1 ,ESPN DEPORTES 🇦🇷
-http://38.143.137.221:8000/LA81/index.m3u8
-#EXTINF:-1 ,ARENA SPORT 6 CRO 🇭🇷
-http://5.182.229.90:8080/7334/index.m3u8
-#EXTINF:-1 ,ARENA SPORT 6 CRO 🇭🇷
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/85134.m3u8
-#EXTINF:-1 ,S SPORT HD 🇹🇷
-https://v2.hugo11.cc/ssport1/index.m3u8
-#EXTINF:-1 ,MAX SPORT 4HD 🇧🇬
-http://93.155.227.38:555/m3u8/webmtelsport4_web.m3u8
-#EXTINF:-1 ,M. LA LIGA 🇪🇸
-http://200.52.154.125:8000/play/a06f/index.m3u8
-#EXTINF:-1 ,LALIGA TV 🇪🇸
-http://188.26.204.204:8888/play/a084
-#EXTINF:-1 ,DAZN LALIGA 🇪🇸
-http://188.26.204.204:8888/play/a0bb
-#EXTINF:-1 ,LALIGA TV 🇪🇸
-http://188.26.204.204:8888/play/davidALCARRER
-#EXTINF:-1 ,SKY SPORTS 🇲🇽
-http://200.52.154.125:8000/play/a06t/index.m3u8
-#EXTINF:-1 ,VIX+ 🇲🇽
-http://200.52.154.125:8000/play/a06w/index.m3u8
-#EXTINF:-1 ,TIGO SPORTS 🇲🇽
-http://190.61.102.67:31589/play/a08q/index.m3u8
-#EXTINF:-1 ,ESPN 🇧🇷
-http://51.79.82.208:16417
-#EXTINF:-1 ,ESPN 🇧🇷
-http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1 ,Eleven 2 HD 🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
-#EXTINF:-1 ,SCTV 17 🇻🇳
-http://vtsstr4.sctv.vn:1935/live/SCTV17_HD_new.smil/CDAM.m3u8
-#EXTINF:-1 ,Eleven 1 HD 🇵🇹
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-#EXTINF:-1 ,Eleven 1 HD 🇵🇹
-http://golive.yn.lt/live/bola/01.m3u8
-#EXTINF:-1 ,MTV INDIA 🇮🇳
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
-http://92.119.88.58:8080/271/index.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
-http://92.119.88.58:8080/270/index.m3u8
-#EXTINF:-1 ,DIRECTV SPORTS 2 🇦🇷
-http://200.52.154.125:8000/play/a06o/index.m3u8
-#EXTINF:-1 ,DirecTV Sports 1 🇦🇷
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
-#EXTINF:-1 ,DIRECTV SPORT 2 🇦🇷
-http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239
-#EXTINF:-1 ,ESPN 2 🇦🇷
-http://190.60.37.69:8015/play/a01e/index.m3u8
-#EXTINF:-1 ,ESPN 3 🇦🇷
-http://190.60.37.69:8015/play/a04i/index.m3u8
-#EXTINF:-1 ,ESPN 4 🇦🇷
-http://190.60.37.69:8015/play/a02n/index.m3u8
-#EXTINF:-1 ,ESPN EXTRA 🇦🇷
-http://38.143.137.221:8000/LA78/index.m3u8
-#EXTINF:-1 ,ESPN EXTRA 🇦🇷
-http://190.60.37.69:8015/play/a037/index.m3u8
-#EXTINF:-1 ,ESPN 3 🇦🇷
-http://38.143.137.221:8000/LA79/index.m3u8
-#EXTINF:-1 ,Bein Sport 1 FR 🇫🇷
-http://w4.12all.tv:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 ,Bein Sports 2 FR 🇫🇷
-http://w4.12all.tv:4000/play/bein2fr/index.m3u8
-#EXTINF:-1 ,Bein Sports 3 FR 🇫🇷
-http://w4.12all.tv:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 ,Eleven Sports Pro League 1 🇫🇷
-http://37.235.38.139:4000/play/a0c7
-#EXTINF:-1 ,INFOSPORT+ 🇫🇷
-http://37.235.38.139:4000/play/a00n
-#EXTINF:-1 ,beIN Sports 1 English HD 🇬🇧
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
-#EXTINF:-1 ,beIN Sports 1 English HD 🇬🇧
-http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/548627.ts
-#EXTINF:-1 ,beIN Sports 2 English HD 🇬🇧
-http://175.107.244.52:4457/play/a06z/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 3 🇬🇧
-http://175.107.244.52:4457/play/a06x/index.m3u8
-#EXTINF:-1 ,BEIN SPORT 3 🇬🇧
-http://102.222.232.18:9981/stream/channelid/2100170847?ticket=5CC008508EA4755ED1EF71AF84E018D45AD5E286&profile=matroska
-#EXTINF:-1 ,BEIN SPORT 3 🇬🇧
-http://102.222.232.18:9981/stream/channelid/2100170847?ticket=206EE47921F25EE1A5AF97E218B33DA299AACA12&profile=matroska
-#EXTINF:-1 ,SUPERSPORT 2 🇦🇱
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/789
-#EXTINF:-1 ,SUPERSPORT 2 🇦🇱
-http://185.226.88.6:11026/live/OUT2QyrOQS8xw/UkPn4unfnR/179.ts?|User-Agent=Lavf/57.56.100
-#EXTINF:-1 ,SUPERSPORT 2 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1312.ts
-#EXTINF:-1 ,SUPERSPORT 3 🇦🇱
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/790
-#EXTINF:-1 ,SUPERSPORT 3 🇦🇱
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116924.ts
-#EXTINF:-1 ,SUPERSPORT 3 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1319.ts
-#EXTINF:-1 ,SUPERSPORT 3 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/3638.ts
-#EXTINF:-1 ,SUPERSPORT 4 🇦🇱
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/791
-#EXTINF:-1 ,SUPERSPORT 4 🇦🇱
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116925.ts
-#EXTINF:-1 ,SUPERSPORT 4 🇦🇱
-http://37.49.230.48:8080/live/GenIptvLast/FaP6YswK77NaOPOF/1318.ts
-#EXTINF:-1 ,SUPERSPORT 5 🇦🇱
-http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/792
-#EXTINF:-1 ,SUPERSPORT 5 🇦🇱
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116926.ts
-#EXTINF:-1 ,SUPERSPORT 5 🇦🇱
-
-
-
-
