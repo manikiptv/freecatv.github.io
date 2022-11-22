@@ -1,6 +1,158 @@
 #EXTM3U
-#EXTINF:-1  ,Star sports Select 1 HD
-http://172.16.29.250/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="FiFa World Cup" tvg-logo="https://i.imgur.com/RRnnml2.png",T Sports HD 3
+http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T sports HD (fiber)
+http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 ,BEIN SPORTS PREMIUM 1 HD 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 ,BEIN SPORTS PREMIUM 2 HD 🇶🇦
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 ,BEIN SPORTS PREMIUM 3 HD 🇶🇦
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 ,BEIN SPORTS PREMIUM 3 HD 🇶🇦
+http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/10015
+#EXTINF:-1 ,Bein Sports 🇶🇦
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 ,Bein Sports 5 Arabic 🇶🇦
+http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF:-1 group-title="FiFa World Cup" tvg-logo="https://i.imgur.com/RRnnml2.png",Fox Sports HD
+http://45.232.210.1:8062/play/a08s/index.m3u8
+#EXTINF:-1 group-title="FiFa World Cup" tvg-logo="https://i.imgur.com/RRnnml2.png",beIN Sports 2 English HD
+http://175.107.244.52:4457/play/a06z/index.m3u8
+#EXTINF:-1 ,Star Sports Hindi
+http://watchindia.net:8880/live/vvv/vvv/2167.m3u8
+#EXTINF:-1 ,Sony Ten 4
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+#EXTINF:-1 ,Freecatv
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4348
+#EXTINF:-1 ,Ten Sports
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/4347
+#EXTINF:-1 ,live sports 5
+http://watchindia.net:8880/live/vvv/vvv/2325.ts
+#EXTINF:-1 group-title="T20 World Cup",PTV Sports
+http://apex-media.xyz:8080/live/adamryan762@gmail.com/e3QZWRs/1514084.ts
+#EXTINF:-1 group-title="witv",Star Sports 1 HD 1
+http://watchindia.net:8880/live/vvv/vvv/808.m3u8
+#EXTINF:-1 group-title="witv",Star Sports Select 1 HD 2
+http://watchindia.net:8880/live/vvv/vvv/2292.m3u8
+#EXTINF:-1 ,Sony Ten 1 HD
+http://175.107.244.52:4455/play/a01k/index.m3u8
+#EXTINF:-1 ,Star S Hin 1 HD
+http://175.107.244.52:4455/play/a01m/index.m3u8
+#EXTINF:-1 ,Star Sports 2 HD
+http://175.107.244.52:4455/play/a01j/index.m3u8
+#EXTINF:-1 group-title="T20 World Cup",ESPN+ (Freecatv)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
+#EXTINF:-1 ,FOX SPORTS 1 HD Freecatv
+http://89.187.175.143:80/3056/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 2 HD
+http://89.187.175.143:80/3028/index.m3u8
+#EXTINF:-1 ,BEIN Xtra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 ,FOX SPORTS DETROIT HD
+http://89.187.175.143:80/3115/index.m3u8
+#EXTINF:-1 ,FOX SPORTS NORTH HD
+http://89.187.175.143:80/3113/index.m3u8
+#EXTINF:-1 group-title="T20 World Cup",ESPN (Freecatv)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/54369.ts
+#EXTINF:-1 group-title="witv",Sky Sports Arena
+http://watchindia.net:8880/live/vvv/vvv/2095.m3u8
+#EXTINF:-1 group-title="witv",Sony Six HD 1
+http://watchindia.net:8880/live/vvv/vvv/1763.m3u8
+#EXTINF:-1 group-title="witv",DD Sports
+http://watchindia.net:8880/live/vvv/vvv/2380.m3u8
+#EXTINF:-1 group-title="witv",Willow HD 1
+http://watchindia.net:8880/live/vvv/vvv/1067.m3u8
+#EXTINF:-1 group-title="witv",Willow HD 2
+http://watchindia.net:8880/live/vvv/vvv/2145.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg",Star Sports Select 1
+http://watchindia.net:8880/live/vvv/vvv/2292.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png",Sky Sports Cricket
+http://watchindia.net:8880/live/vvv/vvv/2143.ts
+#EXTINF:-1 group-title="Sports",Free Sports
+https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8
+#EXTINF:-1 ,BeIN Sports 1  Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1292
+#EXTINF:-1 ,Sony Six HD 1080P
+https://tv.googledrivelinks.com/live.php?c=Six_HD&q=1200&e=.m3u8
+#EXTINF:-1 ,Sony Six HD 720P
+https://tv.googledrivelinks.com/live.php?c=Six_HD&q=800&e=.m3u8
+#EXTINF:-1 ,Sony Six HD 480P
+https://tv.googledrivelinks.com/live.php?c=Six_HD&q=600&e=.m3u8
+#EXTINF:-1 ,Sony Six HD 360P
+https://tv.googledrivelinks.com/live.php?c=Six_HD&q=400&e=.m3u8
+#EXTINF:-1 ,BeIN Sports 1
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
+#EXTINF:-1 ,BeIN Sports 2
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2767
+#EXTINF:-1 ,BeIN Sports 3
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2768
+#EXTINF:-1 ,BeIN Sports 4
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
+#EXTINF:-1 ,BeIN Sports 5
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2770
+#EXTINF:-1 ,BeIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 ,BeIN Sports 2  Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
+#EXTINF:-1 ,BeIN Sports 3  Premium
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
+#EXTINF:-1 ,Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1 ,beINSPORTS 1 HD+
+http://2111.space:8080/live/hossam1/hossam1/42486.ts
+#EXTINF:-1 ,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,1SPORTS
+http://102.222.232.18:9981/stream/channelid/867342289?ticket=8BE70246E9BFAF9C7832570B08A3986996809079&profile=matroska
+#EXTINF:-1 ,G TV S2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 ,BEIN-SPORTS https://siloh.pluto.tv
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_4.m3u8
+#EXTINF:-1 ,BT Sports 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 ,BT Sports 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 ,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 ,beINSPORTS 2 HD+
+http://2111.space:8080/live/hossam1/hossam1/42487.ts
+#EXTINF:-1 ,BeIN Sports 1 Franch
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 ,BeIN Sports 2 Franch
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 ,BeIN Sports 3 Franch
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 ,Live Sports 7
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+#EXTINF:-1 ,Eleven 2 🇵🇹
+http://venomtt.com:8000/kdcxxD1U/543545/22519
+#EXTINF:-1 ,DAZN LALIGA 🇪🇸
+http://w4.12all.tv:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.nicepng.com/png/detail/27-277799_star-sports-star-sports-logo-png.png",Star Sports 2
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/512
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg",Star Sports Select 2
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17923
+#EXTINF:-1 ,#http://208.86.19.13:81/602.stream/index.m3u8
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/40574
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET MID
+http://89.187.175.143:80/4176/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET EAST
+http://89.187.175.143:80/4175/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ESPNU-logo.png",ESPN U HD
+http://89.187.175.143:80/3044/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i1.wp.com/www.txcable.com/wp-content/uploads/2014/07/sec_network_logo.png",SEC Network HD
+http://89.187.175.143:80/3054/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo-1024x512.jpg",ALTITUDE SPORTS
+http://89.187.175.143:80/4164/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",MLB NETWORK HD
+http://89.187.175.143:80/3003/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",NBC GOLF
+http://89.187.175.143:80/3013/index.m3u8
+#EXTINF:-1 ,SUPERSPORT PSL
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2630.m3u8
+#EXTINF:-1 ,SUPERSPORT Action
+http://cloudstream8.ddns.net:8080/live/timtimy/dm7CThtc/2639.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [FHD]
 http://tvpanel.one:80/live/den9179/611carc/586761.m3u8
 #EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE [HD]
@@ -9,8 +161,8 @@ http://tvpanel.one:80/live/den9179/611carc/586762.m3u8
 http://tvpanel.one:80/live/den9179/611carc/586763.m3u8
 #EXTINF:-1 ,SKY SPORTS FOOTBALL [HD]
 http://tvpanel.one:80/live/den9179/611carc/586764.m3u8
-#EXTINF:-1 ,beINSPORTS 1 HD+
-http://2111.space:8080/live/hossam1/hossam1/42486.ts
+#EXTINF:-1 ,BeIN Sports 2 MAX
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/4197
 #EXTINF:-1 ,SPORT TV 1 🇵🇹
 http://185.236.229.13:4000/play/a040
 #EXTINF:-1 ,SPORT TV 1 🇵🇹
@@ -35,8 +187,6 @@ http://91.187.110.91:5252/rtk1hd
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8?
 #EXTINF:-1 ,TRT 1 🇹🇷
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
-#EXTINF:-1 ,Rai 2 🇮🇹
-http://149.22.208.21:9898/play/a00o
 #EXTINF:-1 ,Rai 2 🇮🇹
 http://146.19.16.211:8018/play/a05c
 #EXTINF:-1 ,RTP 1 HD 🇵🇹
@@ -99,20 +249,6 @@ http://ott.global-telecom.eu:25461/mirobec3378/AxRwxqx79k/792
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/116926.ts
 #EXTINF:-1 ,Gazi TV Freecatv
 http://172.16.29.250/hls/Gazi-TV.m3u8
-#EXTINF:-1 ,BeIN Sports 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 ,FOX NET EAST
-http://89.187.175.143:80/4175/index.m3u8
-#EXTINF:-1 ,SEC Network HD
-http://89.187.175.143:80/3054/index.m3u8
-#EXTINF:-1 ,ALTITUDE SPORTS
-http://89.187.175.143:80/4164/index.m3u8
-#EXTINF:-1 ,MLB NETWORK HD
-http://89.187.175.143:80/3003/index.m3u8
-#EXTINF:-1 ,NFL HD
-http://89.187.175.143:80/3190/index.m3u8
-#EXTINF:-1 ,NBC GOLF
-http://89.187.175.143:80/3013/index.m3u8
 #EXTINF:-1 ,ACC NETWORK HD
 http://89.187.175.143:80/3111/index.m3u8
 #EXTINF:-1 ,SNY
@@ -137,12 +273,6 @@ https://edgesport-samsungus.amagi.tv/playlist720p.m3u8?checkedby:D4N-IPTV
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/104048
 #EXTINF:-1 ,beiN Sport 2 English
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/111
-#EXTINF:-1 ,BeIN Sports 2  Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2774
-#EXTINF:-1 ,BeIN Sports 3  Premium
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2775
-#EXTINF:-1 ,BeIN Sports 4
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2769
 #EXTINF:-1 ,beIN Sports 1 English HD 🇬🇧
 http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 #EXTINF:-1 group-title="freecatv",Star Sports 1 HD
