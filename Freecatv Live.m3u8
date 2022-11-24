@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Star Sports Freecatv
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 ,FIFA World Cup ⚽️"QATAR 2022"
 http://iptvtree.net:8080/faucontv/Yhd649BcdgXVR374d6/158355
 #EXTINF:-1 ,FIFA World Cup ⚽️"QATAR 2022"
