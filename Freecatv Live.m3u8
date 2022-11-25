@@ -1,5 +1,11 @@
 #EXTM3U
+#EXTINF:-1 ,Freecatv Live IPTV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,Live Sports manik
 http://103.153.154.34/hls/bein1.m3u8
 #EXTINF:-1 ,A Sports
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 ,Toffee 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+#EXTINF:-1 ,Toffee 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
