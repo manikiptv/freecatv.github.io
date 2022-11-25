@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Live Sports manik
-http://103.153.154.34/hls/bein1.m3u8
 #EXTINF:-1 ,A Sports
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 ,Toffee 2
