@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,FS1 World cup
+https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
 #EXTINF:-1 ,Gazi TV HD
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 ,A Sports
