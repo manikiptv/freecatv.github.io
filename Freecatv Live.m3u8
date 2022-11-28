@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 ,FS1 World cup
-https://hgdsxzv.azureedge.net/live/FS1/chunks.m3u8
-#EXTINF:-1 ,Gazi TV HD
+#EXTINF:-1 ,Gazi TV HD BD ⚽️
 http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 ,A Sports
+#EXTINF:-1 ,A Sports World Cup ⚽️
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 ,Toffee 2
+#EXTINF:-1 ,Toffee 2 World Cup
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1 ,Toffee 1
+#EXTINF:-1 ,Toffee 1 World Cup ⚽️
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1 ,Freecatv Live IPTV
+#EXTINF:-1 ,Freecatv Live IPTV World Cup ⚽️
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Tyc Sports
+#EXTINF:-1 ,Tyc Sports World Cup ⚽️
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 ,DirecTV Sports
+#EXTINF:-1 ,DirecTV Sports World Cup ⚽️
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 ,RTK 1 FIFA World Cup ⚽️
 http://146.59.19.1/5002/mpegts?
 #EXTINF:-1 ,FIFA World Cup Japan ⚽️
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 ,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 ,TURKMENISTAN SPORTS 🇹🇷
+http://217.174.225.146/hls/ch004_720/index.m3u8
