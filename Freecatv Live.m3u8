@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Sports 18 World Cup Live
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 ,GaziTV 
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,TSports 
