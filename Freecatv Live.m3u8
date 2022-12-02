@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 ,Bein Sports
+http://45.232.210.1:8062/play/a08b/index.m3u8
+#EXTINF:-1 ,Beinsport_3_england World Cup
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1 ,MAQ_tv World cup
+http://208.86.19.13:81/517.stream/index.m3u8
+#EXTINF:-1 ,Turmenistan_Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,World Cup Arabic
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+#EXTINF:-1 ,World Cup TU
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1 ,World Cup Match
+https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1 ,Sports 18 World Cup Live
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 ,GaziTV 
