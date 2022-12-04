@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,LIVE world cup
+http://89.216.39.24/cloud/stream/4ef949d15a0a444280c4d598a0af4286/39/index.m3u8
+#EXTINF:-1 ,beIN Sports 1 HD world cup
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
+#EXTINF:-1 ,T Sports HD2
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+#EXTINF:-1 ,Gazi TV HD
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,Bein Sports
 http://45.232.210.1:8062/play/a08b/index.m3u8
 #EXTINF:-1 ,Beinsport_3_england World Cup
@@ -15,18 +23,14 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1 ,Sports 18 World Cup Live
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:-1 ,GaziTV 
+#EXTINF:-1 ,GaziTV
 http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,TSports 
+#EXTINF:-1 ,TSports
 http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1 ,Match TV 
+#EXTINF:-1 ,Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
-#EXTINF:-1 ,Japan TV 
+#EXTINF:-1 ,Japan TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 ,A Sports World Cup ⚽️
-http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 ,Toffee 2 World Cup
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 ,Freecatv Live IPTV World Cup ⚽️
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,Tyc Sports World Cup ⚽️
@@ -37,8 +41,6 @@ http://146.59.19.1/5002/mpegts?
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 ,SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 ,TURKMENISTAN SPORTS 🇹🇷
-http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 ,TNT.SPORTS 2
 http://190.131.228.59:8000/play/a059/index.m3u8
 #EXTINF:-1 ,TyC Sports_p
