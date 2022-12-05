@@ -5,8 +5,6 @@ http://103.41.175.154:8081/viatv/viaactionsportshd/playlist.m3u8
 http://103.41.175.154:8081/viatv/viaselecthd/playlist.m3u8
 #EXTINF:-1 ,Star Sports Select 2 HD
 http://103.41.175.154:8081/viatv/viaselecthd2/playlist.m3u8
-#EXTINF:-1 ,beIN Sports 1 HD world cup
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
 #EXTINF:-1 ,T Sports HD2
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 ,Gazi TV HD
@@ -19,8 +17,6 @@ http://175.107.244.52:4457/play/a06x/index.m3u8
 http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1 ,Turmenistan_Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 ,World Cup Arabic
-http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 #EXTINF:-1 ,World Cup TU
 http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 ,World Cup Match
@@ -35,8 +31,6 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,RTK 1 FIFA World Cup ⚽️
 http://146.59.19.1/5002/mpegts?
-#EXTINF:-1 ,FIFA World Cup Japan ⚽️
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 ,TNT.SPORTS 2
 http://190.131.228.59:8000/play/a059/index.m3u8
 #EXTINF:-1 ,TyC Sports_p
