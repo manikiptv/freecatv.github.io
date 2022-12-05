@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,ACTION SPORTS HD
-http://103.41.175.154:8081/viatv/viaactionsportshd/playlist.m3u8
-#EXTINF:-1 ,Star Sports Select 1 HD
-http://103.41.175.154:8081/viatv/viaselecthd/playlist.m3u8
-#EXTINF:-1 ,Star Sports Select 2 HD
-http://103.41.175.154:8081/viatv/viaselecthd2/playlist.m3u8
 #EXTINF:-1 ,T Sports HD2
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 ,Gazi TV HD
