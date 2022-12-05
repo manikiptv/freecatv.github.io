@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 ,LIVE world cup
-http://89.216.39.24/cloud/stream/4ef949d15a0a444280c4d598a0af4286/39/index.m3u8
+#EXTINF:-1 ,ACTION SPORTS HD
+http://103.41.175.154:8081/viatv/viaactionsportshd/playlist.m3u8
+#EXTINF:-1 ,Star Sports Select 1 HD
+http://103.41.175.154:8081/viatv/viaselecthd/playlist.m3u8
+#EXTINF:-1 ,Star Sports Select 2 HD
+http://103.41.175.154:8081/viatv/viaselecthd2/playlist.m3u8
 #EXTINF:-1 ,beIN Sports 1 HD world cup
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
 #EXTINF:-1 ,T Sports HD2
@@ -23,10 +27,6 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1 ,Sports 18 World Cup Live
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
-#EXTINF:-1 ,GaziTV
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,TSports
-http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 ,Match TV
 http://194.143.148.28/MatchHD/mono.m3u8
 #EXTINF:-1 ,Japan TV
@@ -45,5 +45,3 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 http://190.131.228.59:8000/play/a059/index.m3u8
 #EXTINF:-1 ,TyC Sports_p
 http://190.131.228.59:8000/play/a05v/index.m3u8
-#EXTINF:-1 ,CCTV_5
-http://60.10.167.88:808/hls/5/index.m3u8
