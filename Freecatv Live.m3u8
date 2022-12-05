@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,T Sports HD2
-http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1 ,Gazi TV HD
-http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,Bein Sports
 http://45.232.210.1:8062/play/a08b/index.m3u8
 #EXTINF:-1 ,Beinsport_3_england World Cup
