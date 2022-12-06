@@ -1,12 +1,22 @@
 #EXTM3U
-#EXTINF:-1 ,Freecatv World cup 4K
-http://iptvh.it/freecatv-4k.m3u8
-#EXTINF:-1 ,Freecatv World cup 15
-http://iptvh.it/freecatv15.m3u8
-#EXTINF:-1 ,Freecatv World cup 14
-http://iptvh.it/freecatv14.m3u8
-#EXTINF:-1 ,Freecatv World cup 11
-http://iptvh.it/freecatv11.m3u8
+#EXTINF:-1 ,Sony Sports Ten 5 HD
+http://103.41.175.154:8081/viatv/viasixhd/playlist.m3u8
+#EXTINF:-1 ,Kantipur TV HD
+http://103.41.175.154:8081/viatv/viakantipuriptv/playlist.m3u8
+#EXTINF:-1 ,Himalaya PREMIUM 1
+http://103.41.175.154:8081/livesports/HimPrem/playlist.m3u8
+#EXTINF:-1 ,Turmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,Japan TV
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 ,TSports
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+#EXTINF:-1 ,GaziTV
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+#EXTINF:-1 ,World Cup Toffee Paid 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+#EXTINF:-1 ,World Cup Toffee Paid
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1,Freecatv World cup
 http://172.16.29.242:8080/fnet/live1/index.m3u8
 #EXTINF:-1,beIN SPORTS 3 FR
