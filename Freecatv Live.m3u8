@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Sony Sports Ten 5 HD
-http://103.41.175.154:8081/viatv/viasixhd/playlist.m3u8
-#EXTINF:-1 ,Kantipur TV HD
-http://103.41.175.154:8081/viatv/viakantipuriptv/playlist.m3u8
-#EXTINF:-1 ,Himalaya PREMIUM 1
-http://103.41.175.154:8081/livesports/HimPrem/playlist.m3u8
-#EXTINF:-1 ,Turmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 ,Japan TV
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 ,TSports
@@ -29,31 +21,15 @@ http://175.107.244.52:4457/play/a06b/index.m3u8
 http://175.107.244.52:4457/play/a06a/index.m3u8
 #EXTINF:-1 ,Freecatv PTV.SPORTS HD
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,Freecatv Nagorik TV HD Freecatv T 10
-http://172.16.29.250/hls/nagoriktv.m3u8
 #EXTINF:-1 ,Freecatv Sony Ten 1 HD freecatv
 http://172.16.29.250/hls/sonyten1.m3u8
 #EXTINF:-1 ,World Cup Toffee Paid
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:-1,Freecatv World cup
+#EXTINF:-1 ,Freecatv World cup
 http://172.16.29.242:8080/fnet/live1/index.m3u8
-#EXTINF:-1,beIN SPORTS 3 FR
+#EXTINF:-1 ,beIN SPORTS 3 FR
 http://185.53.88.103:88/live/226448369414368/226448369414368/13795.m3u
-#EXTINF:-1,beIN SPORTS 2 FR
+#EXTINF:-1 ,beIN SPORTS 2 FR
 http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
-#EXTINF:-1,beIN Sports Ñ
+#EXTINF:-1 ,beIN Sports Ñ
 http://200.52.154.125:8000/play/a06q/index.m3u8
-#EXTINF:-1,ACTION SPORTS HD
-http://103.41.175.154:8081/viatv/viaactionsportshd/playlist.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
-http://103.41.175.154:8081/viatv/viaselecthd/playlist.m3u8
-#EXTINF:-1,Japan TV
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,TSports
-http://103.102.27.173/live/tvfeed1002/index.m3u8
-#EXTINF:-1,GaziTV
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1,World Cup Toffee Paid 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
-#EXTINF:-1,World Cup Toffee Paid
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
