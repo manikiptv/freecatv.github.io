@@ -33,10 +33,6 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/13795.m3u
 http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
 #EXTINF:-1 ,beIN Sports Ñ
 http://200.52.154.125:8000/play/a06q/index.m3u8
-#EXTINF:-1 ,Freecatv beIN SPORTS 3 FR
-http://185.53.88.103:88/live/226448369414368/226448369414368/13795.m3u
-#EXTINF:-1 ,Freecatv beIN SPORTS 2 FR
-http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
 #EXTINF:-1 ,Freecatv beIN SPORTS 1 FR
 http://185.53.88.103:88/live/226448369414368/226448369414368/13793.m3u
 #EXTINF:-1 ,Freecatv beINSPORTS 2 EN
@@ -51,5 +47,39 @@ http://185.53.88.103:88/live/226448369414368/226448369414368/5194.m3u
 http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
 #EXTINF:-1 ,Freecatv beINSPORTS PREMIUM 1
 http://185.53.88.103:88/live/226448369414368/226448369414368/5192.m3u
-#EXTINF:-1 ,Freecatv beIN Sports Ñ
-http://200.52.154.125:8000/play/a06q/index.m3u8
+#EXTINF:-1 ,beIN-SPORTS FHD1
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17067.ts
+#EXTINF:-1 ,beIN-SPORTS FHD2
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17068.ts
+#EXTINF:-1 ,beIN-SPORTS FHD4
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17070.ts
+#EXTINF:-1 ,beIN-SPORTS FHD5
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17071.ts
+#EXTINF:-1 ,beIN-SPORTS FHD7
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17073.ts
+#EXTINF:-1 ,beIN-SPORTS HD4
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17057.ts
+#EXTINF:-1 ,beIN-SPORTS HD5
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17058.ts
+#EXTINF:-1 ,beIN-SPORTS HD7
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/17060.ts
+#EXTINF:-1 ,freecatv
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,SUPERSPORT 10 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2709.ts
+#EXTINF:-1 ,SUPERSPORT 11 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2710.ts
+#EXTINF:-1 ,SUPERSPORT 2 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2701.ts
+#EXTINF:-1 ,SUPERSPORT 4 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2703.ts
+#EXTINF:-1 ,SUPERSPORT 5 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2704.ts
+#EXTINF:-1 ,SUPERSPORT 6 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2705.ts
+#EXTINF:-1 ,SUPERSPORT 7 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2706.ts
+#EXTINF:-1 ,SUPERSPORT 8 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2707.ts
+#EXTINF:-1 ,SUPERSPORT 9 FHD
+http://destiny4k.com:2086/live/NAm/rSUqBCHN29/2708.ts
