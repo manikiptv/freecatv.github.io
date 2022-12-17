@@ -7,8 +7,6 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 http://103.102.27.173/live/tvfeed1002/index.m3u8
 #EXTINF:-1 ,GaziTV
 http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,World Cup Toffee Paid 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
 #EXTINF:-1 ,Freecatv Euro.Sports 2
 http://175.107.244.52:4457/play/a06w/index.m3u8
 #EXTINF:-1 ,Freecatv Euro.Sports 1
@@ -23,17 +21,21 @@ http://175.107.244.52:4457/play/a06b/index.m3u8
 http://175.107.244.52:4457/play/a06a/index.m3u8
 #EXTINF:-1 ,Freecatv PTV.SPORTS HD
 http://175.107.244.52:4457/play/a08g/index.m3u8
-#EXTINF:-1 ,World Cup Toffee Paid
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 ,Freecatv World cup
 http://172.16.29.242:8080/fnet/live1/index.m3u8
-#EXTINF:-1 ,beIN Sports Ñ
-http://200.52.154.125:8000/play/a06q/index.m3u8
-#EXTINF:-1 ,Freecatv beINSPORTS 2 EN
-http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
 #EXTINF:-1 ,Freecatv beINSPORTS PREMIUM 3
 http://185.53.88.103:88/live/226448369414368/226448369414368/5194.m3u
 #EXTINF:-1 ,Freecatv beINSPORTS PREMIUM 2
 http://185.53.88.103:88/live/226448369414368/226448369414368/5193.m3u
 #EXTINF:-1 ,Freecatv beINSPORTS PREMIUM 1
 http://185.53.88.103:88/live/226448369414368/226448369414368/5192.m3u
+#EXTINF:-1 ,Freecatv One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ,Freecatv Match TV
+http://194.143.148.28/MatchHD/mono.m3u8
+#EXTINF:-1 group-title="TATA SKY",Star Sports 3
+http://172.16.29.250/hls/starsports3.m3u8
+#EXTINF:-1 ,Sports 2
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:-1 ,Sports 3
+http://103.102.27.173/live/tvfeed1004/index.m3u8
