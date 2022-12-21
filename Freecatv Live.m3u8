@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Bein MAX 5 (1080p)
-http://t1-ssn.zinamedia.net//ar-s/beIN-SPORTS-MAX5-H265/video.m3u8
 #EXTINF:-1 ,T Sports Official
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,Japan TV
