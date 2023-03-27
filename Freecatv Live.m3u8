@@ -1,275 +1,106 @@
 #EXTM3U
-#EXTINF:-1,&PRIVE HD-Rs 19
+#EXTINF:-1 ,&PRIVE HD-Rs 19
 http://111.88.4.33:5000/play/a06i/index.m3u8
-#EXTINF:-1,&flix HD-Rs19
+#EXTINF:-1 ,&flix HD-Rs19
 http://111.88.4.33:5000/play/a057/index.m3u8
-#EXTINF:-1,&pictures -Rs19
+#EXTINF:-1 ,&pictures -Rs19
 http://111.88.4.33:5000/play/a05o/index.m3u8
-#EXTINF:-1,A SportsHD
+#EXTINF:-1 ,A SportsHD
 http://111.88.4.33:5000/play/a0gi/index.m3u8
-#EXTINF:-1,ABN News - HD
+#EXTINF:-1 ,ABN News - HD
 http://111.88.4.33:5000/play/a0i0/index.m3u8
-#EXTINF:-1,ANIMAL PLAN-Rs3
+#EXTINF:-1 ,ANIMAL PLAN-Rs3
 http://111.88.4.33:5000/play/a05i/index.m3u8
-#EXTINF:-1,BBC WORLD - Rs 1
+#EXTINF:-1 ,BBC WORLD - Rs 1
 http://111.88.4.33:5000/play/a04x/index.m3u8
-#EXTINF:-1,CARTOON-Rs4.25
+#EXTINF:-1 ,CARTOON-Rs4.25
 http://111.88.4.33:5000/play/a04k/index.m3u8
-#EXTINF:-1,Colors HD-Rs 19
+#EXTINF:-1 ,Colors HD-Rs 19
 http://111.88.4.33:5000/play/a0ge/index.m3u8
-#EXTINF:-1,Comedy Central-Rs 5
+#EXTINF:-1 ,Comedy Central-Rs 5
 http://111.88.4.33:5000/play/a0i1/index.m3u8
-#EXTINF:-1,DISCOVERY K-Rs3
+#EXTINF:-1 ,DISCOVERY K-Rs3
 http://111.88.4.33:5000/play/a04s/index.m3u8
-#EXTINF:-1,Discovery H-Rs6
+#EXTINF:-1 ,Discovery H-Rs6
 http://111.88.4.33:5000/play/a04i/index.m3u8
-#EXTINF:-1,Discovery S-Rs1
+#EXTINF:-1 ,Discovery S-Rs1
 http://111.88.4.33:5000/play/a06k/index.m3u8
-#EXTINF:-1,Discovery T-Rs1
+#EXTINF:-1 ,Discovery T-Rs1
 http://111.88.4.33:5000/play/a06l/index.m3u8
-#EXTINF:-1,Disney Chanel
+#EXTINF:-1 ,Disney Chanel
 http://111.88.4.33:5000/play/a04m/index.m3u8
-#EXTINF:-1,Disney Jr.-Rs 4
+#EXTINF:-1 ,Disney Jr.-Rs 4
 http://111.88.4.33:5000/play/a04o/index.m3u8
-#EXTINF:-1,EuroSports HD-Rs 6
+#EXTINF:-1 ,EuroSports HD-Rs 6
 http://111.88.4.33:5000/play/a06f/index.m3u8
-#EXTINF:-1,FOX Life HD-Rs 1
+#EXTINF:-1 ,FOX Life HD-Rs 1
 http://111.88.4.33:5000/play/a0gw/index.m3u8
-#EXTINF:-1,HISTORY TV1-Rs7
+#EXTINF:-1 ,HISTORY TV1-Rs7
 http://111.88.4.33:5000/play/a05k/index.m3u8
-#EXTINF:-1,Investigation D-Rs1
+#EXTINF:-1 ,Investigation D-Rs1
 http://111.88.4.33:5000/play/a0hs/index.m3u8
-#EXTINF:-1,MN+ HD-Rs 10
+#EXTINF:-1 ,MN+ HD-Rs 10
 http://111.88.4.33:5000/play/a04e/index.m3u8
-#EXTINF:-1,MOVIES NO-Rs 10
+#EXTINF:-1 ,MOVIES NO-Rs 10
 http://111.88.4.33:5000/play/a050/index.m3u8
-#EXTINF:-1,NATGEO WILD HD
+#EXTINF:-1 ,NATGEO WILD HD
 http://111.88.4.33:5000/play/a047/index.m3u8
-#EXTINF:-1,National G-Rs10
+#EXTINF:-1 ,National G-Rs10
 http://111.88.4.33:5000/play/a04h/index.m3u8
-#EXTINF:-1,PIX HD - Rs 15
+#EXTINF:-1 ,PIX HD - Rs 15
 http://111.88.4.33:5000/play/a05n/index.m3u8
-#EXTINF:-1,PTV-SPORTS-HD
+#EXTINF:-1 ,PTV-SPORTS-HD
 http://111.88.4.33:5000/play/a0gf/index.m3u8
-#EXTINF:-1,Pogo - Rs 4.25
+#EXTINF:-1 ,Pogo - Rs 4.25
 http://111.88.4.33:5000/play/a0hz/index.m3u8
-#EXTINF:-1,Romedy NOW-Rs 6
-http://111.88.4.33:5000/play/a052/index.m3u8
-#EXTINF:-1,SET HD - Rs 19
+#EXTINF:-1 ,SET HD - Rs 19
 http://111.88.4.33:5000/play/a058/index.m3u8
-#EXTINF:-1,SONIC- Rs 2
+#EXTINF:-1 ,SONIC- Rs 2
 http://111.88.4.33:5000/play/a04p/index.m3u8
-#EXTINF:-1,SONY MAX 2 - Rs 1
+#EXTINF:-1 ,SONY MAX 2 - Rs 1
 http://111.88.4.33:5000/play/a06r/index.m3u8
-#EXTINF:-1,SONY MAX HD
+#EXTINF:-1 ,SONY MAX HD
 http://111.88.4.33:5000/play/a046/index.m3u8
-#EXTINF:-1,SONY SIX HD
+#EXTINF:-1 ,SONY SIX HD
 http://111.88.4.33:5000/play/a043/index.m3u8
-#EXTINF:-1,SONY TEN 1HD
+#EXTINF:-1 ,SONY TEN 1HD
 http://111.88.4.33:5000/play/a042/index.m3u8
-#EXTINF:-1,SONY TEN 3HD
+#EXTINF:-1 ,SONY TEN 3HD
 http://111.88.4.33:5000/play/a049/index.m3u8
-#EXTINF:-1,STAR BHARA-Rs19
+#EXTINF:-1 ,STAR BHARA-Rs19
 http://111.88.4.33:5000/play/a05h/index.m3u8
-#EXTINF:-1,STAR MOVI-Rs 19
+#EXTINF:-1 ,STAR MOVI-Rs 19
 http://111.88.4.33:5000/play/a04f/index.m3u8
-#EXTINF:-1,STAR SPORTS 1HD
+#EXTINF:-1 ,STAR SPORTS 1HD
 http://111.88.4.33:5000/play/a044/index.m3u8
-#EXTINF:-1,STAR SPORTS 2HD
+#EXTINF:-1 ,STAR SPORTS 2HD
 http://111.88.4.33:5000/play/a041/index.m3u8
-#EXTINF:-1,STAR WORLD -Rs9
-http://111.88.4.33:5000/play/a03z/index.m3u8
-#EXTINF:-1,STAR WORLD P-Rs9
-http://111.88.4.33:5000/play/a08h/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD- Rs 17
+#EXTINF:-1 ,Sony Ten 2 HD- Rs 17
 http://111.88.4.33:5000/play/a05r/index.m3u8
-#EXTINF:-1,SonyBBCearthHD-Rs10
+#EXTINF:-1 ,SonyBBCearthHD-Rs10
 http://111.88.4.33:5000/play/a0gj/index.m3u8
-#EXTINF:-1,Sports18 1 HD-Rs12
+#EXTINF:-1 ,Sports18 1 HD-Rs12
 http://111.88.4.33:5000/play/a0hy/index.m3u8
-#EXTINF:-1,Star GOLD -Rs10
+#EXTINF:-1 ,Star GOLD -Rs10
 http://111.88.4.33:5000/play/a05j/index.m3u8
-#EXTINF:-1,Star Gold 2- Rs 1
+#EXTINF:-1 ,Star Gold 2- Rs 1
 http://111.88.4.33:5000/play/a06p/index.m3u8
-#EXTINF:-1,Star Gold SelHD-Rs10
+#EXTINF:-1 ,Star Gold SelHD-Rs10
 http://111.88.4.33:5000/play/a05l/index.m3u8
-#EXTINF:-1,Star Movi-Rs 10
+#EXTINF:-1 ,Star Movi-Rs 10
 http://111.88.4.33:5000/play/a04g/index.m3u8
-#EXTINF:-1,Star Plus -Rs19
+#EXTINF:-1 ,Star Plus -Rs19
 http://111.88.4.33:5000/play/a054/index.m3u8
-#EXTINF:-1,Star Sport-Rs10
+#EXTINF:-1 ,Star Sport-Rs10
 http://111.88.4.33:5000/play/a05q/index.m3u8
-#EXTINF:-1,Star Sport-Rs19
+#EXTINF:-1 ,Star Sport-Rs19
 http://111.88.4.33:5000/play/a05p/index.m3u8
-#EXTINF:-1,Star Sport-Rs19
+#EXTINF:-1 ,Star Sport-Rs19
 http://111.88.4.33:5000/play/a040/index.m3u8
-#EXTINF:-1,Star Sports 3- Rs 4
+#EXTINF:-1 ,Star Sports 3- Rs 4
 http://111.88.4.33:5000/play/a0i6/index.m3u8
-#EXTINF:-1,TLC HD- Rs3
+#EXTINF:-1 ,TLC HD- Rs3
 http://111.88.4.33:5000/play/a04c/index.m3u8
-#EXTINF:-1,UTV ACTION-Rs 2
-http://111.88.4.33:5000/play/a06o/index.m3u8
-#EXTINF:-1,UTV MOVIES-Rs 2
-http://111.88.4.33:5000/play/a06n/index.m3u8
-#EXTINF:-1,&flix HD-Rs 19
-http://59.103.245.153:8000/play/a04w/index.m3u8
-#EXTINF:-1,&pictures HD -Rs 19
-http://59.103.245.153:8000/play/a05d/index.m3u8
-#EXTINF:-1,&prive HD-Rs 6
-http://59.103.245.153:8000/play/a05j/index.m3u8
-#EXTINF:-1,24 News HD
-http://59.103.245.153:8000/play/a00x/index.m3u8
-#EXTINF:-1,ARYDigitalAsia HD
-http://59.103.245.153:8000/play/a014/index.m3u8
-#EXTINF:-1,ARYMusik
-http://59.103.245.153:8000/play/a016/index.m3u8
-#EXTINF:-1,ARYNewsAsia
-http://59.103.245.153:8000/play/a017/index.m3u8
-#EXTINF:-1,ARYQTV
-http://59.103.245.153:8000/play/a015/index.m3u8
-#EXTINF:-1,ARYZindagi
-http://59.103.245.153:8000/play/a013/index.m3u8
-#EXTINF:-1,Animal PlanetHD-Rs5
-http://59.103.245.153:8000/play/a057/index.m3u8
-#EXTINF:-1,Avt khyber HD
-http://59.103.245.153:8000/play/a00i/index.m3u8
-#EXTINF:-1,CITY-21
-http://59.103.245.153:8000/play/a012/index.m3u8
-#EXTINF:-1,CITY-41
-http://59.103.245.153:8000/play/a00z/index.m3u8
-#EXTINF:-1,CITY-42 HD
-http://59.103.245.153:8000/play/a00y/index.m3u8
-#EXTINF:-1,Cartoon NW-Rs4.25
-http://59.103.245.153:8000/play/a06k/index.m3u8
-#EXTINF:-1,Colors HD-Rs 19
-http://59.103.245.153:8000/play/a04v/index.m3u8
-#EXTINF:-1,Digital 1
-http://59.103.245.153:8000/play/a00w/index.m3u8
-#EXTINF:-1,Digital 1
-http://59.103.245.153:8000/play/a00v/index.m3u8
-#EXTINF:-1,Digital 1
-http://59.103.245.153:8000/play/a00u/index.m3u8
-
-#EXTINF:-1,Khyber News HD
-http://59.103.245.153:8000/play/a00j/index.m3u8
-#EXTINF:-1,MASALA TV
-http://59.103.245.153:8000/play/a00m/index.m3u8
-#EXTINF:-1,MN+ HD-Rs 8
-http://59.103.245.153:8000/play/a06e/index.m3u8
-#EXTINF:-1,Nat Geo HD-Rs14
-http://59.103.245.153:8000/play/a06h/index.m3u8
-#EXTINF:-1,NatGeo Wild HD-Rs8
-http://59.103.245.153:8000/play/a065/index.m3u8
-#EXTINF:-1,PTV-Home
-http://59.103.245.153:8000/play/a009/index.m3u8
-#EXTINF:-1,PTV-NEWS HD
-http://59.103.245.153:8000/play/a00a/index.m3u8
-#EXTINF:-1,PTV-SPORTS-HD
-http://59.103.245.153:8000/play/a00c/index.m3u8
-#EXTINF:-1,PTV-Sports SD
-http://59.103.245.153:8000/play/a00e/index.m3u8
-#EXTINF:-1,PTV-Teleschool
-http://59.103.245.153:8000/play/a00b/index.m3u8
-#EXTINF:-1,PTV-World
-http://59.103.245.153:8000/play/a00d/index.m3u8
-#EXTINF:-1,Pogo - Rs 4.25
-http://59.103.245.153:8000/play/a06q/index.m3u8
-#EXTINF:-1,ROHI TV
-http://59.103.245.153:8000/play/a010/index.m3u8
-#EXTINF:-1,Radio_Apna & Nori
-http://59.103.245.153:8000/play/a00h/index.m3u8
-#EXTINF:-1,Radio_Pakistan-1
-http://59.103.245.153:8000/play/a00f/index.m3u8
-#EXTINF:-1,Radio_Sawat & Waziristan
-http://59.103.245.153:8000/play/a00g/index.m3u8
-#EXTINF:-1,SET HD - Rs 19
-http://59.103.245.153:8000/play/a04x/index.m3u8
-#EXTINF:-1,SONIC- Rs 2
-http://59.103.245.153:8000/play/a06p/index.m3u8
-#EXTINF:-1,SONY MAX 2 - Rs 1
-http://59.103.245.153:8000/play/a05r/index.m3u8
-#EXTINF:-1,SONY MAX HD -Rs 19
-http://59.103.245.153:8000/play/a064/index.m3u8
-#EXTINF:-1,SONY PAL - 50p
-http://59.103.245.153:8000/play/a052/index.m3u8
-#EXTINF:-1,SONY PIX HD - Rs 19
-http://59.103.245.153:8000/play/a05c/index.m3u8
-#EXTINF:-1,STAR BHARAT HD-Rs 19
-http://59.103.245.153:8000/play/a056/index.m3u8
-#EXTINF:-1,STAR MOVIES HD-Rs19
-http://59.103.245.153:8000/play/a06f/index.m3u8
-#EXTINF:-1,STAR WORLD HD -Rs 9
-http://59.103.245.153:8000/play/a05y/index.m3u8
-#EXTINF:-1,Sony Ten 1 HD-Rs19
-http://59.103.245.153:8000/play/a061/index.m3u8
-#EXTINF:-1,Sony Ten 2 HD-Rs19
-http://59.103.245.153:8000/play/a05g/index.m3u8
-#EXTINF:-1,Sony Ten 3 HD-Rs19
-http://59.103.245.153:8000/play/a067/index.m3u8
-#EXTINF:-1,Sony Ten 5 HD-Rs19
-http://59.103.245.153:8000/play/a062/index.m3u8
-#EXTINF:-1,SonyBBCearthHD-Rs19
-http://59.103.245.153:8000/play/a05b/index.m3u8
-#EXTINF:-1,Sports18 1 HD-Rs10
-http://59.103.245.153:8000/play/a06b/index.m3u8
-#EXTINF:-1,Star GOLD HD -Rs 19
-http://59.103.245.153:8000/play/a058/index.m3u8
-#EXTINF:-1,Star Gold 2- Rs 2
-http://59.103.245.153:8000/play/a05p/index.m3u8
-#EXTINF:-1,Star Plus HD -Rs 19
-http://59.103.245.153:8000/play/a04t/index.m3u8
-#EXTINF:-1,Star Sports 3- Rs 2
-http://59.103.245.153:8000/play/a068/index.m3u8
-#EXTINF:-1,Star Utsav-50p
-http://59.103.245.153:8000/play/a051/index.m3u8
-#EXTINF:-1,StarGold SelHD-Rs8
-http://59.103.245.153:8000/play/a05a/index.m3u8
-#EXTINF:-1,StarMovieSelHD-Rs19
-http://59.103.245.153:8000/play/a06g/index.m3u8
-#EXTINF:-1,StarS1 HindiHD-Rs19
-http://59.103.245.153:8000/play/a063/index.m3u8
-#EXTINF:-1,StarSportSL1HD-Rs19
-http://59.103.245.153:8000/play/a05e/index.m3u8
-#EXTINF:-1,StarSportSL2HD-Rs10
-http://59.103.245.153:8000/play/a05f/index.m3u8
-#EXTINF:-1,StarSports1 HD-Rs19
-http://59.103.245.153:8000/play/a05z/index.m3u8
-#EXTINF:-1,StarSports2 HD-Rs19
-http://59.103.245.153:8000/play/a060/index.m3u8
-#EXTINF:-1,StarWorld PrmHD-Rs9
-http://59.103.245.153:8000/play/a05x/index.m3u8
-#EXTINF:-1,TLC HD- Rs3
-http://59.103.245.153:8000/play/a06c/index.m3u8
-#EXTINF:-1,UK-44
-http://59.103.245.153:8000/play/a011/index.m3u8
-#EXTINF:-1,UTV ACTION-Rs 2
-http://59.103.245.153:8000/play/a05o/index.m3u8
-#EXTINF:-1,UTV MOVIES-Rs 2
-http://59.103.245.153:8000/play/a05n/index.m3u8
-#EXTINF:-1,ZEE ANMOL-10p
-http://59.103.245.153:8000/play/a053/index.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD-Rs3
-http://59.103.245.153:8000/play/a05q/index.m3u8
-#EXTINF:-1,ZEE CINEMA HD-Rs 19
-http://59.103.245.153:8000/play/a055/index.m3u8
-#EXTINF:-1,ZEE Cafe HD - Rs10
-http://59.103.245.153:8000/play/a06d/index.m3u8
-#EXTINF:-1,ZEE TV HD-Rs 19
-http://59.103.245.153:8000/play/a04u/index.m3u8
-#EXTINF:-1,bindass - 10p
-http://59.103.245.153:8000/play/a050/index.m3u8
-#EXTINF:-1,colors rishtey-Rs1
-http://59.103.245.153:8000/play/a04z/index.m3u8
-#EXTINF:-1,colorsInfintyHD-Rs9
-http://59.103.245.153:8000/play/a05h/index.m3u8
-#EXTINF:-1,hungama tv-Rs 1
-http://59.103.245.153:8000/play/a06l/index.m3u8
-#EXTINF:-1,nick - Rs 6
-http://59.103.245.153:8000/play/a06n/index.m3u8
-#EXTINF:-1,nick HD+- Rs 10
-http://59.103.245.153:8000/play/a05i/index.m3u8
-#EXTINF:-1 ,T Sports Official
-https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
 #EXTINF:-1 ,Citavision Spots 2HD
@@ -280,8 +111,6 @@ http://51.210.199.32/hls/stream.m3u8
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,True vision 2
-http://4digital.ddns.net:11224/ts/0
 #EXTINF:-1 ,MAT4_1
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 ,Setanta Sports 1
@@ -312,8 +141,6 @@ http://iptv.prosto.tv:7000/ch117/video.m3u8
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,BeIN Sports Premium 2 4K
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,A SportsHD 🇮🇳
-http://180.178.188.152:8000/play/a0ad
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
 #EXTINF:-1 ,ESPN 🇦🇷
