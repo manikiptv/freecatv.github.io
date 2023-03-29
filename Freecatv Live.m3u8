@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 ,Fox Sports 501
+https://eas4.gcdn.co/UKS37/index.m3u8
+#EXTINF:-1 ,Willow Cricket Extra
+https://eas4.gcdn.co/UKS85/index.m3u8
+#EXTINF:-1 ,Willow Cricket
+https://eas4.gcdn.co/UKS84/index.m3u8
+#EXTINF:-1 ,GEO Super
+https://eas4.gcdn.co/UKS39/index.m3u8
+#EXTINF:-1 ,Ten Sports HD
+https://eas4.gcdn.co/UKS82/index.m3u8
 #EXTINF:-1 ,&PRIVE HD-Rs 19
 http://111.88.4.33:5000/play/a06i/index.m3u8
 #EXTINF:-1 ,&flix HD-Rs19
