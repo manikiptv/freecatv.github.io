@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 ,ESPN 🇦🇷
+http://170.83.242.8:5350/play/a00u
+#EXTINF:-1 ,ESPN 2 LATIN 🇦🇷
+http://170.83.242.8:5350/play/a00t
+#EXTINF:-1 ,FOX SPORTS 3 🇦🇷
+http://170.83.242.155:5350/play/a014
+#EXTINF:-1 ,TELEMUNDO 🇲🇽
+http://71.187.29.54:8000/play/a07a/index.m3u8
+#EXTINF:-1 ,MAX SPORT 3HD 🇧🇬
+http://62.176.77.22:9781/play/a00i
+#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantahd
+#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
+https://livetv.mylifeisgood.ml/channels/setantaplus
+#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 #EXTINF:-1 ,Fox Sports 501
 https://eas4.gcdn.co/UKS37/index.m3u8
 #EXTINF:-1 ,Willow Cricket Extra
