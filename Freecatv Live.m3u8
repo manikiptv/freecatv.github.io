@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,T Sports Live IPL
+http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w155573767.m3u8
 #EXTINF:-1 ,ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
 #EXTINF:-1 ,ESPN 2 LATIN 🇦🇷
