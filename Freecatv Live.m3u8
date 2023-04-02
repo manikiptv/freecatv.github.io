@@ -33,10 +33,6 @@ https://eas4.gcdn.co/UKS37/index.m3u8
 https://eas4.gcdn.co/UKS84/index.m3u8
 #EXTINF:-1 ,Ten Sports HD
 https://eas4.gcdn.co/UKS82/index.m3u8
-#EXTINF:-1 ,&PRIVE HD-Rs 19
-http://111.88.4.33:5000/play/a06i/index.m3u8
-#EXTINF:-1 ,&flix HD-Rs19
-http://111.88.4.33:5000/play/a057/index.m3u8
 #EXTINF:-1 ,&pictures -Rs19
 http://111.88.4.33:5000/play/a05o/index.m3u8
 #EXTINF:-1 ,A SportsHD
@@ -57,16 +53,8 @@ http://111.88.4.33:5000/play/a0i1/index.m3u8
 http://111.88.4.33:5000/play/a04s/index.m3u8
 #EXTINF:-1 ,Discovery H-Rs6
 http://111.88.4.33:5000/play/a04i/index.m3u8
-#EXTINF:-1 ,Discovery S-Rs1
-http://111.88.4.33:5000/play/a06k/index.m3u8
-#EXTINF:-1 ,Discovery T-Rs1
-http://111.88.4.33:5000/play/a06l/index.m3u8
 #EXTINF:-1 ,Disney Chanel
 http://111.88.4.33:5000/play/a04m/index.m3u8
-#EXTINF:-1 ,Disney Jr.-Rs 4
-http://111.88.4.33:5000/play/a04o/index.m3u8
-#EXTINF:-1 ,EuroSports HD-Rs 6
-http://111.88.4.33:5000/play/a06f/index.m3u8
 #EXTINF:-1 ,FOX Life HD-Rs 1
 http://111.88.4.33:5000/play/a0gw/index.m3u8
 #EXTINF:-1 ,HISTORY TV1-Rs7
@@ -77,8 +65,6 @@ http://111.88.4.33:5000/play/a0hs/index.m3u8
 http://111.88.4.33:5000/play/a04e/index.m3u8
 #EXTINF:-1 ,MOVIES NO-Rs 10
 http://111.88.4.33:5000/play/a050/index.m3u8
-#EXTINF:-1 ,NATGEO WILD HD
-http://111.88.4.33:5000/play/a047/index.m3u8
 #EXTINF:-1 ,National G-Rs10
 http://111.88.4.33:5000/play/a04h/index.m3u8
 #EXTINF:-1 ,PIX HD - Rs 15
@@ -87,20 +73,14 @@ http://111.88.4.33:5000/play/a05n/index.m3u8
 http://111.88.4.33:5000/play/a0gf/index.m3u8
 #EXTINF:-1 ,Pogo - Rs 4.25
 http://111.88.4.33:5000/play/a0hz/index.m3u8
-#EXTINF:-1 ,SET HD - Rs 19
-http://111.88.4.33:5000/play/a058/index.m3u8
 #EXTINF:-1 ,SONIC- Rs 2
 http://111.88.4.33:5000/play/a04p/index.m3u8
 #EXTINF:-1 ,SONY MAX 2 - Rs 1
 http://111.88.4.33:5000/play/a06r/index.m3u8
-#EXTINF:-1 ,SONY MAX HD
-http://111.88.4.33:5000/play/a046/index.m3u8
 #EXTINF:-1 ,SONY SIX HD
 http://111.88.4.33:5000/play/a043/index.m3u8
 #EXTINF:-1 ,SONY TEN 1HD
 http://111.88.4.33:5000/play/a042/index.m3u8
-#EXTINF:-1 ,SONY TEN 3HD
-http://111.88.4.33:5000/play/a049/index.m3u8
 #EXTINF:-1 ,STAR BHARA-Rs19
 http://111.88.4.33:5000/play/a05h/index.m3u8
 #EXTINF:-1 ,STAR MOVI-Rs 19
@@ -111,30 +91,16 @@ http://111.88.4.33:5000/play/a044/index.m3u8
 http://111.88.4.33:5000/play/a041/index.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD- Rs 17
 http://111.88.4.33:5000/play/a05r/index.m3u8
-#EXTINF:-1 ,SonyBBCearthHD-Rs10
-http://111.88.4.33:5000/play/a0gj/index.m3u8
-#EXTINF:-1 ,Sports18 1 HD-Rs12
-http://111.88.4.33:5000/play/a0hy/index.m3u8
 #EXTINF:-1 ,Star GOLD -Rs10
 http://111.88.4.33:5000/play/a05j/index.m3u8
 #EXTINF:-1 ,Star Gold 2- Rs 1
 http://111.88.4.33:5000/play/a06p/index.m3u8
-#EXTINF:-1 ,Star Gold SelHD-Rs10
-http://111.88.4.33:5000/play/a05l/index.m3u8
 #EXTINF:-1 ,Star Movi-Rs 10
 http://111.88.4.33:5000/play/a04g/index.m3u8
-#EXTINF:-1 ,Star Plus -Rs19
-http://111.88.4.33:5000/play/a054/index.m3u8
 #EXTINF:-1 ,Star Sport-Rs10
 http://111.88.4.33:5000/play/a05q/index.m3u8
-#EXTINF:-1 ,Star Sport-Rs19
-http://111.88.4.33:5000/play/a05p/index.m3u8
-#EXTINF:-1 ,Star Sport-Rs19
-http://111.88.4.33:5000/play/a040/index.m3u8
 #EXTINF:-1 ,Star Sports 3- Rs 4
 http://111.88.4.33:5000/play/a0i6/index.m3u8
-#EXTINF:-1 ,TLC HD- Rs3
-http://111.88.4.33:5000/play/a04c/index.m3u8
 #EXTINF:-1 ,Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
 #EXTINF:-1 ,Citavision Spots 2HD
