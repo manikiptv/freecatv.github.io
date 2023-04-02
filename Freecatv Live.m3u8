@@ -1,12 +1,16 @@
 #EXTM3U
+#EXTINF:-1 ,Bein SPORTS PREMIUM
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:-1 ,BeIN Sports Premium 1 4K
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,BeIN Sports Premium 2 4K
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,IPL m3u
 http://180.178.188.152:8000/play/a012
 #EXTINF:-1 ,SkySport|Football
 http://204.12.247.162:8080/premium35/mono.m3u8
 #EXTINF:-1 ,SKYSPORTS•ARENA
 https://eas4.gcdn.co/UKS51/index.m3u8
-#EXTINF:-1 ,T Sports Live IPL
-http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w155573767.m3u8
 #EXTINF:-1 ,ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
 #EXTINF:-1 ,ESPN 2 LATIN 🇦🇷
@@ -167,10 +171,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 ,BeIN Sports Premium 1 4K
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,BeIN Sports Premium 2 4K
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
 http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
 #EXTINF:-1 ,MATH 🇷🇺
