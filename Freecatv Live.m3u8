@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,Laliga live  channel
+https://linear-490.frequency.stream:443/dist/vix/490/hls/master/playlist_384x216.m3u8
+#EXTINF:-1,English IPL
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl08/master.m3u8
+#EXTINF:-1,Bangla IPL
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_ipl08/master.m3u8
+#EXTINF:-1,Liga de Campeones HD
+http://31785386944262412.niceome.xyz:80/play/va08271/4122744267/262412.m3u8
+#EXTINF:-1,Liga de Campeones HD
+http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
+#EXTINF:-1,Liga de Campeones 2 FHD
+http://973221031933165365.onames.xyz:80/play/vi1012896/5352893835/165365.m3u8
+#EXTINF:-1,Liga de Campeones 2 SD
+http://973221031933282459.onames.xyz:80/play/vi1012896/5352893835/282459.m3u8
 #EXTINF:-1 ,Bein SPORTS PREMIUM
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 ,BeIN Sports Premium 1 4K
