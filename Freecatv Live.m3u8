@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,Sony Ten 2 HD
+http://175.107.244.52:4455/play/a00v/index.m3u8
+#EXTINF:-1 ,Sports 4
+http://103.102.27.173/live/tvfeed1005/index.m3u8
+#EXTINF:-1 ,Sports 5
+http://103.102.27.173/live/tvfeed1006/index.m3u8
 #EXTINF:-1,Laliga live  channel
 https://linear-490.frequency.stream:443/dist/vix/490/hls/master/playlist_384x216.m3u8
 #EXTINF:-1,English IPL
