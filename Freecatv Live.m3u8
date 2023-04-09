@@ -5,19 +5,19 @@ http://175.107.244.52:4455/play/a00v/index.m3u8
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 ,Sports 5
 http://103.102.27.173/live/tvfeed1006/index.m3u8
-#EXTINF:-1,Laliga live  channel
+#EXTINF:-1 ,Laliga live  channel
 https://linear-490.frequency.stream:443/dist/vix/490/hls/master/playlist_384x216.m3u8
-#EXTINF:-1,English IPL
+#EXTINF:-1 ,English IPL
 https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl08/master.m3u8
-#EXTINF:-1,Bangla IPL
+#EXTINF:-1 ,Bangla IPL
 https://prod-sports-hin-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_ipl08/master.m3u8
-#EXTINF:-1,Liga de Campeones HD
-http://31785386944262412.niceome.xyz:80/play/va08271/4122744267/262412.m3u8
-#EXTINF:-1,Liga de Campeones HD
+#EXTINF:-1 ,Liga de Campeones HD
 http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
-#EXTINF:-1,Liga de Campeones 2 FHD
+#EXTINF:-1 ,DAZN LALIGA SD
+http://31785386944320792.niceome.xyz:80/play/va08271/4122744267/320792.m3u8
+#EXTINF:-1 ,Liga de Campeones 2 FHD
 http://973221031933165365.onames.xyz:80/play/vi1012896/5352893835/165365.m3u8
-#EXTINF:-1,Liga de Campeones 2 SD
+#EXTINF:-1 ,Liga de Campeones 2 SD
 http://973221031933282459.onames.xyz:80/play/vi1012896/5352893835/282459.m3u8
 #EXTINF:-1 ,Bein SPORTS PREMIUM
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
@@ -47,96 +47,12 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 #EXTINF:-1 ,&pictures -Rs19
 http://111.88.4.33:5000/play/a05o/index.m3u8
-#EXTINF:-1 ,A SportsHD
-http://111.88.4.33:5000/play/a0gi/index.m3u8
-#EXTINF:-1 ,ABN News - HD
-http://111.88.4.33:5000/play/a0i0/index.m3u8
-#EXTINF:-1 ,ANIMAL PLAN-Rs3
-http://111.88.4.33:5000/play/a05i/index.m3u8
-#EXTINF:-1 ,BBC WORLD - Rs 1
-http://111.88.4.33:5000/play/a04x/index.m3u8
-#EXTINF:-1 ,CARTOON-Rs4.25
-http://111.88.4.33:5000/play/a04k/index.m3u8
-#EXTINF:-1 ,Colors HD-Rs 19
-http://111.88.4.33:5000/play/a0ge/index.m3u8
-#EXTINF:-1 ,Comedy Central-Rs 5
-http://111.88.4.33:5000/play/a0i1/index.m3u8
-#EXTINF:-1 ,DISCOVERY K-Rs3
-http://111.88.4.33:5000/play/a04s/index.m3u8
-#EXTINF:-1 ,Discovery H-Rs6
-http://111.88.4.33:5000/play/a04i/index.m3u8
-#EXTINF:-1 ,Disney Chanel
-http://111.88.4.33:5000/play/a04m/index.m3u8
-#EXTINF:-1 ,FOX Life HD-Rs 1
-http://111.88.4.33:5000/play/a0gw/index.m3u8
-#EXTINF:-1 ,HISTORY TV1-Rs7
-http://111.88.4.33:5000/play/a05k/index.m3u8
-#EXTINF:-1 ,Investigation D-Rs1
-http://111.88.4.33:5000/play/a0hs/index.m3u8
-#EXTINF:-1 ,MN+ HD-Rs 10
-http://111.88.4.33:5000/play/a04e/index.m3u8
-#EXTINF:-1 ,MOVIES NO-Rs 10
-http://111.88.4.33:5000/play/a050/index.m3u8
-#EXTINF:-1 ,National G-Rs10
-http://111.88.4.33:5000/play/a04h/index.m3u8
-#EXTINF:-1 ,PIX HD - Rs 15
-http://111.88.4.33:5000/play/a05n/index.m3u8
-#EXTINF:-1 ,PTV-SPORTS-HD
-http://111.88.4.33:5000/play/a0gf/index.m3u8
-#EXTINF:-1 ,Pogo - Rs 4.25
-http://111.88.4.33:5000/play/a0hz/index.m3u8
-#EXTINF:-1 ,SONIC- Rs 2
-http://111.88.4.33:5000/play/a04p/index.m3u8
-#EXTINF:-1 ,SONY MAX 2 - Rs 1
-http://111.88.4.33:5000/play/a06r/index.m3u8
-#EXTINF:-1 ,SONY SIX HD
-http://111.88.4.33:5000/play/a043/index.m3u8
-#EXTINF:-1 ,SONY TEN 1HD
-http://111.88.4.33:5000/play/a042/index.m3u8
-#EXTINF:-1 ,STAR BHARA-Rs19
-http://111.88.4.33:5000/play/a05h/index.m3u8
-#EXTINF:-1 ,STAR MOVI-Rs 19
-http://111.88.4.33:5000/play/a04f/index.m3u8
-#EXTINF:-1 ,STAR SPORTS 1HD
-http://111.88.4.33:5000/play/a044/index.m3u8
-#EXTINF:-1 ,STAR SPORTS 2HD
-http://111.88.4.33:5000/play/a041/index.m3u8
-#EXTINF:-1 ,Sony Ten 2 HD- Rs 17
-http://111.88.4.33:5000/play/a05r/index.m3u8
-#EXTINF:-1 ,Star GOLD -Rs10
-http://111.88.4.33:5000/play/a05j/index.m3u8
-#EXTINF:-1 ,Star Gold 2- Rs 1
-http://111.88.4.33:5000/play/a06p/index.m3u8
-#EXTINF:-1 ,Star Movi-Rs 10
-http://111.88.4.33:5000/play/a04g/index.m3u8
-#EXTINF:-1 ,Star Sport-Rs10
-http://111.88.4.33:5000/play/a05q/index.m3u8
-#EXTINF:-1 ,Star Sports 3- Rs 4
-http://111.88.4.33:5000/play/a0i6/index.m3u8
 #EXTINF:-1 ,Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
 #EXTINF:-1 ,Citavision Spots 2HD
 http://213.7.193.54:4000/play/a005
 #EXTINF:-1 ,Persiana Sports
 http://51.210.199.32/hls/stream.m3u8
-#EXTINF:-1 ,Match!_Country HD
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,MAT4_1
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 ,Setanta Sports 1
-https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
-#EXTINF:-1 ,Setanta Sports 2
-https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
-#EXTINF:-1 ,TVRI_SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,RTV SPORT 🇸🇲
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1 ,SCTV VIDIO 🇯🇵
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#EXTINF:-1 ,TELEVIVO 🇺🇾
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 #EXTINF:-1 ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 ,MAQ TV CRICKET
