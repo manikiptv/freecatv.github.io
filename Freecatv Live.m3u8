@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 ,Star Sports 1 HD
+http://51.159.210.91/madstream.live/starhindi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Sports 1 HD Hindi
+http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Astro Cricket HD 1
+http://appsbiswas.live:8880/live/20320520/40320520/6547.m3u8
+#EXTINF:-1 ,Astro Cricket HD
+http://appsbiswas.live:8880/aftab965/9594r676tTZW/3207
+#EXTINF:-1 ,EUFA_National_League
+http://204.12.247.162:8080/premium134/mono.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD
 http://175.107.244.52:4455/play/a00v/index.m3u8
 #EXTINF:-1 ,Sports 4
@@ -7,10 +17,6 @@ http://103.102.27.173/live/tvfeed1005/index.m3u8
 http://103.102.27.173/live/tvfeed1006/index.m3u8
 #EXTINF:-1 ,Laliga live  channel
 https://linear-490.frequency.stream:443/dist/vix/490/hls/master/playlist_384x216.m3u8
-#EXTINF:-1 ,English IPL
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl08/master.m3u8
-#EXTINF:-1 ,Bangla IPL
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_ipl08/master.m3u8
 #EXTINF:-1 ,Liga de Campeones HD
 http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
 #EXTINF:-1 ,DAZN LALIGA SD
@@ -55,18 +61,12 @@ http://213.7.193.54:4000/play/a005
 http://51.210.199.32/hls/stream.m3u8
 #EXTINF:-1 ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 ,MAQ TV CRICKET
-http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1 ,MQC TV
-http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1 ,One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 ,X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 ,Eleven 1 HD 🇵🇹
-http://185.191.124.105:25461/raminp/TAQhPJncSa/15959
 #EXTINF:-1 ,MATH 🇷🇺
 https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 ,3 Sport HD 🇱🇹
