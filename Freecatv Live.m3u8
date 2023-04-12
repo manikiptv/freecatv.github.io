@@ -3,8 +3,6 @@
 http://51.159.210.91/madstream.live/starhindi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Sports 1 HD Hindi
 http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Astro Cricket HD 1
-http://appsbiswas.live:8880/live/20320520/40320520/6547.m3u8
 #EXTINF:-1 ,Astro Cricket HD
 http://appsbiswas.live:8880/aftab965/9594r676tTZW/3207
 #EXTINF:-1 ,EUFA_National_League
@@ -19,8 +17,6 @@ http://103.102.27.173/live/tvfeed1006/index.m3u8
 https://linear-490.frequency.stream:443/dist/vix/490/hls/master/playlist_384x216.m3u8
 #EXTINF:-1 ,Liga de Campeones HD
 http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
-#EXTINF:-1 ,DAZN LALIGA SD
-http://31785386944320792.niceome.xyz:80/play/va08271/4122744267/320792.m3u8
 #EXTINF:-1 ,Liga de Campeones 2 FHD
 http://973221031933165365.onames.xyz:80/play/vi1012896/5352893835/165365.m3u8
 #EXTINF:-1 ,Liga de Campeones 2 SD
