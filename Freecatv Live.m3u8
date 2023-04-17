@@ -1,10 +1,24 @@
 #EXTM3U
-#EXTINF:-1 ,Star Sports 1 HD
-http://51.159.210.91/madstream.live/starhindi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Sports 1 HD Hindi
-http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Astro Cricket HD
-http://appsbiswas.live:8880/aftab965/9594r676tTZW/3207
+#EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
+#EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
+http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
+#EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
+http://wixa.fire33.xyz:2052/live/663070308367/663070308367/525.m3u8
+#EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
+#EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
+http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_1.m3u8
+#EXTINF:-1 ,Arena Premium 1 🇧🇦
+http://82.118.0.14:8000/play/5100/index.m3u8
+#EXTINF:-1 ,Arena Premium 2 🇧🇦
+http://82.118.0.14:8000/play/5110/index.m3u8
+#EXTINF:-1 ,REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 ,BT SPORT 1 🇬🇧
+http://50.7.89.130:8080/g78fqx/video.m3u8?token=ZKF89T31BF
+#EXTINF:-1 ,BT SPORT 2 🇬🇧
+http://50.7.89.130:8080/4q4jwd/video.m3u8?token=ZKF89T31BF
 #EXTINF:-1 ,EUFA_National_League
 http://204.12.247.162:8080/premium134/mono.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD
@@ -21,14 +35,10 @@ http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
 http://973221031933165365.onames.xyz:80/play/vi1012896/5352893835/165365.m3u8
 #EXTINF:-1 ,Liga de Campeones 2 SD
 http://973221031933282459.onames.xyz:80/play/vi1012896/5352893835/282459.m3u8
-#EXTINF:-1 ,Bein SPORTS PREMIUM
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 ,BeIN Sports Premium 1 4K
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,BeIN Sports Premium 2 4K
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,IPL m3u
-http://180.178.188.152:8000/play/a012
 #EXTINF:-1 ,SkySport|Football
 http://204.12.247.162:8080/premium35/mono.m3u8
 #EXTINF:-1 ,ESPN 🇦🇷
