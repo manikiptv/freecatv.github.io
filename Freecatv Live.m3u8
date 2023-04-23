@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,SKY SPORTS F1 [HD]
+http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
+#EXTINF:-1 ,Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 2 HD
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
@@ -19,8 +27,6 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 http://50.7.89.130:8080/g78fqx/video.m3u8?token=ZKF89T31BF
 #EXTINF:-1 ,BT SPORT 2 🇬🇧
 http://50.7.89.130:8080/4q4jwd/video.m3u8?token=ZKF89T31BF
-#EXTINF:-1 ,EUFA_National_League
-http://204.12.247.162:8080/premium134/mono.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD
 http://175.107.244.52:4455/play/a00v/index.m3u8
 #EXTINF:-1 ,Sports 4
@@ -39,8 +45,6 @@ http://973221031933282459.onames.xyz:80/play/vi1012896/5352893835/282459.m3u8
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,BeIN Sports Premium 2 4K
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,SkySport|Football
-http://204.12.247.162:8080/premium35/mono.m3u8
 #EXTINF:-1 ,ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
 #EXTINF:-1 ,ESPN 2 LATIN 🇦🇷
