@@ -12,15 +12,9 @@ http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
 http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
 #EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
-http://wixa.fire33.xyz:2052/live/663070308367/663070308367/525.m3u8
-#EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
 http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_1.m3u8
-#EXTINF:-1 ,Arena Premium 1 🇧🇦
-http://82.118.0.14:8000/play/5100/index.m3u8
-#EXTINF:-1 ,Arena Premium 2 🇧🇦
-http://82.118.0.14:8000/play/5110/index.m3u8
 #EXTINF:-1 ,REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD
@@ -29,8 +23,6 @@ http://175.107.244.52:4455/play/a00v/index.m3u8
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 ,Sports 5
 http://103.102.27.173/live/tvfeed1006/index.m3u8
-#EXTINF:-1 ,Laliga live  channel
-https://linear-490.frequency.stream:443/dist/vix/490/hls/master/playlist_384x216.m3u8
 #EXTINF:-1 ,Liga de Campeones HD
 http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
 #EXTINF:-1 ,Liga de Campeones 2 FHD
@@ -57,8 +49,6 @@ https://livetv.mylifeisgood.ml/channels/setantaplus
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
 #EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
-#EXTINF:-1 ,&pictures -Rs19
-http://111.88.4.33:5000/play/a05o/index.m3u8
 #EXTINF:-1 ,Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
 #EXTINF:-1 ,Citavision Spots 2HD
@@ -135,8 +125,6 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 ,Red Bull TV (Austria)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 ,ESPN 2 HD
-http://190.5.200.52:8000/play/a00i/index.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Tennis Channel
@@ -151,8 +139,6 @@ http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
 http://live.budtvlight.com:25461/live/bud-1763358/7f63ee0473/39090.m3u8
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
 http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/19158/index.m3u8
-#EXTINF:-1 ,DAZN LA LIGA 🇪🇸
-http://sdmx.us:25461/belfast/belfast/220429
 #EXTINF:-1 ,BEIN SPORTS 1 🇶🇦
 http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/59734.m3u8
 #EXTINF:-1 ,Uzbekistan Sport 🇺🇿
@@ -183,12 +169,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138423
 http://94.250.2.6:7374/play/a02n/index.m3u8
 #EXTINF:-1 ,Arena sport 3 HD 🇷🇸
 http://94.250.2.6:7374/play/a02o/index.m3u8
-#EXTINF:-1 ,Arena Premium 3 🇧🇦
-http://82.118.0.14:8000/play/5120/index.m3u8
-#EXTINF:-1 ,Arena Sport 5 🇧🇦
-http://82.118.0.14:8000/play/11/index.m3u8
-#EXTINF:-1 ,Arena Sport 6 🇧🇦
-http://82.118.0.14:8000/play/12/index.m3u8
 #EXTINF:-1 ,MAX SPORT 1 🇧🇬
 http://212.5.59.2:9882/play/a017/index.m3u8
 #EXTINF:-1 ,MAX SPORT 2 🇧🇬
@@ -211,10 +191,6 @@ http://84.17.61.203:8086/udp/229.35.15.183:1234
 http://84.17.61.203:8086/udp/229.35.15.112:1234
 #EXTINF:-1 ,Prima Sport 3 🇷🇴
 http://84.17.61.203:8086/udp/229.35.21.1:1234
-#EXTINF:-1 ,Setanta Sports Live 🇺🇦
-http://78.26.128.59:9876/play/4/index.m3u8
-#EXTINF:-1 ,Setanta Sports Live 🇺🇦
-http://78.26.128.59:9876/play/161/index.m3u8
 #EXTINF:-1 ,Матч!Футбол 2 🇷🇺
 http://80.251.49.103:8003/play/188
 #EXTINF:-1 ,МАТЧ! ФУТБОЛ 1 HD 🇷🇺
@@ -223,10 +199,6 @@ http://80.251.49.103:8003/play/140
 http://80.251.49.103:8003/play/232
 #EXTINF:-1 ,SPORT 1 HD 🇷🇺
 http://88.216.83.245:80/sport1/index.m3u8
-#EXTINF:-1 ,Sport 3 🇷🇺
-http://78.26.128.59:9876/play/535/index.m3u8
-#EXTINF:-1 ,Sport 4 🇷🇺
-http://78.26.128.59:9876/play/518/index.m3u8
 #EXTINF:-1 ,VIASAT SPORT C MORE 🇷🇺
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 ,SPORT RU 🇷🇺
@@ -271,8 +243,6 @@ http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593789
 http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593790
 #EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 2 50FPS FHD
 http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593767
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 2 FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593768
 #EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 2 HD
 http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593769
 #EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 2 SD
