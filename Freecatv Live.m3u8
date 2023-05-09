@@ -9,12 +9,8 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 #EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
-#EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
-http://94.130.163.18:5080/WebRTCApp/streams/01_Bein_Premuim_1.m3u8
 #EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
 http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
-#EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
-http://94.130.163.18:5080/WebRTCApp/streams/02_Bein_Premuim_1.m3u8
 #EXTINF:-1 ,REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD
@@ -77,8 +73,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://31.146.176.94:80/setanta2/index.m3u8
 #EXTINF:-1 ,BeinPremium_1_arb
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1 ,BTV5 -SPORTS
-https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 ,Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 ,Dubai Sports 3
@@ -91,10 +85,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-sam
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
 #EXTINF:-1 ,Fox Sports Premium MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-#EXTINF:-1 ,FoxSports2_p
-http://190.131.228.59:8000/play/a065/index.m3u8
-#EXTINF:-1 ,FoxSports3_p
-http://190.131.228.59:8000/play/a066/index.m3u8
 #EXTINF:-1 ,Freecatv Euro.Sports 2
 http://175.107.244.52:4457/play/a06w/index.m3u8
 #EXTINF:-1 ,PREMIER SPORTS 2 [HD]
@@ -105,32 +95,20 @@ http://62.182.82.104/Saudi_1/index.m3u8?token=test&v=1673204766768
 http://62.182.82.104/Saudi_2/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,SCTV VIDIO 🇯🇵
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#EXTINF:-1 ,SCTV15 -SPORTS
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 ,SCTV17 -SPORTS
-https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 ,SCTV22 -SPORTS
-https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
 #EXTINF:-1 ,Setanta Sports 1
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 #EXTINF:-1 ,Setanta Sports 2
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,TUDN 🇲🇽
-http://45.182.21.251:33334/play/a07y/index.m3u8
 #EXTINF:-1 ,Viasat_Sport_HD+
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,WinSports_p
-http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 ,Red Bull TV (Austria)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 ,TUDN HD USA 🇲🇽
-http://45.182.21.251:33334/play/a077/index.m3u8
 #EXTINF:-1 ,TELEVIVO 🇺🇾
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 #EXTINF:-1 ,BeIN Sports 3 Premium 4K
@@ -143,8 +121,6 @@ http://hyqzethr.megatv.fun/iptv/XKUCY8VBNVLNB7/19158/index.m3u8
 http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/59734.m3u8
 #EXTINF:-1 ,Uzbekistan Sport 🇺🇿
 http://ed42ca9f.edmonst.net/iptv/EPPBUUVM9QC84R/2239/index.m3u8
-#EXTINF:-1 ,CBC SPORT 🇦🇿
-http://de.iptv.monster/play/434/1C8A51F9C90B579/video.m3u8
 #EXTINF:-1 ,Setanta Ukraine + 🇺🇦
 http://95.67.12.89:9013
 #EXTINF:-1 ,NOVA Sport 3 🇨🇿
@@ -229,66 +205,8 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
 #EXTINF:-1 ,ELEVEN SPORTS 4 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 1 50FPS FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593763
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 1 FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593764
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 1 HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593765
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 1 SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593766
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 10 HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593789
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 10 SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593790
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 2 50FPS FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593767
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 2 HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593769
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 2 SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593770
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 3 50FPS FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593771
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT SPORT 3 FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593772
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 4 50FPS FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593775
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 4 FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593776
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 4 HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593777
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 4 SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593778
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 7 HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593783
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | BT Sport 7 SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593784
-#EXTINF:-1 group-title="UNITED KINGDOM" tvg-logo="o.png",UK | Sky Sports Main Event FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593732
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports Main Event HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593733
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports Main Event SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593734
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports NFL FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593750
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports NFL HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593751
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports NFL SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593752
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports Premier League FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593735
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports Premier League HD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593736
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports Premier League SD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593737
-#EXTINF:-1 group-title="UNITED KINGDOM",UK | Sky Sports Racing FHD
-http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/593759
-#EXTINF:-1 ,BT SPORT 1 🇬🇧
-http://mk3gi6qo.russtv.net/iptv/3PAWQ6X49YQUC8/2505/index.m3u8
 #EXTINF:-1 ,Sky Sports Cricket
 http://magicoiptv.org:8080/amina2023/trdamina/118334
-#EXTINF:-1 ,Star Sports 1
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
 #EXTINF:-1 ,ESPN4
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68527
 #EXTINF:-1 ,Directv Sport Arg
