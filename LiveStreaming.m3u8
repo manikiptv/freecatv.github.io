@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1,BT-sports.1
+#EXTINF:-1 ,BT-sports.1
 http://89.47.232.72:8080/live/Chris/Chris/4449.ts
-#EXTINF:-1,BT-sports.2
+#EXTINF:-1 ,BT-sports.2
 http://89.47.232.72:8080/live/Chris/Chris/4450.ts
-#EXTINF:-1,BT-sports.3
+#EXTINF:-1 ,BT-sports.3
 http://89.47.232.72:8080/live/Chris/Chris/4451.ts
-#EXTINF:-1,BT-sports.4
+#EXTINF:-1 ,BT-sports.4
 http://89.47.232.72:8080/live/Chris/Chris/4461.ts
-#EXTINF:-1,BT-sports.5
+#EXTINF:-1 ,BT-sports.5
 http://89.47.232.72:8080/live/Chris/Chris/4462.ts
-#EXTINF:-1,BT-sports.6
+#EXTINF:-1 ,BT-sports.6
 http://89.47.232.72:8080/live/Chris/Chris/4463.ts
-#EXTINF:-1,BT-sports.7
+#EXTINF:-1 ,BT-sports.7
 http://89.47.232.72:8080/live/Chris/Chris/4464.ts
-#EXTINF:-1,BT-sports.8
+#EXTINF:-1 ,BT-sports.8
 http://89.47.232.72:8080/live/Chris/Chris/4465.ts
-#EXTINF:-1,BT-sports.9
+#EXTINF:-1 ,BT-sports.9
 http://89.47.232.72:8080/live/Chris/Chris/4466.ts
-#EXTINF:-1,BT-sports.10
+#EXTINF:-1 ,BT-sports.10
 http://89.47.232.72:8080/live/Chris/Chris/4467.ts
-#EXTINF:-1,Skysports-MainEvent.HD
+#EXTINF:-1 ,Skysports-MainEvent.HD
 http://89.47.232.72:8080/live/Chris/Chris/5542.ts
-#EXTINF:-1,Skysports-Football.HD
+#EXTINF:-1 ,Skysports-Football.HD
 http://89.47.232.72:8080/live/Chris/Chris/5540.ts
-#EXTINF:-1,Skysports-Premier.Ligue.HD
+#EXTINF:-1 ,Skysports-Premier.Ligue.HD
 http://89.47.232.72:8080/live/Chris/Chris/5546.ts
-#EXTINF:-1,Skysports-Arena.HD
+#EXTINF:-1 ,Skysports-Arena.HD
 http://89.47.232.72:8080/live/Chris/Chris/5537.ts
-#EXTINF:-1,Skysports-Cricket.HD
+#EXTINF:-1 ,Skysports-Cricket.HD
 http://89.47.232.72:8080/live/Chris/Chris/5538.ts
-#EXTINF:-1,Skysports-F1.HD
+#EXTINF:-1 ,Skysports-F1.HD
 http://89.47.232.72:8080/live/Chris/Chris/5539.ts
-#EXTINF:-1,Skysports-Golf.HD
+#EXTINF:-1 ,Skysports-Golf.HD
 http://89.47.232.72:8080/live/Chris/Chris/5541.ts
-#EXTINF:-1,Skysports-Mix
+#EXTINF:-1 ,Skysports-Mix
 http://89.47.232.72:8080/live/Chris/Chris/5543.ts
-#EXTINF:-1,Skyspots-Racing
+#EXTINF:-1 ,Skyspots-Racing
 http://89.47.232.72:8080/live/Chris/Chris/5547.ts
 #EXTINF:-1 ,Tsports
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18l3IzRXGVnCOlgiqlsEwkPM
@@ -61,8 +61,6 @@ http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
 http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11637
 #EXTINF:-1 ,DSTV Cricket
 http://89.47.232.72:8080/live/Chris/Chris/531516.ts
-#EXTINF:-1 ,Skysports Cricket HD
-http://89.47.232.72:8080/live/Chris/Chris/5538.ts
 #EXTINF:-1 ,WILLOWXTRA CRICKET
 http://ky-iptv.com:80/live/chris7676/chris7676/1116408.ts
 #EXTINF:-1 ,STAR SPORTS 1 (4K).
@@ -103,8 +101,6 @@ http://humiptv.live:8080/live/242425/242425/215.ts
 http://humiptv.live:8080/live/242425/242425/5040.ts
 #EXTINF:-1 ,TEN CRICKET
 http://humiptv.live:8080/live/242425/242425/9886.ts
-#EXTINF:-1 ,BEIN CRICKET HD
-http://humiptv.live:8080/live/242425/242425/9115.ts
 #EXTINF:-1 ,Sky Sports F1 (4K)
 http://humiptv.live:8080/live/242425/242425/122181.ts
 #EXTINF:-1 ,Sky Sports News (4K)
