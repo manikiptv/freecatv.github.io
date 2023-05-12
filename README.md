@@ -1,3 +1,26 @@
-<h2 style="text-align: left;"><span style="color: #2b00fe;"><a href="https://freecatv.blogspot.com/" target="_blank">FreeCatv iptv m3u8</a></span></h2><h3 style="text-align: left;">
-Welcome to Manik's IPTV heaven
-</h3><div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjapnmAVmcZG7PCQm_OsCLz5L5LJOAS8NQ_A0RlZScITRzj1uJxGVYhx5eWuOwjXZr33nmFKqyoMEZNI3KsZ7eDh65SJhFrzWSERjohUCLqMsy75CGWX9b-nH554ennNmCnH9fZIuhhBmMByNZ-H6DQMwsRup6FDI8ujzkXSZLxEt2SIU4w9-ug3A/s1600/Freecatv.jpg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="freecatv.blogspot.com" border="0" data-original-height="425" data-original-width="728" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjapnmAVmcZG7PCQm_OsCLz5L5LJOAS8NQ_A0RlZScITRzj1uJxGVYhx5eWuOwjXZr33nmFKqyoMEZNI3KsZ7eDh65SJhFrzWSERjohUCLqMsy75CGWX9b-nH554ennNmCnH9fZIuhhBmMByNZ-H6DQMwsRup6FDI8ujzkXSZLxEt2SIU4w9-ug3A/s16000/Freecatv.jpg" title="freecatv.blogspot.com" /></a></div><div><br /></div><h3 style="text-align: left;"><a href="https://t.me/freecatviptv" target="_blank">Telegram Group</a></h3><h3 style="text-align: left;"><a href="https://t.me/freecatvm3u8" target="_blank">Telegram Channel</a></h3><h3 style="text-align: left;"><a href="https://www.facebook.com/groups/ownerfreecatv/" target="_blank">Facebook Group</a></h3><h3 style="text-align: left;"><a href="https://m.me/j/AbYt8TBLkyOWxtTr/" target="_blank">Facebook Chat Group</a></h3><h3 style="text-align: left;"><a href="https://chat.whatsapp.com/H0mKsjcqR9Y9y23Y4UX5xE" target="_blank">WhatsApp Group</a></h3><h3 style="text-align: left;"><a href="https://t.me/m3uplay" target="_blank">Telegram Backup</a></h3><h2 style="text-align: left;"><a href="https://freecatv.blogspot.com/" target="_blank">Download m3u Playlist file</a></h2><div><br /></div><div><b>Collect your desired live sports m3u8 links from the mentioned groups.&nbsp;</b></div><div><b>Stay tuned and get free IPTV service</b> 📡</div><div><br /></div><div><br /></div>
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhToUqDtUFd6Ny47NJwNX6I-8FYw9TrcsgooK3y6Ni85RD2g1jD3FLCKiu6oZsWzy9bY9X3LXfe48DnlpFcR_cPiMNC6N54_BLN7np8HwyHkwO5JSYmY1dZCTN2FfpMISYaKkgETmK-arB63R-Zy-dDjau5HEcyWbtjhOKPsM-PIXwLzJ2r2j8tMA/s1600/freecatv%20iptv%20m3u8.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="584" data-original-width="1001" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhToUqDtUFd6Ny47NJwNX6I-8FYw9TrcsgooK3y6Ni85RD2g1jD3FLCKiu6oZsWzy9bY9X3LXfe48DnlpFcR_cPiMNC6N54_BLN7np8HwyHkwO5JSYmY1dZCTN2FfpMISYaKkgETmK-arB63R-Zy-dDjau5HEcyWbtjhOKPsM-PIXwLzJ2r2j8tMA/s1600/freecatv%20iptv%20m3u8.jpg"/></a></div>
+
+
+
+
+
+
+
+<h1 align="center">Hi 😊, I'm Md Manik</h1>
+<h3 align="center">I am cable operator. Trying to improve IPTV m3u</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikiptv&label=Profile%20views&color=0e75b6&style=flat" alt="manikiptv" /> </p>
+
+- 🔭 I’m currently working on [**Freecatv**](https://freecatv.blogspot.com/)
+
+
+- 💬 Ask me about **Satellite Dish**
+
+
+- 📡 [**Sports Channel Lineup**](https://freecatv.blogspot.com/search/label/Sports?max-results=10)
+- ⚽ [**Telegram Live m3u8**](https://t.me/freecatviptv)
+- 🤝 [**Rss feed**](https://freecatv.blogspot.com/p/sitemap_7.html)
+- 🏏 [**Telegram Channel**](https://t.me/freecatvm3u8)
+- 💚 [**Facebook Group**](https://www.facebook.com/groups/ownerfreecatv/)
+- 🌼 [**Facebook Chat**](https://www.facebook.com/messages/t/8355472357857389)
+- 🌎 [**Whatsapp Group**](https://chat.whatsapp.com/H0mKsjcqR9Y9y23Y4UX5xE)
