@@ -1,180 +1,28 @@
 #EXTM3U
-#EXTINF:-1,SSC EXTRA 1 SD
+#EXTINF:-1 ,SSC EXTRA 1 SD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/233286
-#EXTINF:-1,SSC EXTRA 2
+#EXTINF:-1 ,SSC EXTRA 2
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222438
-#EXTINF:-1,SSC EXTRA 2 SD
+#EXTINF:-1 ,SSC EXTRA 2 SD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/233287
-#EXTINF:-1,SSC EXTRA 3
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222439
-#EXTINF:-1,SSC 1 HD Backup
+#EXTINF:-1 ,SSC 1 HD Backup
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/227169
-#EXTINF:-1,SSC 1 HD
+#EXTINF:-1 ,SSC 1 HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222440
-#EXTINF:-1,SSC 2 HD
+#EXTINF:-1 ,SSC 2 HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222441
-#EXTINF:-1,SSC 3 HD
+#EXTINF:-1 ,SSC 3 HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222442
-#EXTINF:-1,SSC 3 SD
+#EXTINF:-1 ,SSC 3 SD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222443
-#EXTINF:-1,SSC 4 HD
+#EXTINF:-1 ,SSC 4 HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222444
-#EXTINF:-1,SSC 5 HD
+#EXTINF:-1 ,SSC 5 HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222445
-#EXTINF:-1,SSC 6 HD
+#EXTINF:-1 ,SSC 6 HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222446
-#EXTINF:-1,SSC 7 HD
+#EXTINF:-1 ,SSC 7 HD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222447
-#EXTINF:-1,SuperSport Grandstand FHD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/695550
-#EXTINF:-1,SuperSport Grandstand HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678031
-#EXTINF:-1,SuperSport PSL HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678030
-#EXTINF:-1,SuperSport Premier League HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/694236
-#EXTINF:-1,SuperSport La Liga HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/683001
-#EXTINF:-1,SuperSport Football HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678024
-#EXTINF:-1,SuperSport Variety 1 FHD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678020
-#EXTINF:-1,SuperSport Variety 2 FHD AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678021
-#EXTINF:-1,SuperSport Variety 3 FHD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678022
-#EXTINF:-1,SuperSport Variety 4 FHD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678023
-#EXTINF:-1,SuperSport Action FHD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/683568
-#EXTINF:-1,SuperSport Action HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/694748
-#EXTINF:-1,SuperSport Rugby HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678026
-#EXTINF:-1,SuperSport Cricket FHD AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/688714
-#EXTINF:-1,SuperSport Golf HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678028
-#EXTINF:-1,SuperSport Tennis HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678027
-#EXTINF:-1,SuperSport Motorsport HD VIP AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/678025
-#EXTINF:-1,SuperSport Maximo HD AF
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/682919
-#EXTINF:-1,bein Sports Espana HD ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/8745
-#EXTINF:-1,DAZN 1 FHD VIP ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/683544
-#EXTINF:-1,DAZN 2 HD VIP ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/683545
-#EXTINF:-1,DAZN Laliga FHD ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/695843
-#EXTINF:-1,DAZN Laliga 2 FHD ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/696724
-#EXTINF:-1,DAZN F1 FHD ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/7246
-#EXTINF:-1,DAZN F1 HD ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/13549
-#EXTINF:-1,Movistar La Liga HD ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/669971
-#EXTINF:-1,Movistar La Liga FHD ES
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/16274
-#EXTINF:-1,Sky Sports Premier League FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692259
-#EXTINF:-1,Sky Sports Premier League HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692260
-#EXTINF:-1,Sky Sports Football FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692261
-#EXTINF:-1,Sky Sports Football HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692262
-#EXTINF:-1,Sky Sports Cricket FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692263
-#EXTINF:-1,Sky Sports Cricket HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692264
-#EXTINF:-1,Sky Sports Golf FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692265
-#EXTINF:-1,Sky Sports Golf HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692266
-#EXTINF:-1,Sky Sports Racing FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692267
-#EXTINF:-1,Sky Sports Racing HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692268
-#EXTINF:-1,Sky Sports F1 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692269
-#EXTINF:-1,Sky Sports F1 HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692270
-#EXTINF:-1,Sky Sports Action FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692271
-#EXTINF:-1,Sky Sports Action HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692272
-#EXTINF:-1,Sky Sports Arena FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692794
-#EXTINF:-1,Sky Sports Arena HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692795
-#EXTINF:-1,Sky Sports News FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692273
-#EXTINF:-1,Sky Sports News HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692274
-#EXTINF:-1,Sky Sports Mix FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692275
-#EXTINF:-1,Sky Sports Mix VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692278
-#EXTINF:-1,Sky Sports Mix HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692276
-#EXTINF:-1,Sky Sports Mix HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692277
-#EXTINF:-1,Sky Sports Box Office FHD [Match Time] UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692279
-#EXTINF:-1,Sky Sports Box Office HD [Match Time] UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/694214
-#EXTINF:-1,BT Sport 1 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692280
-#EXTINF:-1,BT Sport 1 HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692281
-#EXTINF:-1,BT Sport 2 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692282
-#EXTINF:-1,BT Sport 2 HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692283
-#EXTINF:-1,BT Sport 3 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692284
-#EXTINF:-1,BT Sport 3 HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692285
-#EXTINF:-1,BT Sport 4 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692291
-#EXTINF:-1,BT Sport 4 HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692292
-#EXTINF:-1,BT Sport 5 VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692286
-#EXTINF:-1,BT Sport 6 VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692287
-#EXTINF:-1,BT Sport 7 VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692288
-#EXTINF:-1,BT Sport 8 VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692289
-#EXTINF:-1,BT Sport 9 VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692290
-#EXTINF:-1,BT Sport 10 VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/695741
-#EXTINF:-1,BT Sport Box Office [Match Time] FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/697883
-#EXTINF:-1,BT Sport Box Office [Match Time] HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/697884
-#EXTINF:-1,Premier Sports 1 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692340
-#EXTINF:-1,Premier Sports 1 HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692341
-#EXTINF:-1,Premier Sports 2 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692342
-#EXTINF:-1,Premier Sports 2 HD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692343
-#EXTINF:-1,Viaplay Xtra FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692344
-#EXTINF:-1,Viaplay Xtra [B] FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692345
-#EXTINF:-1,Eurosport 1 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692293
-#EXTINF:-1,Eurosport 2 FHD VIP UK
-http://mytv.fun:80/fgvlfi1go/dya6a4z75q/692294
 #EXTINF:-1 ,BT-sports.1
 http://89.47.232.72:8080/live/Chris/Chris/4449.ts
 #EXTINF:-1 ,BT-sports.2
