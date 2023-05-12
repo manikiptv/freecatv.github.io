@@ -17,10 +17,9 @@
 - 💬 Ask me about **Satellite Dish**
 
 
-- 📡 [**Sports Channel Lineup**](https://freecatv.blogspot.com/search/label/Sports?max-results=10)
-- ⚽ [**Telegram Live m3u8**](https://t.me/freecatviptv)
+- 📡 [**Sports Channel Lineup**](https://freecatv.blogspot.com/2023/05/live-streaming.html)
+- ⚽ [**Telegram Live m3u8**](https://t.me/livem3u)
 - 🤝 [**Rss feed**](https://freecatv.blogspot.com/p/sitemap_7.html)
 - 🏏 [**Telegram Channel**](https://t.me/freecatvm3u8)
-- 💚 [**Facebook Group**](https://www.facebook.com/groups/ownerfreecatv/)
-- 🌼 [**Facebook Chat**](https://www.facebook.com/messages/t/8355472357857389)
+- 🌼 [**Facebook Chat**](https://m.me/j/AbYt8TBLkyOWxtTr/)
 - 🌎 [**Whatsapp Group**](https://chat.whatsapp.com/H0mKsjcqR9Y9y23Y4UX5xE)
