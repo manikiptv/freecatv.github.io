@@ -7,10 +7,6 @@ https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 ,STAR SPORTS SELECT 2 HD
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
-#EXTINF:-1 ,bein SPORTS 1 premium 🇶🇦
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test
-#EXTINF:-1 ,bein SPORTS 2 premium 🇶🇦
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test
 #EXTINF:-1 ,REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 ,Sony Ten 2 HD
@@ -19,16 +15,6 @@ http://175.107.244.52:4455/play/a00v/index.m3u8
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 ,Sports 5
 http://103.102.27.173/live/tvfeed1006/index.m3u8
-#EXTINF:-1 ,Liga de Campeones HD
-http://940987047242262413.stonehuge.xyz:80/play/vi101551/1875644199/262412.m3u8
-#EXTINF:-1 ,Liga de Campeones 2 FHD
-http://973221031933165365.onames.xyz:80/play/vi1012896/5352893835/165365.m3u8
-#EXTINF:-1 ,Liga de Campeones 2 SD
-http://973221031933282459.onames.xyz:80/play/vi1012896/5352893835/282459.m3u8
-#EXTINF:-1 ,BeIN Sports Premium 1 4K
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,BeIN Sports Premium 2 4K
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,ESPN 🇦🇷
 http://170.83.242.8:5350/play/a00u
 #EXTINF:-1 ,ESPN 2 LATIN 🇦🇷
@@ -71,8 +57,6 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 ,SETANTA_2™
 http://31.146.176.94:80/setanta2/index.m3u8
-#EXTINF:-1 ,BeinPremium_1_arb
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1 ,Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 ,Dubai Sports 3
@@ -111,8 +95,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
 #EXTINF:-1 ,TELEVIVO 🇺🇾
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
-#EXTINF:-1 ,BeIN Sports 3 Premium 4K
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,SKY SPORTS 🇲🇽
 http://live.budtvlight.com:25461/live/bud-1763358/7f63ee0473/39090.m3u8
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
@@ -133,10 +115,6 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 ,TUDN 🇲🇽
 https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-#EXTINF:-1 ,Beinsport 2 PREMIUM 🇶🇦
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1 ,Beinsport 3 PREMIUM 🇶🇦
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1 ,Eleven 1 HD 🇵🇹
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138421
 #EXTINF:-1 ,Eleven 2 HD 🇵🇹
@@ -205,8 +183,6 @@ http://51.89.67.79:25461/stalker348574985793/stalker348574985793/80
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/81
 #EXTINF:-1 ,ELEVEN SPORTS 4 HD 🇵🇱
 http://51.89.67.79:25461/stalker348574985793/stalker348574985793/82
-#EXTINF:-1 ,Sky Sports Cricket
-http://magicoiptv.org:8080/amina2023/trdamina/118334
 #EXTINF:-1 ,ESPN4
 http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/68527
 #EXTINF:-1 ,Directv Sport Arg
