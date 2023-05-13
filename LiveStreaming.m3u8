@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,BEIN SPORTS 3
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139408.ts
+#EXTINF:-1,BEIN SPORTS ES
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94112.ts
+#EXTINF:-1,BEIN SPORTS N
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48958.ts
+#EXTINF:-1,BEIN SPORTS N opcion 2
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/91803.ts
 #EXTINF:-1 ,SSC EXTRA 1 SD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/233286
 #EXTINF:-1 ,SSC EXTRA 2
