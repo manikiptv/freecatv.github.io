@@ -1,11 +1,73 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS 3
+#EXTINF:-1 ,ESPN U
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139350.ts
+#EXTINF:-1 ,ESPN U USA
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/112360.ts
+#EXTINF:-1 ,FIGHT NETWORK
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/52463.ts
+#EXTINF:-1 ,FOX SOCCER PLUS US
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139340.ts
+#EXTINF:-1 ,FOX SPORTS 1 US
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139341.ts
+#EXTINF:-1 ,FOX SPORTS 2 US
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139342.ts
+#EXTINF:-1,FS1
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94156.ts
+#EXTINF:-1,FS2
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94155.ts
+#EXTINF:-1 ,BT SPORT 1
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146334.ts
+#EXTINF:-1 ,BT SPORT 2
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146335.ts
+#EXTINF:-1 ,BT SPORT ESPN
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146337.ts
+#EXTINF:-1 ,MOVISTAR LA LIGA
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/87713.ts
+#EXTINF:-1 ,MOVISTAR LA LIGA (opcion2)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82818.ts
+#EXTINF:-1 ,MOVISTAR LA LIGA 1 (SOLO EVENTOS)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/85794.ts
+#EXTINF:-1 ,MOVISTAR LA LIGA 2 (SOLO EVENTOS)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/151556.ts
+#EXTINF:-1 ,MOVISTAR LA LIGA 3 (SOLO EVENTOS)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/151557.ts
+#EXTINF:-1 ,MOVISTAR LA LIGA FHD
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82817.ts
+#EXTINF:-1 ,MOVISTAR LIGA DE CAMPEONES
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/49057.ts
+#EXTINF:-1 ,MOVISTAR LIGA DE CAMPEONES FHD
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/49058.ts
+#EXTINF:-1 ,FOX SPORTS 1  (SUR)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/85775.ts
+#EXTINF:-1 ,FOX SPORTS 1 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48959.ts
+#EXTINF:-1 ,FOX SPORTS 2 (SUR)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82237.ts
+#EXTINF:-1 ,FOX SPORTS 2 FHD (MX)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48980.ts
+#EXTINF:-1 ,FOX SPORTS 2 HD (MX)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48961.ts
+#EXTINF:-1 ,FOX SPORTS 2 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66643.ts
+#EXTINF:-1 ,FOX SPORTS 3 FHD (SUR)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82238.ts
+#EXTINF:-1 ,FOX SPORTS 3 HD (ECU)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/324630.ts
+#EXTINF:-1 ,FOX SPORTS 3 HD (MX)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/49002.ts
+#EXTINF:-1 ,FOX SPORTS 3 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48963.ts
+#EXTINF:-1 ,FOX SPORTS PREMIUM
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/164581.ts
+#EXTINF:-1 ,FOX SPORTS PREMIUM HD
+http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48998.ts
+#EXTINF:-1 ,BEIN SPORTS 3
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139408.ts
-#EXTINF:-1,BEIN SPORTS ES
+#EXTINF:-1 ,BEIN SPORTS ES
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94112.ts
-#EXTINF:-1,BEIN SPORTS N
+#EXTINF:-1 ,BEIN SPORTS N
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48958.ts
-#EXTINF:-1,BEIN SPORTS N opcion 2
+#EXTINF:-1 ,BEIN SPORTS N opcion 2
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/91803.ts
 #EXTINF:-1 ,SSC EXTRA 1 SD
 http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/233286
@@ -81,12 +143,8 @@ http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18u9n7nnlf41obrgmBsUuNqk
 http://legendjordan.net:80/play/rcxhTqcNwlx08GbUUZR18pVBF2PGSZpcPw5fE-FZsMI
 #EXTINF:-1 ,Astro-Cricket-HD
 http://freecatv-manik.xyz/Astro-Cricket-HD.m3u8
-#EXTINF:-1 ,Cricket
-http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/157565
 #EXTINF:-1 ,ASTRO_CRICKET
 http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
-#EXTINF:-1 ,SuperSport Cricket
-http://iptvtree.net:8080/JoNSnoW/HQjnQiYHTZTJ6CPYLNJyanS3jPq1IFL3/11637
 #EXTINF:-1 ,DSTV Cricket
 http://89.47.232.72:8080/live/Chris/Chris/531516.ts
 #EXTINF:-1 ,WILLOWXTRA CRICKET
