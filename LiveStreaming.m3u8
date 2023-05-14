@@ -1,40 +1,34 @@
 #EXTM3U
-#EXTINF:-1,DAZN FORMULA 1 FHD
+#EXTINF:-1 ,DAZN FORMULA 1 FHD
 http://k4livetv.com:8080/Orozco12/2510/409836
-#EXTINF:-1,DAZN FORMULA 1 HD
+#EXTINF:-1 ,DAZN FORMULA 1 HD
 http://k4livetv.com:8080/Orozco12/2510/409837
-#EXTINF:-1,DAZN FORMULA 1 SD
+#EXTINF:-1 ,DAZN FORMULA 1 SD
 http://k4livetv.com:8080/Orozco12/2510/409838
-#EXTINF:-1,DAZN 1 FHD
+#EXTINF:-1 ,DAZN 1 FHD
 http://k4livetv.com:8080/Orozco12/2510/409839
-#EXTINF:-1,DAZN 1 HD
+#EXTINF:-1 ,DAZN 1 HD
 http://k4livetv.com:8080/Orozco12/2510/409840
-#EXTINF:-1,DAZN 1 SD
+#EXTINF:-1 ,DAZN 1 SD
 http://k4livetv.com:8080/Orozco12/2510/409841
-#EXTINF:-1,DAZN 2 FHD
+#EXTINF:-1 ,DAZN 2 FHD
 http://k4livetv.com:8080/Orozco12/2510/409842
-#EXTINF:-1,DAZN 2 HD
+#EXTINF:-1 ,DAZN 2 HD
 http://k4livetv.com:8080/Orozco12/2510/409843
-#EXTINF:-1,DAZN  2 SD
+#EXTINF:-1 ,DAZN  2 SD
 http://k4livetv.com:8080/Orozco12/2510/409844
-#EXTINF:-1,DAZN 3 FHD
+#EXTINF:-1 ,DAZN 3 FHD
 http://k4livetv.com:8080/Orozco12/2510/409845
-#EXTINF:-1,DAZN 3 SD
+#EXTINF:-1 ,DAZN 3 SD
 http://k4livetv.com:8080/Orozco12/2510/409847
-#EXTINF:-1,DAZN 4 FHD
+#EXTINF:-1 ,DAZN 4 FHD
 http://k4livetv.com:8080/Orozco12/2510/409848
-#EXTINF:-1,DAZN FORMULA 1 4K
+#EXTINF:-1 ,DAZN FORMULA 1 4K
 http://k4livetv.com:8080/Orozco12/2510/409849
-#EXTINF:-1,DAZN 4 SD
+#EXTINF:-1 ,DAZN 4 SD
 http://k4livetv.com:8080/Orozco12/2510/409850
-#EXTINF:-1,DAZN 2 SD
+#EXTINF:-1 ,DAZN 2 SD
 http://k4livetv.com:8080/Orozco12/2510/416680
-#EXTINF:-1,SONY Ten 1
-http://31.42.184.159:2082/lW8ba36rbPg1nZxi0/83bsD9sbKe5FE9k/231249
-#EXTINF:-1,SONY Ten 2
-http://31.42.184.159:2082/lW8ba36rbPg1nZxi0/83bsD9sbKe5FE9k/231250
-#EXTINF:-1,IN: SONY Ten 3
-http://31.42.184.159:2082/lW8ba36rbPg1nZxi0/83bsD9sbKe5FE9k/231251
 #EXTINF:-1 ,ESPN U
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139350.ts
 #EXTINF:-1 ,ESPN U USA
@@ -47,9 +41,9 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139340.ts
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139341.ts
 #EXTINF:-1 ,FOX SPORTS 2 US
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139342.ts
-#EXTINF:-1,FS1
+#EXTINF:-1 ,FS1
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94156.ts
-#EXTINF:-1,FS2
+#EXTINF:-1 ,FS2
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94155.ts
 #EXTINF:-1 ,BT SPORT 1
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146334.ts
@@ -83,8 +77,6 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82237.ts
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48980.ts
 #EXTINF:-1 ,FOX SPORTS 2 HD (MX)
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/48961.ts
-#EXTINF:-1 ,FOX SPORTS 2 HD (SUR)
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/66643.ts
 #EXTINF:-1 ,FOX SPORTS 3 FHD (SUR)
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/82238.ts
 #EXTINF:-1 ,FOX SPORTS 3 HD (ECU)
