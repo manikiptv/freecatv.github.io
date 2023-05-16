@@ -7,6 +7,8 @@ https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 #EXTINF: -1,Sony TEN 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1,Free Cable TV
+http://freecatv-manik.xyz/freecatv.m3u8
 #EXTINF:-1,Sony TEN 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 #EXTINF:-1,Sony TEN 1 HD
@@ -29,6 +31,8 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8 
 #EXTINF:-1,Sony TEN 5 
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8 
+#EXTINF:-1,Free Cable TV
+http://freecatv-manik.xyz/freecatv.m3u8
 #EXTINF:-1,Sony TEN 1 HD 
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
 #EXTINF:-1,Sony TEN 2 HD 
