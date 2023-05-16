@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,DAZN 1 FHD
-http://k4livetv.com:8080/Orozco12/2510/409839
-#EXTINF:-1 ,DAZN 1 HD
-http://k4livetv.com:8080/Orozco12/2510/409840
-#EXTINF:-1 ,DAZN 1 SD
-http://k4livetv.com:8080/Orozco12/2510/409841
-#EXTINF:-1 ,DAZN 2 FHD
-http://k4livetv.com:8080/Orozco12/2510/409842
-#EXTINF:-1 ,DAZN 2 HD
-http://k4livetv.com:8080/Orozco12/2510/409843
 #EXTINF:-1 ,DAZN 3 FHD
 http://k4livetv.com:8080/Orozco12/2510/409845
 #EXTINF:-1 ,DAZN 3 SD
@@ -29,12 +19,6 @@ http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/139342.ts
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94156.ts
 #EXTINF:-1 ,FS2
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/94155.ts
-#EXTINF:-1 ,BT SPORT 1
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146334.ts
-#EXTINF:-1 ,BT SPORT 2
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146335.ts
-#EXTINF:-1 ,BT SPORT ESPN
-http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/146337.ts
 #EXTINF:-1 ,MOVISTAR LA LIGA
 http://tv.dominiotv.xyz:25461/live/BobbyRestream/Sgkg23VB/87713.ts
 #EXTINF:-1 ,MOVISTAR LA LIGA (opcion2)
@@ -107,14 +91,8 @@ http://89.47.232.72:8080/live/Chris/Chris/4450.ts
 http://89.47.232.72:8080/live/Chris/Chris/4451.ts
 #EXTINF:-1 ,BT-sports.4
 http://89.47.232.72:8080/live/Chris/Chris/4461.ts
-#EXTINF:-1 ,BT-sports.5
-http://89.47.232.72:8080/live/Chris/Chris/4462.ts
 #EXTINF:-1 ,BT-sports.6
 http://89.47.232.72:8080/live/Chris/Chris/4463.ts
-#EXTINF:-1 ,BT-sports.7
-http://89.47.232.72:8080/live/Chris/Chris/4464.ts
-#EXTINF:-1 ,BT-sports.9
-http://89.47.232.72:8080/live/Chris/Chris/4466.ts
 #EXTINF:-1 ,BT-sports.10
 http://89.47.232.72:8080/live/Chris/Chris/4467.ts
 #EXTINF:-1 ,Skysports-MainEvent.HD
