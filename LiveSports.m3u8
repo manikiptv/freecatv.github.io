@@ -1,72 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,SKY-SPORTS~CRICKET-(4K)
-http://freecatv-manik.xyz/SKY-SPORTS~CRICKET-(4K).ts
-#EXTINF:-1 ,TEN-CRICKET
-http://freecatv-manik.xyz/TEN-CRICKET.ts
-#EXTINF:-1 ,WILLOW~CRICKET-HD
-http://freecatv-manik.xyz/WILLOW~CRICKET-HD.ts
-#EXTINF:-1 ,TEN~SPORTS-HD
-http://freecatv-manik.xyz/TEN~SPORTS-HD.ts
-#EXTINF:-1 ,T~SPORTS
-http://freecatv-manik.xyz/T~SPORTS.ts
-#EXTINF:-1 ,PTV~SPORTS
-http://freecatv-manik.xyz/PTV~SPORTS.ts
-#EXTINF:-1 ,ASTRO-CRICKET~HD1
-http://freecatv-manik.xyz/ASTRO-CRICKET~HD1.ts
-#EXTINF:-1 ,SKY-SPORTS-CRICKET-(4K)
-http://freecatv-manik.xyz/SKY-SPORTS-CRICKET-(4K).ts
-#EXTINF:-1 ,SKY~SPORTS~CRICKET
-http://freecatv-manik.xyz/SKY~SPORTS~CRICKET.ts
-#EXTINF:-1 ,START-SPORTS-SELECT-2-(4K)
-http://freecatv-manik.xyz/START-SPORTS-SELECT-2-(4K).ts
-#EXTINF:-1 ,STAR-SPORTS-SELECT-1-(4K)
-http://freecatv-manik.xyz/STAR-SPORTS-SELECT-1-(4K).ts
-#EXTINF:-1 ,Star~Sports-1-Hindi
-http://freecatv-manik.xyz/Star~Sports-1-Hindi.ts
-#EXTINF:-1 ,STAR-SPORTS-2-(4K)
-http://freecatv-manik.xyz/STAR-SPORTS-2-(4K).ts
-#EXTINF:-1 ,STAR-SPORTS-1-(4K)
-http://freecatv-manik.xyz/STAR-SPORTS-1-(4K).ts
 #EXTINF:-1 ,Sky Sports Football
 http://181.233.124.38:80/BBrown384/564657344453/1846775.ts
-#EXTINF:-1 ,SuperSport-Premier-League
-http://freecatv-manik.xyz/SuperSport-Premier-League.ts
-#EXTINF:-1 ,AR - Bein Sport 1 HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59734
-#EXTINF:-1 ,AR - Bein Sport 2 HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59735
-#EXTINF:-1 ,AR - Bein Sport 3 HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59736
-#EXTINF:-1 ,AR - Bein Sport 5 HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59738
-#EXTINF:-1 ,AR - Bein Sport 6 HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59739
-#EXTINF:-1 ,AR - Bein Sport 7 HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59740
-#EXTINF:-1 ,AR - Bein Sport English 1
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59741
-#EXTINF:-1 ,AR - Bein Sport English 3
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/59742
-#EXTINF:-1 ,Super-Sports-Cricket-2
-http://freecatv-manik.xyz/Super-Sports-Cricket-2.ts
-#EXTINF:-1 ,WILLOW~CRICKET~HD
-http://freecatv-manik.xyz/WILLOW~CRICKET~HD.ts
 #EXTINF:-1 ,Free Cable TV
 http://freecatv-manik.xyz/freecatv.m3u8
-#EXTINF:-1 ,Sky Sports Golf HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/60009
-#EXTINF:-1 ,Sky Sports Golf
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/60010
-#EXTINF:-1 ,Sky Sports Mix HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/60011
-#EXTINF:-1 ,BT SPORTS 2 FHD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/60019
-#EXTINF:-1 ,SuperSport Cricket | HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/68949
-#EXTINF:-1 ,SuperSport PSL | HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/68951
-#EXTINF:-1 ,SSC 6 HD
-http://91.208.115.170:25461/sohrab/Ahfd34DSf86sfDVG234Sogf12/222446
 #EXTINF:-1 ,ASTRO_CRICKET
 http://hostengine.live/live/wrecks82/habsiptv82/231004.m3u8
 #EXTINF:-1 ,ESPN 1
@@ -93,8 +29,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 #EXTINF:-1 ,ON FOOTBALL
 https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 ,ESPN 2
-http://170.83.242.8:5350/play/a02u
 #EXTINF:-1 ,Saudi•1
 http://62.182.82.104/Saudi_1/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,Saudi•2
@@ -133,12 +67,6 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:-1 ,ESPN 🇦🇷
 http://191.102.90.97:8000/play/a08b/index.m3u8
-#EXTINF:-1 ,ESPN 🇦🇷
-http://170.83.242.8:5350/play/a00u
-#EXTINF:-1 ,ESPN 2 LATIN 🇦🇷
-http://170.83.242.8:5350/play/a00t
-#EXTINF:-1 ,FOX SPORTS 3 🇦🇷
-http://170.83.242.155:5350/play/a014
 #EXTINF:-1 ,Arena Sport 4 🇧🇦
 http://94.250.2.6:7374/play/a012/index.m3u8
 #EXTINF:-1 ,MAX SPORT 3HD 🇧🇬
