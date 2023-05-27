@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Astro Cricket
+http://208.86.19.13:81/720.stream/index.m3u8
 #EXTINF:-1 ,Sky Sports Football
 http://181.233.124.38:80/BBrown384/564657344453/1846775.ts
 #EXTINF:-1 ,Free Cable TV
