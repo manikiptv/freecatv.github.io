@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,STAR SPORTS 1 (4K)
+http://starshare.live:8080/live/Shirley/Shirley/98864.ts
+#EXTINF:-1,STAR SPORTS 2 (4K)
+http://starshare.live:8080/live/Shirley/Shirley/98865.ts
 #EXTINF:-1 ,T SPORTS.
 http://starshare.live:8080/live/Shirley/Shirley/130714.ts
 #EXTINF:-1 ,GEO SUPER
