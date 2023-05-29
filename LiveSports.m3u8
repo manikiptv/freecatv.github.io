@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,Sports-18
-http://freecatv-manik.xyz/Sports-18.ts
-#EXTINF:-1 ,Star~Sports-2
-http://freecatv-manik.xyz/Star~Sports-2.ts
-#EXTINF:-1 ,Gazi~TV
-http://freecatv-manik.xyz/Gazi~TV.ts
-#EXTINF:-1,STAR SPORTS 1 (4K)
+#EXTINF:-1 ,STAR SPORTS 1 (4K)
 http://starshare.live:8080/live/Shirley/Shirley/98864.ts
-#EXTINF:-1,STAR SPORTS 2 (4K)
+#EXTINF:-1 ,STAR SPORTS 2 (4K)
 http://starshare.live:8080/live/Shirley/Shirley/98865.ts
 #EXTINF:-1 ,T SPORTS.
 http://starshare.live:8080/live/Shirley/Shirley/130714.ts
@@ -37,8 +31,6 @@ http://starshare.live:8080/live/Shirley/Shirley/238.ts
 http://starshare.live:8080/live/Shirley/Shirley/9722.ts
 #EXTINF:-1 ,SONY TEN 1 HD
 http://starshare.live:8080/live/Shirley/Shirley/154.ts
-#EXTINF:-1 ,SONY Ten 2 HD
-http://starshare.live:8080/live/Shirley/Shirley/192.ts
 #EXTINF:-1 ,SONY TEN 3 HD
 http://starshare.live:8080/live/Shirley/Shirley/146.ts
 #EXTINF:-1 ,SONY 5 HD
@@ -101,8 +93,6 @@ http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
 http://tvpanel.one:80/live/den9179/611carc/586775.m3u8
 #EXTINF:-1 ,SKY SPORTS F1 [HD]
 http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
-#EXTINF:-1 ,PREMIER SPORTS 2 [HD]
-http://tvpanel.one:80/live/den9179/611carc/586812.m3u8
 #EXTINF:-1 ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 ,One Golf
