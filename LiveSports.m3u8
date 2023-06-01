@@ -192,3 +192,23 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 ,SETANTA_2™
 http://31.146.176.94:80/setanta2/index.m3u8
+#EXTINF:-1,beIN MOVIES PREMIERE
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41475
+#EXTINF:-1,beIN MOVIES PREMIERE 2
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41476
+#EXTINF:-1,beIN MOVIES ACTION
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41477
+#EXTINF:-1,beIN MOVIES ACTION 2
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41478
+#EXTINF:-1,beIN MOVIES FAMILY
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41479
+#EXTINF:-1,beIN MOVIES STARS
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41480
+#EXTINF:-1,beIN SERIES 1
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41481
+#EXTINF:-1,beIN SERIES 2
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41482
+#EXTINF:-1,beIN SERIES 3
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41483
+#EXTINF:-1,beIN SERIES 4
+http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41484
