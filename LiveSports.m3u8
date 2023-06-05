@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,Star Sports Select 1
+http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/82628.m3u8
+#EXTINF:-1 ,Sky Sports (Premier League)
+http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/263.m3u8
+#EXTINF:-1 ,Sky Sports Main Event
+http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/283053.m3u8
 #EXTINF:-1 ,Bein Sports
 http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/9518
 #EXTINF:-1 ,beIN SPOR 1 MOBIL
