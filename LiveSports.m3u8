@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1, beIN Sports Premium 1
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LEh_ZAAeUgMxtxYYR7c4gKI/ts
+#EXTINF:-1,beIN Sports Premium 2
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LN8ovNE5BJBRtLeJpCOubLY/ts
+#EXTINF:-1,beIN Sports Premium 3
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LI4KeqwR08wXlUudSuzn-pI/ts
+#EXTINF:-1,beIN Sports 4
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LP5-m4WZdSesS2nmDXwBVjE/ts
+#EXTINF:-1,BEIN SPORTS NEWS 4K
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LA6t-xYG2HTNRxZJFNqm3KY/ts
+#EXTINF:-1,BEIN SPORT PREMIUM 1 HD
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LKcBYl0EyPZXdlB7dZ5k2u0/ts
+#EXTINF:-1,BEIN SPORT PREMIUM 2 HD
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LIz3YALlRKm5PEnqQz73poo/ts
+#EXTINF:-1,BEIN SPORT 1 720
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LMStmNuWMeZ8uQAn9mHWFTo/ts
+#EXTINF:-1,BEIN SPORT 3 HD
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LEVLzJcugitI3XNnduGIdmk/ts
+#EXTINF:-1,BEIN SPORT 4 FHD
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LG_mHnyhHJdiH6s0YPEf2dg/ts
+#EXTINF:-1,BEIN SPORT 5 HD
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LJN45ROUke8lf71__BsXybo/ts
+#EXTINF:-1,BEIN SPORT 6 576
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LNi_c3kU1FJSx890kOok4qo/ts
+#EXTINF:-1,BEIN SPORT 7 HD
+http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LBg3NmieqqzV-q_-Zs8_wcI/ts
 #EXTINF:-1 ,Star Sports Select 1
 http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/82628.m3u8
 #EXTINF:-1 ,Sky Sports (Premier League)
