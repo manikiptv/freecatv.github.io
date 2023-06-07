@@ -1,24 +1,20 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORT PREMIUM 1 HD
+#EXTINF:-1 ,BEIN SPORT PREMIUM 1 HD
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LKcBYl0EyPZXdlB7dZ5k2u0/ts
-#EXTINF:-1,BEIN SPORT PREMIUM 2 HD
+#EXTINF:-1 ,BEIN SPORT PREMIUM 2 HD
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LIz3YALlRKm5PEnqQz73poo/ts
-#EXTINF:-1,BEIN SPORT 1 720
+#EXTINF:-1 ,BEIN SPORT 1 720
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LMStmNuWMeZ8uQAn9mHWFTo/ts
-#EXTINF:-1,BEIN SPORT 3 HD
+#EXTINF:-1 ,BEIN SPORT 3 HD
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LEVLzJcugitI3XNnduGIdmk/ts
-#EXTINF:-1,BEIN SPORT 4 FHD
+#EXTINF:-1 ,BEIN SPORT 4 FHD
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LG_mHnyhHJdiH6s0YPEf2dg/ts
-#EXTINF:-1,BEIN SPORT 5 HD
+#EXTINF:-1 ,BEIN SPORT 5 HD
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LJN45ROUke8lf71__BsXybo/ts
-#EXTINF:-1,BEIN SPORT 6 576
+#EXTINF:-1 ,BEIN SPORT 6 576
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LNi_c3kU1FJSx890kOok4qo/ts
-#EXTINF:-1,BEIN SPORT 7 HD
+#EXTINF:-1 ,BEIN SPORT 7 HD
 http://172.166.128.132:80/play/I2wfyGGxLsDNLukRvMa5LBg3NmieqqzV-q_-Zs8_wcI/ts
-#EXTINF:-1 ,Star Sports Select 1
-http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/82628.m3u8
-#EXTINF:-1 ,Sky Sports (Premier League)
-http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/263.m3u8
 #EXTINF:-1 ,Sky Sports Main Event
 http://iptvtree.net:8080/live/Millenium/7Se7MBqtCsEEt3VC/283053.m3u8
 #EXTINF:-1 ,Bein Sports
@@ -27,8 +23,6 @@ http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/9518
 http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/29799
 #EXTINF:-1 ,BeIN Spor 1 SD
 http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/2226
-#EXTINF:-1 ,BeIN Spor 1 HD
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/4
 #EXTINF:-1 ,BeIN Spor 1 HD / YEDEK
 http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/21545
 #EXTINF:-1 ,BeIN Spor 1 UHD
@@ -59,12 +53,6 @@ http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/17
 http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/18
 #EXTINF:-1 ,BeIN Spor Haber
 http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/19
-#EXTINF:-1 ,(2k) beIN SPOR
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/22559
-#EXTINF:-1 ,(6K) beIN SPOR
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/22558
-#EXTINF:-1 ,beIN Spor FEED
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/2772
 #EXTINF:-1 ,beIN Spor 50 FPS
 http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/27
 #EXTINF:-1 ,beIN SPOR  1 (7k) FEED
@@ -145,10 +133,6 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 ,TELEVIVO 🇺🇾
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/21796.m3u8
-#EXTINF:-1 ,SKY SPORTS F1 [FHD]
-http://tvpanel.one:80/live/den9179/611carc/586775.m3u8
-#EXTINF:-1 ,SKY SPORTS F1 [HD]
-http://tvpanel.one:80/live/den9179/611carc/586776.m3u8
 #EXTINF:-1 ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 ,X SPORT
