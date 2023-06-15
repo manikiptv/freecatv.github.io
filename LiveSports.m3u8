@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1,STARZPLAY SPORT 1
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/148146
-#EXTINF:-1,STARZPLAY SPORT 2
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/148147
-#EXTINF:-1,STARZPLAY SPORT 3
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/148148
-#EXTINF:-1,AD Sports premium 1
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/152061
-#EXTINF:-1,AD Sports premium 2
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/152062
-#EXTINF:-1,AD Sports premium 3
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/152063
-#EXTINF:-1,beIN Sport English 3 4K
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/160092
-#EXTINF:-1,PROGRAMME NATIONAL
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/50840
-#EXTINF:-1,CANAL ALGERIE
-http://revteam9.offshorerev.cc:80/mag00:1A:79:42:0B:88/JEcvD0uJ1A/50829
 #EXTINF:-1 ,Sky Sports Football
 http://181.233.124.38:80/BBrown384/564657344453/1846775.ts
 #EXTINF:-1 ,Free Cable TV
@@ -40,7 +22,7 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,MAT4_1
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 ,TVRI_SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+http://freecatv-manik.xyz/freecatv.m3u8
 #EXTINF:-1 ,RTV SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 #EXTINF:-1 ,ON FOOTBALL
@@ -71,8 +53,6 @@ http://iptv.prosto.tv:7000/ch118/video.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 ,ESPN 🇦🇷
-http://191.102.90.97:8000/play/a08b/index.m3u8
 #EXTINF:-1 ,MAX SPORT 3HD 🇧🇬
 http://62.176.77.22:9781/play/a00i
 #EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
@@ -80,7 +60,7 @@ http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
 #EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
 http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
 #EXTINF:-1 ,3 Sport HD 🇱🇹
-http://myott.top/stream/D3VTJRDNKLY/416.m3u8
+http://freecatv-manik.xyz/freecatv.m3u8
 #EXTINF:-1 ,Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 ,Turkmenistan Sport 🇹🇲
@@ -89,23 +69,3 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 ,SETANTA_2™
 http://31.146.176.94:80/setanta2/index.m3u8
-#EXTINF:-1 ,beIN MOVIES PREMIERE
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41475
-#EXTINF:-1 ,beIN MOVIES PREMIERE 2
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41476
-#EXTINF:-1 ,beIN MOVIES ACTION
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41477
-#EXTINF:-1 ,beIN MOVIES ACTION 2
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41478
-#EXTINF:-1 ,beIN MOVIES FAMILY
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41479
-#EXTINF:-1 ,beIN MOVIES STARS
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41480
-#EXTINF:-1 ,beIN SERIES 1
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41481
-#EXTINF:-1 ,beIN SERIES 2
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41482
-#EXTINF:-1 ,beIN SERIES 3
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41483
-#EXTINF:-1 ,beIN SERIES 4
-http://fc1.scv215dcv.xyz:8080/Ruzgaar/nXJnQWVAuN/41484
