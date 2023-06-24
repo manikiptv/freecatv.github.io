@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1 ,SSC-Sports-2
+http://freecatv-manik.xyz/ssc-sports-2.ts
+#EXTINF:-1 ,SSC-Sports-1
+http://freecatv-manik.xyz/SSC-Sports-1.ts
+#EXTINF:-1 ,GP1
+https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2023-06-18T15:25:00.000Z
+#EXTINF:-1 ,ATN Afghanistan
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 ,TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 ,beIN-SPORTS-2
+http://freecatv-manik.xyz/beIN-SPORTS-2.ts
+#EXTINF:-1 ,beIN-Sports1
+http://freecatv-manik.xyz/beIN-Sports1.ts
 #EXTINF:-1 ,Sky Sports Football
 http://181.233.124.38:80/BBrown384/564657344453/1846775.ts
 #EXTINF:-1 ,Free Cable TV
