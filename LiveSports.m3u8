@@ -33,12 +33,6 @@ https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 ,RTV SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1 ,ON FOOTBALL
-https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
-#EXTINF:-1 ,Saudi•1
-http://62.182.82.104/Saudi_1/index.m3u8?token=test&v=1673204766768
-#EXTINF:-1 ,Saudi•2
-http://62.182.82.104/Saudi_2/index.m3u8?token=test&v=1673204766768
 #EXTINF:-1 ,Fox Sports 2 MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
 #EXTINF:-1 ,Fox Sports Premium MX
