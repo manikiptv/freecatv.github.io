@@ -3,8 +3,6 @@
 http://freecatv-manik.xyz/ssc-sports-2.ts
 #EXTINF:-1 ,SSC-Sports-1
 http://freecatv-manik.xyz/SSC-Sports-1.ts
-#EXTINF:-1 ,GP1
-https://d3t1an06exdpxa.cloudfront.net/out/v1/6fa0c4ea6c1b497f9949e98f3d24ddea/push4eu_1.m3u8?start=2023-06-18T15:25:00.000Z
 #EXTINF:-1 ,ATN Afghanistan
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 ,TIGO SPORTS
@@ -13,14 +11,8 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 http://181.233.124.38:80/BBrown384/564657344453/1846775.ts
 #EXTINF:-1 ,Free Cable TV
 http://freecatv-manik.xyz/freecatv.m3u8
-#EXTINF:-1 ,ESPN 1
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
-#EXTINF:-1 ,ESPN 2
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
 #EXTINF:-1 ,FOX Sports 2
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
-#EXTINF:-1 ,Fight Network
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93035.ts
 #EXTINF:-1 ,Bein Sport 1 English
 http://213.7.193.54:4000/play/a002
 #EXTINF:-1 ,Citavision Spots 2HD
@@ -35,8 +27,24 @@ https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 #EXTINF:-1 ,Fox Sports 2 MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
+#EXTINF:-1 ,TVRI_SPORT HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 ,V-Play
+https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+#EXTINF:-1 ,Viaplay
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1 ,Fox Sports Premium MX
 http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+#EXTINF:-1 ,BT SPORT 1 UHD
+http://hardcoremedia.xyz:80/asxxibud/7733204294/8439
+#EXTINF:-1 ,BT SPORT 2 UHD
+http://hardcoremedia.xyz:80/asxxibud/7733204294/8440
+#EXTINF:-1 ,BT SPORT 3 UHD
+http://hardcoremedia.xyz:80/asxxibud/7733204294/8441
+#EXTINF:-1 ,SKY SPORTS ACTION HD
+http://hardcoremedia.xyz:80/asxxibud/7733204294/8457
+#EXTINF:-1 ,SKY SPORTS ARENA HD
+http://hardcoremedia.xyz:80/asxxibud/7733204294/8458
 #EXTINF:-1 ,Sports TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1 ,Euro Sports
@@ -45,6 +53,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-sam
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 ,Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+#EXTINF:-1 ,Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 ,Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 ,SCTV VIDIO 🇯🇵
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 ,SPORTS TV 🇹🇷
