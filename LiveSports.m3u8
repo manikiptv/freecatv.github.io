@@ -1,189 +1,135 @@
 #EXTM3U
-#EXTINF:-1,SONY SIX
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240692
-#EXTINF:-1,Sony Ten 1
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240693
-#EXTINF:-1,Sony Ten 2
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240694
-#EXTINF:-1,IN: Sony Ten 3
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240695
-#EXTINF:-1,Star Sport 1 HINDI
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240696
-#EXTINF:-1,Star Sport-1
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240697
-#EXTINF:-1,Star Sport-2
-http://myserveriptv.com:2082/7jW4c1mKr8Nfh/I9Snf6E3hVf7B0eG/240698
-#EXTINF:-1 ,B-Sport  1/4K
-http://dk.tgt6373.online:8080/pk2982/DWpqB2SMqh9v/140756
-#EXTINF:-1 ,B-Sport  1 FHD
-http://dk.tgt6373.online:8080/pk2982/DWpqB2SMqh9v/140758
-#EXTINF:-1 ,B-Sport  4 FHD
-http://dk.tgt6373.online:8080/pk2982/DWpqB2SMqh9v/140771
-#EXTINF:-1 ,B-Sport 5 FHD
-http://dk.tgt6373.online:8080/pk2982/DWpqB2SMqh9v/140772
-#EXTINF:-1 ,SPOR SMART HD
-http://dk.tgt6373.online:8080/pk2982/DWpqB2SMqh9v/140788
-#EXTINF:-1 ,Exxen Spor 1 HD/Mac Saati
-http://dk.tgt6373.online:8080/pk2982/DWpqB2SMqh9v/140790
-#EXTINF:-1 ,TiViBUSPOR 2 HD
-http://dk.tgt6373.online:8080/pk2982/DWpqB2SMqh9v/140804
-#EXTINF:-1 ,Citavision Spots 2HD
-http://213.7.193.54:4000/play/a005
-#EXTINF:-1 ,Match!_Country HD
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,MAT4_1
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 ,TVRI_SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,RTV SPORT 🇸🇲
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1 ,Fox Sports 2 MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
-#EXTINF:-1 ,Fox Sports Premium MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-#EXTINF:-1 ,Sports TV
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Euro Sports
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 ,SCTV VIDIO 🇯🇵
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#EXTINF:-1 ,SPORTS TV 🇹🇷
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 ,FIGHT BOX HD
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 ,X SPORT
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 ,X SPORT PLUS
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 ,MAX SPORT 3HD 🇧🇬
-http://62.176.77.22:9781/play/a00i
-#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
-#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 ,SETANTA_2™
-http://31.146.176.94:80/setanta2/index.m3u8
+#EXTINF:-1 ,Sports 4
+http://103.102.27.173/live/tvfeed1005/index.m3u8
+#EXTINF:-1 ,Sports 5
+http://103.102.27.173/live/tvfeed1006/index.m3u8
+#EXTINF:-1 ,MAASRANGA TV official
+http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 ,Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 ,MY TV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 ,Asian TV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 ,Bangla TV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 ,Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 ,MY TV
+http://bd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 ,BANGLA TV
+http://bd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 ,JagoNews24 TV
+http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 ,SOMOY TV
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 ,Somoy News
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 ,Free Cable TV
 http://freecatv-manik.xyz/freecatv.m3u8
-#EXTINF:-1 ,AR - Bein Sport 1 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/59734
-#EXTINF:-1 ,AR - Bein Sport 2 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/59735
-#EXTINF:-1 ,AR - Bein Sport 3 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/59736
-#EXTINF:-1 ,AR - Bein Sport 5 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/59738
-#EXTINF:-1 ,AR - Bein Sport 6 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/59739
-#EXTINF:-1 ,AR - Bein Sport 7 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/59740
-#EXTINF:-1 ,FR - BEIN SPORT 1 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58753
-#EXTINF:-1 ,FR - BEIN SPORT 2 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58754
-#EXTINF:-1 ,FR - BEIN SPORT 3 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58755
-#EXTINF:-1 ,FR - BEIN SPORT MAX HD 5
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58757
-#EXTINF:-1 ,FR - BEIN SPORT MAX HD 6
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58758
-#EXTINF:-1 ,FR - BEIN SPORT MAX HD 8
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58760
-#EXTINF:-1 ,UK - Sky Sports Main Event UHD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62553
-#EXTINF:-1 ,UK - Sky Sports Premier League UHD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62554
-#EXTINF:-1 ,UK - Sky Sports Football UHD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62555
-#EXTINF:-1 ,UK - Sky Sports Racing UHD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/62562
-#EXTINF:-1 ,UK - Sky Sports MainEvent FHD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/64851
-#EXTINF:-1 ,SSC-Sports-2
-http://freecatv-manik.xyz/ssc-sports-2.ts
-#EXTINF:-1 ,SSC-Sports-1
-http://freecatv-manik.xyz/SSC-Sports-1.ts
-#EXTINF:-1 ,ATN Afghanistan
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 ,TIGO SPORTS
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 ,Free Cable TV
-http://freecatv-manik.xyz/freecatv.m3u8
-#EXTINF:-1 ,FOX Sports 2
-http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
-#EXTINF:-1 ,Citavision Spots 2HD
-http://213.7.193.54:4000/play/a005
-#EXTINF:-1 ,Match!_Country HD
-https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,MAT4_1
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 ,RTV SPORT 🇸🇲
-http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:-1 ,Fox Sports 2 MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
-#EXTINF:-1 ,TVRI_SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,V-Play
-https://d3j7ofexbkp7q4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/0072542e-6cbe-4b19-9b14-020433592794/2.m3u8
+#EXTINF:-1 ,NAN IPTV
+https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
+#EXTINF:-1 ,I IPTV [BD]
+http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1 ,Matri Bhumi HD
+http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
+#EXTINF:-1 ,EKUSHE TELEVISION
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,iB TV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 ,Channel S UK
+http://208.86.19.13:81/519.stream/index.m3u8
+#EXTINF:-1 group-title="freecatv",Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1 group-title="freecatv",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Iqra Bangla freecatv
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 ,MY TV (BDIX0)
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 ,Khushboo Bangla(BD2)
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 ,C MOVOIES
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1 ,SUPER HD
+http://142.132.136.139:8000/play/a003/index.m3u8
+#EXTINF:-1 ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 ,Star Jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 ,Maasranga TV
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 ,Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 ,R Plus Gold(BD2)
+http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
+#EXTINF:-1 ,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 ,Colors Bangla HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 ,JagoNews24 TV
+http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 ,Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 ,NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 ,Hungama Kids
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,118. Multipremier
+http://45.5.117.182:8000/play/a0j4/index.m3u8
+#EXTINF:-1 ,119. Nat Geo HD
+http://45.5.117.182:8000/play/a0jr/index.m3u8
+#EXTINF:-1 ,120. National Geographic
+http://45.5.117.182:8000/play/a0ey/index.m3u8
+#EXTINF:-1 ,121. NEXT - PAN
+http://45.5.117.182:8000/play/a0g5/index.m3u8
+#EXTINF:-1 ,122. Nick Jr
+http://45.5.117.182:8000/play/a0eo/index.m3u8
+#EXTINF:-1 ,123. Nick SIM HD
+http://45.5.117.182:8000/play/a0i7/index.m3u8
+#EXTINF:-1 ,124. Nickelodeon
+http://45.5.117.182:8000/play/a0is/index.m3u8
+#EXTINF:-1 ,055. Discovery Channel HD
+http://45.5.117.182:8000/play/a0ju/index.m3u8
+#EXTINF:-1 ,056. Discovery Home & Health
+http://45.5.117.182:8000/play/a0iw/index.m3u8
+#EXTINF:-1 ,057. Discovery ID HD
+http://45.5.117.182:8000/play/a0jy/index.m3u8
+#EXTINF:-1 ,058. Discovery Kids
+http://45.5.117.182:8000/play/a0ir/index.m3u8
+#EXTINF:-1 ,059. Discovery Turbo
+http://45.5.117.182:8000/play/a0iS/index.m3u8
+#EXTINF:-1 ,060. Discovery World HD
+http://45.5.117.182:8000/play/a0jv/index.m3u8
+#EXTINF:-1 ,061. Disney
+http://45.5.117.182:8000/play/a0it/index.m3u8
+#EXTINF:-1 ,062. Disney JR
+http://45.5.117.182:8000/play/a0eq/index.m3u8
+#EXTINF:-1 ,SONY.MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 ,SONY.MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 ,Star Gold(BD)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1 ,Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1 ,B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 ,ESPN
+http://191.102.90.97:8000/play/a08b/index.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
 #EXTINF:-1 ,Viaplay
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1 ,Fox Sports Premium MX
-http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
-#EXTINF:-1 ,BT SPORT 1 UHD
-http://hardcoremedia.xyz:80/asxxibud/7733204294/8439
-#EXTINF:-1 ,BT SPORT 3 UHD
-http://hardcoremedia.xyz:80/asxxibud/7733204294/8441
-#EXTINF:-1 ,SKY SPORTS ACTION HD
-http://hardcoremedia.xyz:80/asxxibud/7733204294/8457
-#EXTINF:-1 ,SKY SPORTS ARENA HD
-http://hardcoremedia.xyz:80/asxxibud/7733204294/8458
-#EXTINF:-1 ,Sports TV
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Euro Sports
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
-#EXTINF:-1 ,Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 ,Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 ,SCTV VIDIO 🇯🇵
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
-#EXTINF:-1 ,SPORTS TV 🇹🇷
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 ,FIGHT BOX HD
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 ,X SPORT
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 ,X SPORT PLUS
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 ,MAX SPORT 3HD 🇧🇬
-http://62.176.77.22:9781/play/a00i
-#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
-#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
-http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
-#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 ,SETANTA_2™
-http://31.146.176.94:80/setanta2/index.m3u8
