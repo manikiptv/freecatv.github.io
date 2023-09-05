@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,||ES|| BEIN LIGA 2 HD
+http://obshd.tv:25461/haboub.sat/pTdKYchMhh/3579
+#EXTINF:-1,||ES|| BEIN LIGA 3 HD
+http://obshd.tv:25461/haboub.sat/pTdKYchMhh/3580
+#EXTINF:-1,||ES|| BEIN SPORTS SPAIN HD
+http://obshd.tv:25461/haboub.sat/pTdKYchMhh/3583
 #EXTINF:-1 ,Sports 4
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 ,Sports 5
