@@ -18,8 +18,8 @@
 
 
 - 📡 [**Sports Channel Lineup**](https://freecatv.blogspot.com/search/label/Sports?max-results=10)
-- ⚽ [**Telegram Live m3u8**](https://t.me/livem3u)
+- ⚽ [**Telegram Live m3u8**](https://t.me/m3u8ip)
 - 🤝 [**Rss feed**](https://freecatv.blogspot.com/p/sitemap_7.html)
-- 🏏 [**Telegram Channel**](https://t.me/freecatvm3u8)
+- 🏏 [**BDIX FTP SERVER**](https://t.me/bdixftpiptv)
 - 🌼 [**Facebook Chat**](https://m.me/j/AbYt8TBLkyOWxtTr/)
 - 🌎 [**Whatsapp Group**](https://chat.whatsapp.com/H0mKsjcqR9Y9y23Y4UX5xE)
