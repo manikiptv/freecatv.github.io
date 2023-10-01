@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,Bein sport 2
+http://176.119.29.35:8081/play/hls/index.m3u8?stream=93650306-59d6-451e-bfc0-77fdb23bf6c9
+#EXTINF:-1 ,Bein sport 3
+http://176.119.29.78:8081/play/hls/index.m3u8?stream=9ce5782e-0660-4235-b5b1-83a8e2984426
+#EXTINF:-1 ,BEIN sports 1
+https://stream.ayas.ir/hls2/bein1.m3u8
+#EXTINF:-1 ,BEIN sports 2
+https://stream.ayas.ir/hls2/bein2.m3u8
 #EXTINF:-1 ,BEIN SPORT 1 🇫🇷
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2499/index.m3u8
 #EXTINF:-1 ,BEIN SPORT 3 🇫🇷
@@ -19,8 +27,6 @@ http://obshd.tv:25461/haboub.sat/pTdKYchMhh/2102
 http://obshd.tv:25461/haboub.sat/pTdKYchMhh/2103
 #EXTINF:-1 ,||UK|| SKY SPORTS RACING FHD
 http://obshd.tv:25461/haboub.sat/pTdKYchMhh/2104
-#EXTINF:-1 ,||UK|| BT SPORT 3 FHD
-http://obshd.tv:25461/haboub.sat/pTdKYchMhh/2105
 #EXTINF:-1 ,||UK|| BT SPORT 1 FHD
 http://obshd.tv:25461/haboub.sat/pTdKYchMhh/2107
 #EXTINF:-1 ,||FR|| BEIN MAX 4 HD
