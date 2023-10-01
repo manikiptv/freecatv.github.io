@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 ,ESPN 1
+http://151.248.16.100:4444/ESPN1/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://151.248.16.100:4444/ESPN2/index.m3u8
+#EXTINF:-1 ,EUROSPORT 1
+http://151.248.16.100:4444/Eurosport1/index.m3u8
+#EXTINF:-1 ,EUROSPORT 2
+http://151.248.16.100:4444/Eurosport2/index.m3u8
+#EXTINF:-1 ,Sports e1
+https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:-1 ,Sports e2
+https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1 ,ESPN extra 🇦🇷
 http://45.228.232.219:16000/play/a0me/index.m3u8
 #EXTINF:-1 ,ARENA SPORT 1 SK 🇸🇰
@@ -13,8 +25,6 @@ http://149.62.183.194:9293/play/a08l
 http://obshd.tv:25461/haboub.sat/pTdKYchMhh/3579
 #EXTINF:-1 ,||ES|| BEIN LIGA 3 HD
 http://obshd.tv:25461/haboub.sat/pTdKYchMhh/3580
-#EXTINF:-1 ,||ES|| BEIN SPORTS SPAIN HD
-http://obshd.tv:25461/haboub.sat/pTdKYchMhh/3583
 #EXTINF:-1 ,Sports 4
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 ,Sports 5
@@ -135,7 +145,5 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,ESPN
 http://191.102.90.97:8000/play/a08b/index.m3u8
-#EXTINF:-1 ,Star Sports 1
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/58220
 #EXTINF:-1 ,Viaplay
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
