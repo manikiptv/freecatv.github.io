@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,STAR Sports temporary
+http://103.7.4.54/starsports2/index.m3u8?token=7du8JE0_2OUbF0
+#EXTINF:-1,T Sports temporary
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1696235432~exp=1696278632~acl=/*~data=45.61.146.183-WEB~hmac=43f18e667709c2eea81e2f1a14e90cdc423927061cdc44aeac98da3686e62f48
+#EXTINF:-1,T Sports temporary
+http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 ,Bein sport 2
 http://176.119.29.35:8081/play/hls/index.m3u8?stream=93650306-59d6-451e-bfc0-77fdb23bf6c9
 #EXTINF:-1 ,Bein sport 3
