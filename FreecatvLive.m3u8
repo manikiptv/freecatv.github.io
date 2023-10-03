@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,STAR Sports temporary
+http://bdtv.globalflix.net:2020/live/starsports1.stream/playlist.m3u8
 #EXTINF:-1,STAR Sports temporary HINDI
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/f1yYBqSBQZxSEvGcpRqWz265y3yQf8_YbL8H9sM1vOdSow6gtzPEf4euYNCSW7oH0jOdCtpNCo5a5R9htIkpeg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1,STAR Sports temporary
