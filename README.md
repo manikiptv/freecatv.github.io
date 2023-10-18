@@ -18,7 +18,7 @@
 
 
 - 📡 [**Sports Channel Lineup**](https://freecatv.blogspot.com/search/label/Sports?max-results=10)
-- ⚽ [**Telegram Live m3u8**](https://t.me/m3u8ip)
+- ⚽ [**Telegram Live m3u8**](https://t.me/bdstream)
 - 🤝 [**Rss feed**](https://freecatv.blogspot.com/p/sitemap_7.html)
 - 🏏 [**BDIX FTP SERVER**](https://t.me/bdixftpiptv)
 - 🌼 [**Facebook Chat**](https://m.me/j/AbYt8TBLkyOWxtTr/)
