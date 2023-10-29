@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, Star Sports
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 ,ZEE BANGLA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:-1 ,Star Jalsha
