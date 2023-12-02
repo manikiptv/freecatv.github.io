@@ -1,87 +1,18 @@
 #EXTM3U
-#EXTINF:-1, Powered by Md Manik.
-#EXTINF:-1, manikdish@gmail.com
-#EXTINF:-1, Telegram Group: https://t.me/bdstream
-
-
-
-
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-#EXTINF:-1,Via Play Sports 1
+#EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1,Via Play Sports 2
+#EXTINF:-1 ,Via Play Sports 2
 https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1,Sony Ten 5 HD B
-http://103.141.2.37:25461/live/web/web/577.m3u8
-#EXTINF:-1,Star Sports Select HD 2
-http://103.141.2.37:25461/live/web/web/583.m3u8
-#EXTINF:-1,Star Sports HD 3 
-http://103.141.2.37:25461/live/web/web/578.m3u8
-#EXTINF:-1,Star Sports Select 1 HD 
-http://103.141.2.37:25461/live/web/web/579.m3u8
-#EXTINF:-1, Willow HD
+#EXTINF:-1 ,Willow HD
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:-1,True Premier Football 2
+#EXTINF:-1 ,True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1,True Sports
+#EXTINF:-1 ,True Sports
 https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1,SPORTSMAX 1
+#EXTINF:-1 ,SPORTSMAX 1
 https://is.gd/8Xi5qy
-#EXTINF:-1,Willow Cricket SD
-http://hardcoremedia.xyz:80/asxxibud/7733204294/2239
-#EXTINF:-1 ,BEIN SPORTS 4AFC
-https://stream.ayas.ir/hls2/bein4.m3u8
-#EXTINF:-1 ,BEIN SPORTS 3AFC
-https://stream.ayas.ir/hls2/bein3.m3u8
-#EXTINF:-1 ,BEIN SPORTS 2AFC
-https://stream.ayas.ir/hls2/bein2.m3u8
 #EXTINF:-1 ,Bein Sport 1 EN
 https://stream.ayas.ir/hls2/bein1en.m3u8
-#EXTINF:-1 ,Bein Sport 1
-https://af.ayas.ir/hls2/bein1.m3u8
-#EXTINF:-1 ,BEIN SPORTS 1AFC
-https://stream.ayas.ir/hls2/bein1.m3u8
 #EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 ,AI SPORT 🇮🇷
@@ -90,8 +21,6 @@ https://af.ayas.ir/hls2/aiosport.m3u8?checkedby:iptvcat.com
 http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
 #EXTINF:-1 ,T Sports Akash
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1 ,T Sports
-http://chanel.dekhaott.com/Tsportshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Gazi TV
 http://chanel.dekhaott.com/Gazi-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TNT Sports 4 🇮🇪
@@ -134,8 +63,6 @@ https://sportsleading.online/live/stream_e1.m3u8
 http://89.187.167.94:80/live.ts?channelId=98&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,EUROSPORT 2
 http://89.187.167.92:80/live.ts?channelId=102&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,ViaPlay 1 UK
-http://89.187.167.92:80/live.ts?channelId=104&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,ViaPlay 2 UK
 http://89.187.167.94:80/live.ts?channelId=105&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,SPORTY STUFF
@@ -156,32 +83,12 @@ http://89.187.167.92:80/live.ts?channelId=139&deviceUser=jeff1&devicePass=jeff1&
 http://89.187.167.92:80/live.ts?channelId=140&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,SKY SPORTS MIX
 http://89.187.167.94:80/live.ts?channelId=141&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Cricket.
-http://89.187.167.92:80/live.ts?channelId=142&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,Sky Sports Football.
 http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,Sky Sports Golf.
 http://89.187.167.94:80/live.ts?channelId=146&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS GOLF
-http://89.187.167.92:80/live.ts?channelId=147&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,Sky Sports Racing.
-http://89.187.167.92:80/live.ts?channelId=148&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SKY SPORTS RACING
-http://89.187.167.92:80/live.ts?channelId=149&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,Sky Sports News.
 http://89.187.167.94:80/live.ts?channelId=150&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,TNT SPORTS 1
-http://89.187.167.93:80/live.ts?channelId=153&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,BT Sport 4
-http://89.187.167.93:80/live.ts?channelId=158&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,ESPN_1
-http://xtv.ooo:8080/493121299/992121394/238491
-#EXTINF:-1 ,PTV SPORTS HD
-http://176.119.29.52/live.ts?channelId=278&deviceMac=00:1A:79:6E:26:8C
-#EXTINF:-1 ,STAR SPORTS 2
-http://176.119.29.52/live.ts?channelId=298&deviceMac=00:1A:79:6E:26:8C
-#EXTINF:-1 ,STAR SPORTS 1
-http://176.119.29.52/live.ts?channelId=293&deviceMac=00:1A:79:6E:26:8C
 #EXTINF:-1 ,SPORTS 18 khel
 http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,VIAPLAY EXTRA
@@ -230,16 +137,6 @@ http://45.179.140.242:8000/play/a0k7
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 ,Sports TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,ESPN
-http://186.31.37.98:8000/play/a00s/index.m3u8
-#EXTINF:-1 ,ESPN 2
-http://186.31.37.98:8000/play/a017/index.m3u8
-#EXTINF:-1 ,ESPN 4
-http://186.31.37.98:8000/play/a008/index.m3u8
-#EXTINF:-1 ,Fox Sports 2
-http://186.31.37.98:8000/play/a00w/index.m3u8
-#EXTINF:-1 ,Fox Sports 3
-http://186.31.37.98:8000/play/a00x/index.m3u8
 #EXTINF:-1 ,SPORTS 18 HD
 http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,MATH 🇷🇺
@@ -264,9 +161,3 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&ex
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=591576&extension=ts&play_token=ZuOu1yk1WD
 #EXTINF:-1 ,ASTRO SUPER SPORTS
 https://mlb.mrgamingstreams.com/astro.m3u8
-#EXTINF:-1 ,TVP SPORTS
-https://mlb.mrgamingstreams.com/publica.m3u8
-#EXTINF:-1 ,GLOBO TV
-https://mlb.mrgamingstreams.com/globo.m3u8
-#EXTINF:-1 ,VIAPLAY 2
-https://mlb.mrgamingstreams.com/via2.m3u8
