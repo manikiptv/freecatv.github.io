@@ -1,74 +1,62 @@
 #EXTM3U
-#EXTINF:-1, Powered by Md Manik.
-#EXTINF:-1, manikdish@gmail.com
-#EXTINF:-1, Telegram Group: https://t.me/bdstream
-
-
-
-
-
-
-
-#EXTINF:-1,شاهد WWE
+#EXTINF:-1 ,شاهد WWE
 http://31.42.184.158:2082/star2023/star2023/228012
-#EXTINF:-1,شاهد توب جير
+#EXTINF:-1 ,شاهد توب جير
 http://31.42.184.158:2082/star2023/star2023/234952
-#EXTINF:-1,SSC Sports News SD
+#EXTINF:-1 ,SSC Sports News SD
 http://31.42.184.158:2082/star2023/star2023/241244
-#EXTINF:-1,SSC Sports News HD
+#EXTINF:-1 ,SSC Sports News HD
 http://31.42.184.158:2082/star2023/star2023/239236
-#EXTINF:-1,SSC Sports News 4K
+#EXTINF:-1 ,SSC Sports News 4K
 http://31.42.184.158:2082/star2023/star2023/239235
-#EXTINF:-1,SSC Sports 1 SD
+#EXTINF:-1 ,SSC Sports 1 SD
 http://31.42.184.158:2082/star2023/star2023/239239
-#EXTINF:-1,SSC Sports 1 HD
+#EXTINF:-1 ,SSC Sports 1 HD
 http://31.42.184.158:2082/star2023/star2023/239238
-#EXTINF:-1,SSC Sports 1 4K
+#EXTINF:-1 ,SSC Sports 1 4K
 http://31.42.184.158:2082/star2023/star2023/239237
-#EXTINF:-1,SSC Sports 2 SD
+#EXTINF:-1 ,SSC Sports 2 SD
 http://31.42.184.158:2082/star2023/star2023/239245
-#EXTINF:-1,SSC Sports 2 HD
+#EXTINF:-1 ,SSC Sports 2 HD
 http://31.42.184.158:2082/star2023/star2023/239244
-#EXTINF:-1,SSC Sports 2 4K
+#EXTINF:-1 ,SSC Sports 2 4K
 http://31.42.184.158:2082/star2023/star2023/239243
-#EXTINF:-1,SSC Sports 3 SD
+#EXTINF:-1 ,SSC Sports 3 SD
 http://31.42.184.158:2082/star2023/star2023/239251
-#EXTINF:-1,SSC Sports 3 HD
+#EXTINF:-1 ,SSC Sports 3 HD
 http://31.42.184.158:2082/star2023/star2023/239250
-#EXTINF:-1,SSC Sports 3 4K
+#EXTINF:-1 ,SSC Sports 3 4K
 http://31.42.184.158:2082/star2023/star2023/239249
-#EXTINF:-1,SSC Sports 4 SD
+#EXTINF:-1 ,SSC Sports 4 SD
 http://31.42.184.158:2082/star2023/star2023/239257
-#EXTINF:-1,SSC Sports 4 HD
+#EXTINF:-1 ,SSC Sports 4 HD
 http://31.42.184.158:2082/star2023/star2023/239256
-#EXTINF:-1,SSC Sports 4 4K
+#EXTINF:-1 ,SSC Sports 4 4K
 http://31.42.184.158:2082/star2023/star2023/239255
-#EXTINF:-1,SSC Sports 5 SD
+#EXTINF:-1 ,SSC Sports 5 SD
 http://31.42.184.158:2082/star2023/star2023/239260
-#EXTINF:-1,SSC Sports 5 HD
+#EXTINF:-1 ,SSC Sports 5 HD
 http://31.42.184.158:2082/star2023/star2023/239259
-#EXTINF:-1,SSC Sports 5 4K
+#EXTINF:-1 ,SSC Sports 5 4K
 http://31.42.184.158:2082/star2023/star2023/239258
-#EXTINF:-1,SSC Sports EXTRA 1 SD
+#EXTINF:-1 ,SSC Sports EXTRA 1 SD
 http://31.42.184.158:2082/star2023/star2023/239242
-#EXTINF:-1,SSC Sports EXTRA 1 HD
+#EXTINF:-1 ,SSC Sports EXTRA 1 HD
 http://31.42.184.158:2082/star2023/star2023/239241
-#EXTINF:-1,SSC Sports EXTRA 1 4K
+#EXTINF:-1 ,SSC Sports EXTRA 1 4K
 http://31.42.184.158:2082/star2023/star2023/239240
-#EXTINF:-1,SSC Sports EXTRA 2 SD
+#EXTINF:-1 ,SSC Sports EXTRA 2 SD
 http://31.42.184.158:2082/star2023/star2023/239248
-#EXTINF:-1,SSC Sports EXTRA 2 HD
+#EXTINF:-1 ,SSC Sports EXTRA 2 HD
 http://31.42.184.158:2082/star2023/star2023/239247
-#EXTINF:-1,SSC Sports EXTRA 2 4K
+#EXTINF:-1 ,SSC Sports EXTRA 2 4K
 http://31.42.184.158:2082/star2023/star2023/239246
-#EXTINF:-1,SSC Sports EXTRA 3 SD
+#EXTINF:-1 ,SSC Sports EXTRA 3 SD
 http://31.42.184.158:2082/star2023/star2023/239254
-#EXTINF:-1,SSC Sports EXTRA 3 HD
+#EXTINF:-1 ,SSC Sports EXTRA 3 HD
 http://31.42.184.158:2082/star2023/star2023/239253
-#EXTINF:-1,SSC Sports EXTRA 3 4K
+#EXTINF:-1 ,SSC Sports EXTRA 3 4K
 http://31.42.184.158:2082/star2023/star2023/239252
-#EXTINF:-1 ,Bangla 21 TV
-http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 ,Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 ,Colors Bangla HD
@@ -103,8 +91,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 ,Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 ,JagoNews24 Tv
-http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 ,ATN MUSIC
 http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 ,News24
@@ -113,8 +99,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,NAN TV [BD]
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1 ,BANGLA 21
-https://bd.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 ,CHANNEL 24 [BD]
 https://bd.jagobd.com:444/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,Zee Bangla HD
@@ -151,8 +135,6 @@ https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 http://208.86.19.13:81/513.stream/index.m3u8
 #EXTINF:-1 ,Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 ,Pen TV
-http://iptvbd.jagobd.com:1931/live-orgin/boulive.stream/chunks.m3u8
 #EXTINF:-1 ,Time TV
 http://208.86.19.13:81/506.stream/index.m3u8
 #EXTINF:-1 ,ATN Bangla
@@ -199,8 +181,6 @@ http://bd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 http://bd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 ,BOISHAKHI TV
 http://bd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 ,JagoNews24 TV
-http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 ,Ekushay TV(BDIX)
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 ,RTV(Jagobd)
@@ -231,100 +211,14 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Zoom
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/enterr10.jpeg",Enterr 10
-http://103.141.2.37:25461/live/web/web/606.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/sunbangla.jpg",Sun Bangla
-http://103.141.2.37:25461/live/web/web/589.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/indepen.png",Independent
-http://103.141.2.37:25461/live/web/web/590.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/Sony_Aath.png",Sony_Aath
-http://103.141.2.37:25461/live/web/web/591.m3u8
 #EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/channeli.jpg",Channel I
 http://103.141.2.37:25461/live/web/web/595.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/maasranga.jpg",Maasranga
-http://103.141.2.37:25461/live/web/web/596.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/Zee_Bangla_Cinema.jpg",Zee_Bangla_Cinema
-http://103.141.2.37:25461/live/web/web/598.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/colore-bangla-cinema.jpg",Colore Bangla Cinema
-http://103.141.2.37:25461/live/web/web/599.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/jalsha_movies.jpg",Jalsha_Movies
-http://103.141.2.37:25461/live/web/web/600.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg",Colors Bangla
-http://103.141.2.37:25461/live/web/web/601.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg",Zee Bangla HD
-http://103.141.2.37:25461/live/web/web/602.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/starjalsha.jpg",Star Jalsha
-http://103.141.2.37:25461/live/web/web/603.m3u8
-#EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/sangeet.png",Sangeet
-http://103.141.2.37:25461/live/web/web/604.m3u8
 #EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/atntv.png",ATN TV
 http://103.141.2.37:25461/live/web/web/612.m3u8
 #EXTINF:-1 group-title="LTWS Bangla" tvg-logo="http://10.11.12.13/img/ten_sports.jpg",DIPTO TV
 http://103.141.2.37:25461/live/web/web/587.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/andpictures-hd.jpg",Pictures HD
-http://103.141.2.37:25461/live/web/web/543.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/colors-tv-hd.jpg",Colors HD
-http://103.141.2.37:25461/live/web/web/544.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/zeecinemahd.jpg",Zee Cinema HD
-http://103.141.2.37:25461/live/web/web/545.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/starplus.jpg",Star Plus
-http://103.141.2.37:25461/live/web/web/546.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/colorscineplex.jpg",Colors Cineplex
-http://103.141.2.37:25461/live/web/web/547.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/sonyen.png",Sony
-http://103.141.2.37:25461/live/web/web/551.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/sony-maxhd.jpg",Sony Max HD
-http://103.141.2.37:25461/live/web/web/552.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/zeetv.png",Zee TV
-http://103.141.2.37:25461/live/web/web/553.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/stargold.jpg",Star Gold
-http://103.141.2.37:25461/live/web/web/555.m3u8
-#EXTINF:-1 group-title="LTWS Hindi" tvg-logo="http://10.11.12.13/img/9xm.png",9XM
-http://103.141.2.37:25461/live/web/web/557.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/bbcearth.jpg",BBC EARTH
-http://103.141.2.37:25461/live/web/web/564.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/mn .jpg",MN
-http://103.141.2.37:25461/live/web/web/565.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/movies-now.jpg",Movies NOW
-http://103.141.2.37:25461/live/web/web/562.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/animalplanent.jpg",Animal Planent
-http://103.141.2.37:25461/live/web/web/566.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/dis.png",DISCOVERY
-http://103.141.2.37:25461/live/web/web/567.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/Nat_Geo_HD.png",NAT_GEO_HD
-http://103.141.2.37:25461/live/web/web/568.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/animalplanent.jpg",Animal Planet
-http://103.141.2.37:25461/live/web/web/569.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/mn+.jpg",MN+
-http://103.141.2.37:25461/live/web/web/571.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/bbcworld.jpg",BBC WORLD
-http://103.141.2.37:25461/live/web/web/573.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/mnx-hd.jpg",MNX HD
-http://103.141.2.37:25461/live/web/web/574.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/wild.png",WILD
-http://103.141.2.37:25461/live/web/web/576.m3u8
-#EXTINF:-1 group-title="LTWS English" tvg-logo="http://10.11.12.13/img/dis.png",SE | Discovery TV
-http://103.141.2.37:25461/live/web/web/540.m3u8
-#EXTINF:-1 group-title="LTWS Sports" tvg-logo="http://10.11.12.13/img/Sony-six-hd.png",Sony SIX HD
-http://103.141.2.37:25461/live/web/web/577.m3u8
-#EXTINF:-1 group-title="LTWS Sports" tvg-logo="http://10.11.12.13/img/star_sports3.jpg",Star Sports3
-http://103.141.2.37:25461/live/web/web/578.m3u8
-#EXTINF:-1 group-title="LTWS Sports" tvg-logo="http://10.11.12.13/img/Star_Sports_Select_1_HD.jpg",Star_Sports_1_HD
-http://103.141.2.37:25461/live/web/web/579.m3u8
-#EXTINF:-1 group-title="LTWS Sports" tvg-logo="http://10.11.12.13/img/sonyten3.jpg",Sony Ten3
-http://103.141.2.37:25461/live/web/web/582.m3u8
-#EXTINF:-1 group-title="LTWS Sports" tvg-logo="http://10.11.12.13/img/select2.jpg",Select2
-http://103.141.2.37:25461/live/web/web/583.m3u8
-#EXTINF:-1 group-title="LTWS Sports" tvg-logo="http://10.11.12.13/img/sony_ten_2.jpg",Sony_Ten_2
-http://103.141.2.37:25461/live/web/web/584.m3u8
-#EXTINF:-1 group-title="LTWS Sports" tvg-logo="http://10.11.12.13/img/sony_ten_1.jpg",Sony_Ten_1
-http://103.141.2.37:25461/live/web/web/585.m3u8
-#EXTINF:-1 group-title="LTWS Cartoon" tvg-logo="http://10.11.12.13/img/nick.jpg",Nick
-http://103.141.2.37:25461/live/web/web/615.m3u8
 #EXTINF:-1 group-title="LTWS Cartoon" tvg-logo="http://10.11.12.13/img/cn.png",CN
 http://103.141.2.37:25461/live/web/web/616.m3u8
-#EXTINF:-1 group-title="LTWS Others" tvg-logo="http://10.11.12.13/img/travelxphd.jpg",Travelxp HD
-http://103.141.2.37:25461/live/web/web/593.m3u8
 #EXTINF:-1 ,ZEE BANGLA HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 #EXTINF:-1 ,Star Jalsha
@@ -353,8 +247,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 ,Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 ,Channel S (1080p)
-https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 ,ATN Islamic
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 ,Wild EARTH
@@ -491,45 +383,17 @@ http://anren.live/HK/BiIOU11uLA.m3u8
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Chanel S uk
 http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 ,Sun Bangla
-http://103.141.2.37:25461/web/web/589
-#EXTINF:-1 ,Independent
-http://103.141.2.37:25461/web/web/590
-#EXTINF:-1 ,Sony_Aath
-http://103.141.2.37:25461/web/web/591
 #EXTINF:-1 ,GTV
 http://103.141.2.37:25461/web/web/592
-#EXTINF:-1 ,Travelxp HD
-http://103.141.2.37:25461/web/web/593
 #EXTINF:-1 ,Channel I
 http://103.141.2.37:25461/web/web/595
-#EXTINF:-1 ,Maasranga
-http://103.141.2.37:25461/web/web/596
-#EXTINF:-1 ,Somoy TV
-http://103.141.2.37:25461/web/web/597
-#EXTINF:-1 ,Zee_Bangla_Cinema
-http://103.141.2.37:25461/web/web/598
-#EXTINF:-1 ,Colore Bangla Cinema
-http://103.141.2.37:25461/web/web/599
-#EXTINF:-1 ,Colors Bangla
-http://103.141.2.37:25461/web/web/601
-#EXTINF:-1 ,Zee Bangla HD
-http://103.141.2.37:25461/web/web/602
-#EXTINF:-1 ,Sangeet
-http://103.141.2.37:25461/web/web/604
-#EXTINF:-1 ,Enterr 10
-http://103.141.2.37:25461/web/web/606
 #EXTINF:-1 ,ATN TV
 http://103.141.2.37:25461/web/web/612
-#EXTINF:-1 ,Nick
-http://103.141.2.37:25461/web/web/615
 #EXTINF:-1 ,ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/playlist.m3u8
 #EXTINF:-1 ,RTV
 https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,Green TV
 http://bd.jagobd.com:1931/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 ,Colors Bangla SD (1)
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=225740&extension=ts&play_token=Qz4YMDOKd2
 #EXTINF:-1 ,travel xp HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155748&extension=ts&play_token=otM0DQF4Ff
