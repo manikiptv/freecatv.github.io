@@ -21,5 +21,5 @@
 - ⚽ [**Telegram Live m3u8**](https://t.me/bdstream)
 - 🤝 [**Rss feed**](https://freecatv.blogspot.com/p/sitemap_7.html)
 - 🏏 [**BDIX FTP SERVER**](https://t.me/bdixftpiptv)
-- 🌼 [**Facebook Chat**](https://m.me/j/AbYt8TBLkyOWxtTr/)
+- 🌼 [**Facebook Group**](www.facebook.com/groups/freecatvcloud/)
 - 🌎 [**Whatsapp Group**](https://chat.whatsapp.com/H0mKsjcqR9Y9y23Y4UX5xE)
