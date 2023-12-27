@@ -77,8 +77,6 @@ http://89.187.167.94:80/live.ts?channelId=144&deviceUser=jeff1&devicePass=jeff1&
 http://89.187.167.94:80/live.ts?channelId=146&deviceUser=jeff1&devicePass=jeff1&uid=21890
 #EXTINF:-1 ,Sky Sports News.
 http://89.187.167.94:80/live.ts?channelId=150&deviceUser=jeff1&devicePass=jeff1&uid=21890
-#EXTINF:-1 ,SPORTS 18 khel
-http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,Sky Sports Golf.
 http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 ,SKY SPORTS GOLF
@@ -119,8 +117,6 @@ http://45.179.140.242:8000/play/a0k7
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 ,Sports TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,SPORTS 18 HD
-http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 ,MATH 🇷🇺
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,МАТЧ Футбол 3 HD 🇷🇺
@@ -249,8 +245,6 @@ http://95.111.193.211:8106/play/a00x/index.m3u8
 http://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b200000_t64MjM0cA==.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",Persiana Sports HD 🎾🎾🎾
 https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",AYAS SPORT
-https://af.ayas.ir/hls2/ayas3.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",SSC SPORTS 1
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",Turkmenistan Sport 🇹🇲
@@ -443,8 +437,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 ,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 ,Animal PlanetHD
-http://95.111.193.211:8106/play/a00b/index.m3u8
 #EXTINF:-1 ,Colo HD
 http://95.111.193.211:8106/play/a00j/index.m3u8
 #EXTINF:-1 ,Discovery HD
