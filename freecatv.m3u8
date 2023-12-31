@@ -43,8 +43,6 @@ http://208.86.19.13:81/509.stream/index.m3u8
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 ,আমার বাংলা
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Times TV পাকিস্তান
-http://208.86.19.13:81/513.stream/index.m3u8
 #EXTINF:-1 ,Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 ,Time TV
@@ -75,8 +73,6 @@ http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
 #EXTINF:-1 ,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 ,Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,MASTI
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Zoom
