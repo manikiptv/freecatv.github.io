@@ -25,8 +25,6 @@ http://glxlmn026c.singularcdn.net.br/playout_02/playlist-480p.m3u8
 http://312834923831628466.of1030ok.xyz:80/play/fe323808/DUyEgpSJcc/628466.ts
 #EXTINF:-1 ,ESPN DEPORTE 🇺🇸
 http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
-#EXTINF:-1 ,LIVE FREECATV
-https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/chunks.m3u8
 #EXTINF:-1 ,PTV sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 ,Star Sports
@@ -125,8 +123,6 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1 ,LIVE 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 ,LIVE 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 ,LIVE 4
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=591576&extension=ts&play_token=ZuOu1yk1WD
 #EXTINF:-1 ,ASTRO SUPER SPORTS
@@ -371,8 +367,6 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Bangla TV
-http://aanax.com:8080/live/F31513/0a3204ef/296842.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Banglavision HD
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Boishakhi TV
@@ -413,8 +407,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 group-title="English Infotainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",History TV 18
-http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 #EXTINF:-1 group-title="STAR SPORTS",STAR SPORTS 1 HINDI
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 ,Dipto TV
