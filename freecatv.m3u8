@@ -27,8 +27,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 http://175.107.244.52:4455/play/a06m/index.m3u8
 #EXTINF:-1 ,I IPTV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
-#EXTINF:-1 ,AB TV USA
-http://208.86.19.13:81/501.stream/index.m3u8
 #EXTINF:-1 ,BanglaTV USA
 http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 ,Channel S UK
@@ -185,8 +183,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 http://208.86.19.13:81/504.stream/index.m3u8?
 #EXTINF:-1 ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8?
-#EXTINF:-1 ,Discovery ALL
-https://maxspidy-1.livespidymax.repl.co/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 ,Sports 4
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 ,Sports 5
