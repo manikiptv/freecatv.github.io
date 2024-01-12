@@ -219,8 +219,6 @@ http://89.254.128.5:22280/qsport/index.m3u8
 http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",Persiana Sports HD 🎾🎾🎾
 https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",SSC SPORTS 1
-https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="VIJU SPORTS",Viju Sports
