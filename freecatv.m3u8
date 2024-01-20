@@ -127,8 +127,6 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Zee Bangla HD 2
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
-#EXTINF:-1 ,BTV
-http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 ,কুমিল্লা-টিভি
@@ -137,8 +135,6 @@ http://103.149.142.133/0.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 ,deepto
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
-#EXTINF:-1 ,Btv
-http://103.230.105.252:1935/live/btv/manifest.mpd
 #EXTINF:-1 ,MusicIndia
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 #EXTINF:-1 ,MQC TV
@@ -187,8 +183,6 @@ http://103.102.27.173/live/tvfeed1006/index.m3u8
 https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_9_0.m3u8
 #EXTINF:-1 ,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 ,BTV World
-http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 ,Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 ,MBC Bollywood
