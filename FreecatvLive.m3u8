@@ -113,20 +113,10 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
 #EXTINF:-1 ,LIVE 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 ,LIVE 4
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=591576&extension=ts&play_token=ZuOu1yk1WD
 #EXTINF:-1 ,ASTRO SUPER SPORTS
 https://mlb.mrgamingstreams.com/astro.m3u8
 #EXTINF:-1 group-title="WILLOW SPORTS",WILLOW HD
 https://hls.streambtw.com/live/stream_e1.m3u8
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET XTRA
-http://livetvbox.live:8080/live/Anne/Anne/5040.m3u8
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET
-http://livetvbox.live:8080/live/Anne/Anne/215.ts
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET.
-http://livetvbox.live:8080/live/Anne/Anne/23943.ts
-#EXTINF:-1 group-title="WILLOW SPORTS",WILLOW CRICKET XTRA
-http://livetvbox.live:8080/live/Anne/Anne/5040.ts
 #EXTINF:-1 group-title="STAR SPORTS",STAR SPORTS 1
 http://103.102.27.173/live/tvfeed1003/index.m3u8
 #EXTINF:-1 group-title="STAR SPORTS",Star Sports 2
@@ -145,14 +135,6 @@ https://edge1.laotv.la/live/Bsport1/index.m3u8
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="SPORTSMAX",SPORTSMAX
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jotm3m_a8wn4PvnOuls_kj01ieR6k1mptTR8SytfsP8kBaL1eEexUbjoBZ3yZVSuP8qyO5Y8f-RwYhL_fDw7Rg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 group-title="ASPORTS",ASPORTS HD
-http://livetvbox.live:8080/live/Anne/Anne/43444.m3u8
-#EXTINF:-1 group-title="PTVSPORTS",PTV SPORTS
-http://livetvbox.live:8080/live/Anne/Anne/89.ts
-#EXTINF:-1 group-title="PTVSPORTS",PTV SPORTS (4K)
-http://livetvbox.live:8080/live/Anne/Anne/61674.ts
-#EXTINF:-1 group-title="TENSPORTS",TEN SPORTS
-http://livetvbox.live:8080/live/Anne/Anne/98.ts
 #EXTINF:-1 group-title="TRUE SPORTS",TRUE SPORTS 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
 #EXTINF:-1 group-title="TRUE SPORTS",True Sports 2
@@ -183,16 +165,6 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 https://mlb.mrgamingstreams.com/variety3.m3u8
 #EXTINF:-1 group-title="TIGO SPORTS",TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 1 HD
-http://livetvbox.live:8080/live/Anne/Anne/154.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY Ten 2 HD
-http://livetvbox.live:8080/live/Anne/Anne/192.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY Ten 2 HD.
-http://livetvbox.live:8080/live/Anne/Anne/31314.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 3 HD
-http://livetvbox.live:8080/live/Anne/Anne/146.ts
-#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 4 (FHD)
-http://livetvbox.live:8080/live/Anne/Anne/29469.ts
 #EXTINF:-1 group-title="ASPORTS",ASPORT
 http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 group-title="DUBAI SPORTS",DUBAI SPORTS
@@ -215,8 +187,6 @@ http://iptv.prosto.tv:7000/ch117/video.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",QSPORT
 http://89.254.128.5:22280/qsport/index.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",Max Sport 3
-http://93.155.227.38:555/m3u8/webmtelsport3_web.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",Persiana Sports HD 🎾🎾🎾
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",Turkmenistan Sport 🇹🇲
@@ -313,28 +283,12 @@ http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 http://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TSPORTS",T Sports
 http://103.102.27.173/live/tvfeed1005/index.m3u8
-#EXTINF:-1 group-title="GEO SUPER",GEO SUPER
-http://livetvbox.live:8080/live/Anne/Anne/101.ts
-#EXTINF:-1 group-title="SKY SPORTS",SKY SPORTS
-http://livetvbox.live:8080/live/Anne/Anne/12.ts
-#EXTINF:-1 group-title="ASPORTS",ASPORTS HD
-http://livetvbox.live:8080/live/Anne/Anne/43444.ts
-#EXTINF:-1 group-title="FAST SPORTS",FAST SPORTS HD
-http://livetvbox.live:8080/live/Anne/Anne/87460.ts
-#EXTINF:-1 group-title="FOX SPORTS",FOX SPORTS CRICKET
-http://livetvbox.live:8080/live/Anne/Anne/1856.ts
-#EXTINF:-1 group-title="SPORTSMAX",SPORTSMAX CRICKET
-http://livetvbox.live:8080/live/Anne/Anne/142048.ts
-#EXTINF:-1 group-title="TEN CRICKET",TEN CRICKET HD
-http://livetvbox.live:8080/live/Anne/Anne/196594.ts
 #EXTINF:-1 group-title="Himel OP" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Himel OP'S IPTV
 http://1rdk.short.gy/Himel-Op-Official.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Somoy TV
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Ekhon TV
 http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",BTV HD
-http://103.230.105.252:1935/live/btv/manifest.mpd
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Nexus TV
@@ -373,8 +327,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Zee TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",& Pictutes HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 #EXTINF:-1 group-title="STAR SPORTS",STAR SPORTS 1 HINDI
