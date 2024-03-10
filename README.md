@@ -5,10 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikiptv&label=Profile%20views&color=0e75b6&style=flat" alt="manikiptv" /> </p>
 
 - 🔭 I’m currently working on [**Freecatv**](https://freecatv.blogspot.com/)
-
-
 - 💬 Ask me about **Satellite Dish**
-
-- ⚽ [**Telegram Group: Live Stream**](https://t.me/bdstream)
-
 - 🌼 [**Facebook Group**](https://www.facebook.com/groups/freecatvcloud)
+- ⚽ [**Telegram Group: Live Stream**](https://t.me/bdstream)
