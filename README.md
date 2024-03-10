@@ -9,14 +9,6 @@
 
 - 💬 Ask me about **Satellite Dish**
 
+- ⚽ [**Telegram Group: Live Stream**](https://t.me/bdstream)
 
-- 📡 [**Sports Channel Lineup**](https://freecatv.blogspot.com/search/label/Sports?max-results=10)
-- ⚽ [**Telegram Live m3u8**](https://t.me/bdstream)
-- 🤝 [**Rss feed**](https://freecatv.blogspot.com/p/sitemap_7.html)
-- 🏏 [**BDIX FTP SERVER**](https://t.me/bdixftpiptv)
 - 🌼 [**Facebook Group**](https://www.facebook.com/groups/freecatvcloud)
-- 🌎 [**Whatsapp Group**](https://chat.whatsapp.com/H0mKsjcqR9Y9y23Y4UX5xE)
-
-
-<h1 align="center">Hi 😊, I'm Md Manik</h1>
-<h4 align="center">📺 Looking for the best IPTV experience? Explore our curated collection of premium m3u8 playlists! Enjoy seamless streaming of your favorite channels, movies, and shows with our carefully selected content. Discover unparalleled variety and quality for your entertainment needs. Get started now and elevate your viewing experience with the best IPTV m3u8 playlists available!</h4>
