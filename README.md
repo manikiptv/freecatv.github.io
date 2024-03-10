@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 😊, I'm Md Manik</h1>
-<h3 align="center">I am cable operator 📡 Trying to improve IPTV m3u</h3>
+<h3 align="center">📺 Looking for the best IPTV experience? Explore our curated collection of premium m3u8 playlists! Enjoy seamless streaming of your favorite channels, movies, and shows with our carefully selected content. Discover unparalleled variety and quality for your entertainment needs. Get started now and elevate your viewing experience with the best IPTV m3u8 playlists available!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikiptv&label=Profile%20views&color=0e75b6&style=flat" alt="manikiptv" /> </p>
 
@@ -23,8 +23,3 @@
 - 🏏 [**BDIX FTP SERVER**](https://t.me/bdixftpiptv)
 - 🌼 [**Facebook Group**](https://www.facebook.com/groups/freecatvcloud)
 - 🌎 [**Whatsapp Group**](https://chat.whatsapp.com/H0mKsjcqR9Y9y23Y4UX5xE)
-
-
-
-
-📺 Looking for the best IPTV experience? Explore our curated collection of premium m3u8 playlists! Enjoy seamless streaming of your favorite channels, movies, and shows with our carefully selected content. Discover unparalleled variety and quality for your entertainment needs. Get started now and elevate your viewing experience with the best IPTV m3u8 playlists available!
