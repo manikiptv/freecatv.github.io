@@ -95,8 +95,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1 ,Star India
 http://103.120.172.74:1060
-#EXTINF:-1 ,Star sports1
-http://103.120.172.74:4100
 #EXTINF:-1 ,MTV
 http://103.120.172.74:4400
 #EXTINF:-1 ,Star Gold
@@ -231,8 +229,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 http://103.120.172.74:1040
 #EXTINF:-1 ,Star India
 http://103.120.172.74:5200
-#EXTINF:-1 ,Sony Sport5
-http://103.120.172.74:5300
 #EXTINF:-1 ,Sony Sport1
 http://103.120.172.74:5400
 #EXTINF:-1 ,NDTV
@@ -311,8 +307,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
 #EXTINF:-1 ,Eekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,NANDAN TV
-http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 ,MTV BEETS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
 #EXTINF:-1 ,Sony Sports 1 HD
@@ -699,8 +693,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_2
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
 #EXTINF:-1 ,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 ,Arabica Music
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 ,Azstar TV
 http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 ,California Music Channel
@@ -719,8 +711,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 ,IBC Isai
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Kerrang!
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 #EXTINF:-1 ,Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 ,Local Now Music
@@ -751,8 +741,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 ,Spinnin'TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1 ,The Box
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 ,TMA
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 ,Trace Urban
@@ -791,8 +779,6 @@ https://hls.streambtw.com/live/stream_psl.m3u8
 https://racingamerica-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Real Madrid TV
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Real Madrid TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 ,SonyLIV
 https://dai.google.com/linear/hls/event/FWf8sA8dTwCRjczTV9uy-A/master.m3u8
 #EXTINF:-1 ,Sony Ten 1
@@ -803,8 +789,6 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 https://sportsgrid-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Sports Grid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Star Sports 2 HD
-http://103.120.172.74:4200
 #EXTINF:-1 ,Star Sports Select 1 HD
 http://103.120.172.74:1030
 #EXTINF:-1 ,Ten Sports HD
@@ -1037,8 +1021,6 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
 http://103.107.79.87:8080/CH8108SD07/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Zee_Aflam_logo.png",Zee Aflam
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET
 http://103.107.79.87:8080/CH8108SD04/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/V3Zhf2t/IMG-20240126-093241.png",Sony MAX HD
@@ -1063,8 +1045,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 #EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/CnDpM2P/IMG-20240126-094113.png",Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/CWRz61c/IMG-20240320-115301.jpg",ATN MUSIC
-https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/QJzQj9d/IMG-20240126-095026.jpg",Colosal TV
 https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/5FJfSbz/IMG-20240126-122137.png",V2BEAT TV
@@ -1095,8 +1075,6 @@ https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/Mkc13dg/IMG-20240223-091838.jpg",AMAR BANGLA
 https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/FXC13pc/IMG-20240320-113532.png",Colors Bangla Cinema
-http://103.107.79.87:8080/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="freecatv",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 ,Ekushey TV
