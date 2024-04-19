@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,BDIX Sky
+#EXTINF:-1 ,GitHub Manik
 https://drive.google.com/uc?export=download&id=1Y3Mi3xv4OvEMzLwqYSTu3OoftzGr5PP_
-#EXTINF:-1 ,BDIX Sky
-https://drive.google.com/uc?export=download&id=19dpmNfr1FleNDPFMdYql2HrwXDt632cp
 #EXTINF:-1 ,SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,EKUSHEY TV
@@ -97,8 +95,6 @@ http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 http://103.120.172.74:1060
 #EXTINF:-1 ,MTV
 http://103.120.172.74:4400
-#EXTINF:-1 ,Star Gold
-http://103.120.172.74:5000
 #EXTINF:-1 ,Star Bharat(BD)
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 ,B4U Movies IN(BD)
@@ -113,8 +109,6 @@ http://195.26.87.217/live.ts?channelId=201&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 ,HBO(BD)
 http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 ,Sony Max 2(BD)
-http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 ,DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 ,NDTV 24x7
@@ -373,8 +367,6 @@ https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 ,5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 ,Channel I
-http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 ,RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 ,ABP Ananda
@@ -505,8 +497,6 @@ http://195.26.87.217/live.ts?channelId=392&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=396&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 ,Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 ,Dunya News
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
 #EXTINF:-1 ,Geo Entertainment
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 ,Hadi TV English and Urdu
@@ -621,8 +611,6 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://moviesphere-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MovieSphere US
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Mystery Science Theater 3000
-https://mst3k-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MyTime Movie Network UK
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MyTime Movie Network USA
@@ -833,8 +821,6 @@ https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlis
 https://dx475k80omgk3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pw99oafctey65/playlist.m3u8
 #EXTINF:-1 ,All Weddings
 https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-#EXTINF:-1 ,BBC Earth
-http://94.250.2.6:10600/play/7cgV608bN1
 #EXTINF:-1 ,Bloody Disgusting
 https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Bloomberg Originals [SamsungTVPlus]
@@ -995,8 +981,6 @@ https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/qM59dhq/IMG-20240320-113834.jpg",Alpha Tv Canada
 https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/WP3KHjZ/IMG-20240320-114453.jpg",AB TV
-https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png",MOVIE BANGLA
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/JF1GGPH/IMG-20240126-091704.png",NAN TV
@@ -1051,8 +1035,6 @@ https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/v2beattv.stream/chunks.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg",DURONTO TV
 http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png",Peace Tv Bangla
-http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg",DEEN TV
 https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg",IQRA BANGLA
@@ -1069,8 +1051,6 @@ http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/KbB098T/IMG-20240126-112549.png",Sun Bangla
 http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
-https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/9cfcKcP/IMG-20240126-113721.png",Jalsha Movies
 http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/Mkc13dg/IMG-20240223-091838.jpg",AMAR BANGLA
@@ -1081,8 +1061,6 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Peace TV English HD
 http://175.107.244.52:4455/play/a06m/index.m3u8
-#EXTINF:-1 ,BanglaTV USA
-http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1 ,IBTV USA
 http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:-1 ,আমার বাংলা
@@ -1093,8 +1071,6 @@ http://208.86.19.13:81/506.stream/index.m3u8
 http://175.107.244.52:4455/play/a06n/index.m3u8
 #EXTINF:-1 ,Iqra Bangla
 http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,BANGLAVISION
 http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 ,BOISHAKHI TV
@@ -1103,8 +1079,6 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
 http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 ,Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,MQC TV
-http://208.86.19.13:81/517.stream/index.m3u8
 #EXTINF:-1 ,akhon tv
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
 #EXTINF:-1 ,IQRA BANGLA
@@ -1115,5 +1089,3 @@ http://208.86.19.13:81/509.stream/index.m3u8?
 https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Ekushe TV Ch-1
 http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,BANGLA TV
-http://208.86.19.13:81/504.stream/index.m3u8?
