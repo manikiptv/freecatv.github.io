@@ -6,5 +6,5 @@
 
 
 - 🌼 [**Facebook Group**](https://www.facebook.com/groups/freecatvcloud)
-- ⚽ [**Telegram Group: Live Stream**](https://t.me/bdstream)
+- ⚽ [**Telegram Group: Live Stream**](https://t.me/manikcable)
 - 🔭 I’m currently working on [**Freecatv**](https://freecatv.blogspot.com/)
