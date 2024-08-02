@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,TNPL Live Cricket
+#EXTINF:-1 ,TNPL Cricket
 https://dai.google.com/ssai/event/bjLViMzlQ4qhAtC6NdzFOQ/master.m3u8
+#EXTINF:-1 ,INDIA VS SRILANKA
+https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
