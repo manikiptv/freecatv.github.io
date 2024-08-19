@@ -1,173 +1,77 @@
-<h2>NDIA VS ZIMBABWE 1ST ODI 2024 LIVE</h2>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>STREAM</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="description" content="ENJOY FREE LIVE IPTV M3U8">
-<meta name="keywords" content="Watch live sports streaming online, including football, basketball, baseball, 
-hockey, and more. Stream your favorite sports teams and events in HD, with no cable subscription required.">
-<meta name="author" content="MD Manik">
-<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css" />
-<script src="https://cdn.jsdelivr.net/npm/plyr@3.6.12/dist/plyr.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
-<style>
-        html {
-            font-family: Poppins;
-            background: #000;
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Live stream player for M3U8 playlists">
+    <title>Live Stream Player</title>
+    <link rel="icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
+    <style>
+        body {
             margin: 0;
-            padding: 0
+            padding: 0;
+            background-color: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+
+        video {
+            max-width: 100%;
+            max-height: 100%;
         }
 
         .loading {
-            position: fixed;
+            position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background: #000;
-            z-index: 9999;
-        }
-
-        .loading-text {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            margin: auto;
-            text-align: center;
-            width: 100%;
-            height: 100px;
-            line-height: 100px;
-        }
-
-        .loading-text span {
-            display: inline-block;
-            margin: 0 5px;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
             color: #00b3ff;
-            font-family: 'Quattrocento Sans', sans-serif;
-        }
-
-        .loading-text span:nth-child(1) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 0s infinite linear alternate;
-        }
-
-        .loading-text span:nth-child(2) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 0.2s infinite linear alternate;
-        }
-
-        .loading-text span:nth-child(3) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 0.4s infinite linear alternate;
-        }
-
-        .loading-text span:nth-child(4) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 0.6s infinite linear alternate;
-        }
-
-        .loading-text span:nth-child(5) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 0.8s infinite linear alternate;
-        }
-
-        .loading-text span:nth-child(6) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 1s infinite linear alternate;
-        }
-
-        .loading-text span:nth-child(7) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 1.2s infinite linear alternate;
-        }
-
-        .loading-text span:nth-child(8) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 1.4s infinite linear alternate;
-        }
-        
-        .loading-text span:nth-child(9) {
-            filter: blur(0px);
-            animation: blur-text 1.5s 1.6s infinite linear alternate;
-        }
-        @keyframes blur-text {
-            0% {
-                filter: blur(0px);
-            }
-
-            100% {
-                filter: blur(4px);
-            }
-        }
-
-        .plyr__video-wrapper::after {
-            position: absolute;
-            top: 15px;
-            left: 15px;
-            z-index: 10;
-            content: '';
-            height: 35px;
-            width: 35px;
-            background: no-repeat;
-            background-size: 40px, auto, auto;
+            font-size: 24px;
         }
     </style>
+</head>
 <body>
-<div id="loading" class="loading">
-<div class="loading-text">
-<span class="loading-text-words">F</span>
-<span class="loading-text-words">R</span>
-<span class="loading-text-words">E</span>
-<span class="loading-text-words">E</span>
-<span class="loading-text-words">C</span>
-<span class="loading-text-words">A</span>
-<span class="loading-text-words">T</span>
-<span class="loading-text-words">V</span>
-</div>
-</div>
-<video autoplay controls crossorigin playsinline>
-<source type="application/vnd.apple.mpegurl" src="https://myclog.hls-video.net/live/m5-index.m3u8"> </video>
- </video>
-</body>
-<script>
-    setTimeout(videovisible, 3000)
+    <div id="loading" class="loading">Loading...</div>
+    <video id="player" autoplay controls crossorigin playsinline>
+        <!-- The M3U8 source will be dynamically added by JavaScript -->
+    </video>
 
-    function videovisible() {
-        document.getElementById('loading').style.display = 'none'
-    }
-    document.addEventListener("DOMContentLoaded", () => {
-        const e = document.querySelector("video"),
-            n = e.getElementsByTagName("source")[0].src,
-            o = {};
-        if (Hls.isSupported()) {
-            var config = {
-                maxMaxBufferLength: 100,
-            };
-            const t = new Hls(config);
-            t.loadSource(n), t.on(Hls.Events.MANIFEST_PARSED, function(n, l) {
-                const s = t.levels.map(e => e.height);
-                o.quality = {
-                    default: s[0],
-                    options: s,
-                    forced: !0,
-                    onChange: e => (function(e) {
-                        window.hls.levels.forEach((n, o) => {
-                            n.height === e && (window.hls.currentLevel = o)
-                        })
-                    })(e)
-                };
-                new Plyr(e, o)
-            }), t.attachMedia(e), window.hls = t
-        } else {
-            new Plyr(e, o)
-        }
-    });
-</script>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@1.1.4/dist/hls.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const video = document.getElementById('player');
+            const loading = document.getElementById('loading');
+            const m3u8Url = 'https://your-streaming-url.m3u8'; // Replace with your M3U8 URL
+
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(m3u8Url);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    video.play();
+                });
+                hls.on(Hls.Events.ERROR, (event, data) => {
+                    if (data.fatal) {
+                        console.error('HLS error:', data.fatal);
+                    }
+                });
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = m3u8Url;
+            }
+
+            video.addEventListener('loadeddata', () => {
+                loading.style.display = 'none';
+            });
+        });
+    </script>
 </body>
 </html>
