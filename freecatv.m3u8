@@ -1,36 +1,70 @@
 #EXTM3U
 #EXTINF:-1 ,T10 A sports Live
 https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
-#EXTINF:-1,Ufc~
+#EXTINF:-1 ,Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 ,PTV Sports
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 ,A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 ,Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#EXTINF:-1 ,RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 ,Ten Sports PK
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 ,Bein Sports 1
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+#EXTINF:-1 ,Bein Sports 2
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1 ,MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 ,MU TV
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 ,Sports 18-HD
+https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
+#EXTINF:-1 ,TnT Sports 2 🇧🇩
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
+#EXTINF:-1 ,TnT Sports 3
+https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103148.m3u8
+#EXTINF:-1 ,Fast-Studios-Womens-Sports
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
+#EXTINF:-1 ,GXR WORLD 🇮🇳
+https://s@d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
+#EXTINF:-1 ,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Live Sports Football Laliga
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
+#EXTINF:-1 ,TYC Sports Play
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1 ,BeiN Sports Extra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 ,Ufc~
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/134
-#EXTINF:-1,Band~ sports 4kk
+#EXTINF:-1 ,Band~ sports 4kk
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/23
-#EXTINF:-1,Espn~ hd
+#EXTINF:-1 ,Espn~ hd
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
 #EXTINF:-1 ,ESPN~ 4
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143
 #EXTINF:-1 ,Premiere~ 2 hd
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/4
-#EXTINF:-1,Premiere~ 3 hd
+#EXTINF:-1 ,Premiere~ 3 hd
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/6
-#EXTINF:-1,PREMIERE~ 5
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/178
-#EXTINF:-1,PREMIERE~ 6
+#EXTINF:-1 ,PREMIERE~ 6
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/179
-#EXTINF:-1,Sportv~ 1 HD
+#EXTINF:-1 ,Sportv~ 1 HD
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
-#EXTINF:-1,Sportv~ 2 HD
+#EXTINF:-1 ,Sportv~ 2 HD
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
-#EXTINF:-1,Sportv~ 3 HD
+#EXTINF:-1 ,Sportv~ 3 HD
 http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
-#EXTINF:-1,SPORTV HD
+#EXTINF:-1 ,SPORTV HD
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/101739
 #EXTINF:-1 ,GXR WORLD 🇮🇳
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 #EXTINF:-1 ,GXR WORLD 🇮🇳
 https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
-#EXTINF:-1 ,GXR WORLD 🇮🇳
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 #EXTINF:-1 ,GXR WORLD 🇮🇳
 https://s@db7g5t2s3y0c9.cloudfront.net:443/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
 #EXTINF:-1 ,GXR WORLD 🇮🇳
@@ -41,11 +75,7 @@ https://s@dz6knuujo9z7i.cloudfront.net:443/out/v1/a54d9b3234aa4b61a2d1f475bfad6a
 https://s@d2yxu0gr4ksneg.cloudfront.net:443/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
 #EXTINF:-1 ,GXR WORLD 🇮🇳
 https://s@d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc/index_7.m3u8
-#EXTINF:-1,Sony LIV UCL 1
-https://dai.google.com/ssai/event/wchc-yRfS6Oq1EK97fcrIg/master.m3u8
-#EXTINF:-1,Sony LIV UCL 2
-https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:-1,Ten Sports 2 HD
+#EXTINF:-1 ,Ten Sports 2 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 #EXTINF:-1 ,МАТЧ! Футбол2 🇷🇺
 http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
@@ -66,19 +96,13 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 ,Turkmenistan Sport 🇹🇲
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 ,S SPORT 1 🇹🇷
-http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga20b706Se0tOyCMqB5MNBVU/ts
-#EXTINF:-1 ,S SPORT 1 🇹🇷
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8
 #EXTINF:-1 ,S SPORT 1 🇹🇷
 https://cdn.srectv1.xyz/live/ss1/index.m3u8
 #EXTINF:-1 ,S SPORT 1 🇹🇷
 https://cdn.srectv1.xyz/live/ss1/index.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
 #EXTINF:-1 ,S SPORT 2 🇹🇷
-https://lives.anystreamrectv3.live/live/ssport2.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
-#EXTINF:-1 ,S SPORT 2 🇹🇷
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8
-#EXTINF:-1 ,S SPORT 2 🇹🇷
-http://tvs.lol:8080/play/WNlrFYAKGYvNLo3JwNIga_z7kiW9ZWXvoaQ8MZ3rRbw/ts
 #EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
@@ -91,8 +115,6 @@ http://181.78.105.146:8800/play/a07h
 http://176.65.146.108:8022/play/a07t/index.m3u8
 #EXTINF:-1 ,SPORTV2 🇵🇹
 http://176.65.146.108:8022/play/a06i/index.m3u8
-#EXTINF:-1 ,Bien sport 1 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 ,Bein Sports 1 🇬🇧
 http://kstv.us/live/jgarcia31/224178522/12554.m3u8
 #EXTINF:-1 ,Bein Sports 🇬🇧
@@ -155,8 +177,6 @@ http://hzcdn.vood.top:80/hls/309458_.m3u8
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/93
 #EXTINF:-1 ,Fox Sports 3 🇦🇷
 http://streamsy.online:2999/korrigan17/25AUFBdqOi/100
-#EXTINF:-1 ,TYC Sports Play 🇦🇷
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:-1 ,TELECOSTA GUATEMALA 🇬🇹
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 ,TIGO SPORTS 🇨🇷
@@ -183,8 +203,6 @@ https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://212.102.60.10/FOX_Sports_1/index.m3u8
 #EXTINF:-1 ,FS 1 SPORT 🇺🇸
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 ,SPORT NETWORK 🇺🇸
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 #EXTINF:-1 ,NOVA Sport 1 🇨🇿
 http://78.130.250.2:8023/play/a009/index.m3u8
 #EXTINF:-1 ,NOVA Sport 1 🇨🇿
@@ -249,16 +267,6 @@ https://s@d1yz7zmm8mka3t.cloudfront.net:443/out/v1/cad8af14714e4affa48e07d2f48eb
 https://s@dx12yig2oz0vp.cloudfront.net:443/out/v1/48bb590edb2f4bcd91e0ab46950bf94a/index_5.m3u8
 #EXTINF:-1 ,SPORT 18 (3) 🇮🇳
 http://15.235.181.35/live.ts?channelId=132374&uid=14505&deviceMac=00:1A:79:A7:53:75&id=18sports3
-#EXTINF:-1 ,ARY Sports 🇮🇳
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 ,GEO SUPER 🇮🇳
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-#EXTINF:-1 ,PTV SPORT 🇮🇳
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 ,TEN SPORTS LIVE 🇮🇳
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 ,STAR SPORTS 1 🇮🇳
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 ,SPOTV 🇲🇾
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 ,SPOTV 2 🇲🇾
@@ -267,8 +275,6 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 ,NOW SPORT 1 🇭🇰
 http://manik@15.235.181.35/live.ts?channelId=129136&uid=14505&deviceMac=00:1A:79:A7:53:75&id=nowprem1
-#EXTINF:-1 ,RTA SPORT 🇸🇦
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 ,Sport A 🇨🇳
 http://37.27.111.214:8080/live/13/hls.m3u8
 #EXTINF:-1 ,Sport B 🇨🇳
