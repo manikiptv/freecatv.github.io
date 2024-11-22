@@ -23,8 +23,6 @@ http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
 https://zylotech.xyz/live/1/chunks.m3u8?bongls.com
 #EXTINF:-1 ,S LALIGA 🇿🇦
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/125442.ts
-#EXTINF:-1 ,Bien sport 3 🇶🇦
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/901
 #EXTINF:-1 ,Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1 ,ESPN DEPORTES 🇺🇸
@@ -63,8 +61,6 @@ http://181.78.105.146:8800/play/a07h
 http://176.65.146.108:8022/play/a07t/index.m3u8
 #EXTINF:-1 ,SPORTV2 🇵🇹
 http://176.65.146.108:8022/play/a06i/index.m3u8
-#EXTINF:-1 ,SPORTV3 🇵🇹
-http://176.65.146.108:8022/play/a06j/index.m3u8
 #EXTINF:-1 ,Bien sport 1 🇶🇦
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 ,Bein Sports 1 🇬🇧
@@ -81,8 +77,6 @@ http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
 #EXTINF:-1 ,Футбол 1 HD 🇷🇺
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 ,Футбол 1 HD 🇷🇺
-http://88.85.172.243:7002/play/a02j
 #EXTINF:-1 ,Футбол 1 HD 🇷🇺
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 #EXTINF:-1 ,Матч! Футбол 3 HD 🇷🇺
