@@ -5,6 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikiptv&label=Profile%20views&color=0e75b6&style=flat" alt="manikiptv" /> </p>
 
 
-- 🌼 [**Facebook Group**](https://www.facebook.com/groups/freecatvcloud)
+- 🌼 [**Facebook Group**](https://www.facebook.com/groups/nexttech)
 - ⚽ [**Telegram Group: Live Stream**](https://t.me/manikcable)
 - 🔭 I’m currently working on [**Freecatv**](https://freecatv.blogspot.com/)
