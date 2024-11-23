@@ -21,8 +21,6 @@ http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 ,MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 ,Sports 18-HD
-https://cdn-bd.televisionbd.com/Sports18-Hd/index.fmp4.m3u8
 #EXTINF:-1 ,TnT Sports 2 🇧🇩
 https://line.4k-beast.co/live/c0:23:8d:96:15:22/44D11F/103145.m3u8
 #EXTINF:-1 ,TnT Sports 3
@@ -97,10 +95,6 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 ,S SPORT 1 🇹🇷
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19070/index.m3u8
-#EXTINF:-1 ,S SPORT 1 🇹🇷
-https://cdn.srectv1.xyz/live/ss1/index.m3u8
-#EXTINF:-1 ,S SPORT 1 🇹🇷
-https://cdn.srectv1.xyz/live/ss1/index.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
 #EXTINF:-1 ,S SPORT 2 🇹🇷
 http://umka625.megogo.xyz/iptv/Z463DXTQ5XKBFL/19071/index.m3u8
 #EXTINF:-1 ,SKY SPORTS LALIGA 🇲🇽
@@ -133,8 +127,6 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
 #EXTINF:-1 ,Матч! Футбол 3 HD 🇷🇺
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 ,Матч! Футбол 3 HD 🇷🇺
-http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
 #EXTINF:-1 ,Fast Sports 🇦🇲
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1 ,Setanta Sports 1 🇷🇺
@@ -295,8 +287,6 @@ http://www.teledunet.com:8080/tdn/tdn/456489.m3u8
 http://kstv.us:8080/live/jgarcia31/224178522/48445.m3u8
 #EXTINF:-1 ,S CHAMPIONS 🇿🇦
 https://cloudserve.world/live/stream_6.m3u8
-#EXTINF:-1 ,TABİİ SPOR 🇹🇷
-https://cdn.srectv1.xyz/live/tabi/index.m3u8?token=YY5iXtl8tSBgvyFszg4f7Q&tms=1729240670
 #EXTINF:-1 ,LIVE 1 🇪🇺
 https://cheapmdhal.lol/live/1/chunks.m3u8?bongls.com
 #EXTINF:-1 ,LIVE 2 🇪🇺
@@ -328,13 +318,7 @@ https://helga.iptv2022.com/sh/trt_1/index.m3u8
 #EXTINF:-1 ,Sony Ten 1 HD 🇮🇳
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 ,ESPN PREMIUM 🇦🇷
-http://45.71.254.1:8000/play/a06m/index.m3u8
-#EXTINF:-1 ,ESPN PREMIUM 🇦🇷
 http://190.102.246.93:9005/play/a00x
-#EXTINF:-1 ,ESPN PREMIUM 🇦🇷
-http://45.71.254.1:8000/play/a09j/index.m3u8
-#EXTINF:-1 ,ESPN 2 🇨🇴
-http://45.71.254.1:8000/play/a0ep/index.m3u8
 #EXTINF:-1 ,ESPN 2 🇨🇴
 http://190.102.246.93:9005/play/a029
 #EXTINF:-1 ,ESPN 3 🇨🇴
@@ -343,10 +327,6 @@ http://190.102.246.93:9005/play/a02l
 http://190.102.246.93:9005/play/a019
 #EXTINF:-1 ,ESPN 6 🇨🇴
 http://190.102.246.93:9005/play/a02m
-#EXTINF:-1 ,ESPN 1 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e6/index.m3u8
-#EXTINF:-1 ,ESPN 2 NORTE 🇩🇴
-http://45.71.254.1:8000/play/a0e7/index.m3u8
 #EXTINF:-1 ,FOX SPORT 🇦🇷
 http://181.78.27.128:8000/play/a062/index.m3u8
 #EXTINF:-1 ,CBS SPORT 🇺🇸
@@ -357,18 +337,6 @@ http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
 http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
 #EXTINF:-1 ,TNT SPORT 3 🇬🇧
 http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
-#EXTINF:-1 ,ESPN 🇨🇱
-http://45.71.254.1:8000/play/a06k/index.m3u8
-#EXTINF:-1 ,ESPN 🇨🇴
-http://45.71.254.1:8000/play/a012/index.m3u8
-#EXTINF:-1 ,ESPN 🇨🇴
-http://45.71.254.1:8000/play/a05z/index.m3u8
-#EXTINF:-1 ,ESPN 🇨🇱
-http://45.71.254.1:8000/play/a04e/index.m3u8
-#EXTINF:-1 ,ESPN 🇦🇷
-http://45.71.254.1:8000/play/a038/index.m3u8
-#EXTINF:-1 ,ESPN 🇦🇷
-http://45.71.254.1:8000/play/a01r/index.m3u8
 #EXTINF:-1 ,ESPN 🇦🇷
 http://168.227.131.66:8000/play/tfc0/index.m3u8
 #EXTINF:-1 ,Real Madrid TV 🇪🇸
